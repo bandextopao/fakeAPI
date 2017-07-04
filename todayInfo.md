@@ -8,15 +8,6 @@
 ➤ `Pudim delicado`
 ➤ Minipão, refresco
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango assado*
-➤ Opção: Cenoura com molho branco
-➤ *Berinjela à grega*
-➤ Salada de almeirão
-➤ *Banana*
-➤ Minipão, refresco
-
 *#================Física (Almoço)=================#*
 ➤ O Restaurante da Física ficará fechado 
 ➤ *no período de 29, 06, 2017 a 30, 07, 2017, *
@@ -30,6 +21,15 @@
 ➤ Salada de tomate
 ➤ *Curau*
 ➤ Minipão, refresco
+
+*#================Central (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Frango assado*
+➤ Opção: Cenoura com molho branco
+➤ *Berinjela à grega*
+➤ Salada de almeirão
+➤ *Banana*
+➤ Minipão, refresco
 %
 
 *#================Química (Jantar)================#*
@@ -41,6 +41,12 @@
 ➤ *Banana  *
 ➤ Minipão, refresco
 
+*#================Física (Jantar)=================#*
+Fechado
+
+*#==============Prefeitura (Jantar)===============#*
+Fechado
+
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
 ➤ *Cupim com molho roti*
@@ -49,9 +55,3 @@
 ➤ Salada de agrião
 ➤ *Goiabada*
 ➤ Minipão, refresco
-
-*#================Física (Jantar)=================#*
-Fechado
-
-*#==============Prefeitura (Jantar)===============#*
-Fechado
