@@ -1,20 +1,11 @@
 
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral 
-➤ *Carne moída à Primavera*
-➤ Opção: PVT à madalena
-➤ *Abobrinha acebolada*
-➤ Salada de escarola
-➤ *Maçã*
-➤ Minipão, refresco
-
 *#================Química (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Lagarto assado com molho roti  *
-➤ Opção: Lasanha de PVT  
-➤ *Chuchu refogado*
-➤ Salada de alface
-➤ *Mexerica  *
+➤ Arroz, feijão, arroz integral
+➤ *Frango xadrez*
+➤ Opção: Xadrez de PVT   
+➤ *Escarola refogada*
+➤ Salada de pepino com tomate  
+➤ *Curau*
 ➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
@@ -22,36 +13,45 @@
 ➤ *no período de 29, 06, 2017 a 30, 07, 2017, *
 ➤ em virtude das férias coletivas dos funcionários
 
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão, arroz integral 
+➤ *Filé de frango com molho ferrugem*
+➤ Opção: PVT com espinafre
+➤ *Cenoura com alho poró*
+➤ Salada de rúcula
+➤ `Doce de Banana`
+➤ Minipão, refresco
+
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Carne moída à fantasia`
-➤ Opção: PVT com vinagrete
-➤ `Mandioca sauté`
-➤ Salada de alface
-➤ *Gelatina*
+➤ *Filé de tilápia à baiana*
+➤ Opção: PVT com espinafre
+➤ *Pirão de legumes*
+➤ Salada de escarola
+➤ *Laranja*
 ➤ Minipão, refresco
 %
 
-*#==============Prefeitura (Jantar)===============#*
-Fechado
-
 *#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Quibe de assadeira*
-➤ Opção: Quibe de PVT  
-➤ *Legumes sauté*
-➤ Salada mix de folhas
-➤ `Doce de leite`
+➤ *Peixe no fubá*
+➤ Opção: PVT com champignon  
+➤ *Brócolis ao alho*
+➤ Salada de alface americana   
+➤ *Maçã *
 ➤ Minipão, refresco
 
 *#================Física (Jantar)=================#*
 Fechado
 
+*#==============Prefeitura (Jantar)===============#*
+Fechado
+
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango xadrez*
-➤ Opção: PVT xadrez
-➤ *Acelga à provençal*
-➤ Salada de tomate
-➤ *Maçã*
+➤ *Bife de contrafilé acebolado*
+➤ Opção: PVT com batata
+➤ *Chuchu refogado*
+➤ Salada de alface
+➤ `Doce de abóbora`
 ➤ Minipão, refresco
