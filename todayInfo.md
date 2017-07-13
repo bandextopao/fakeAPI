@@ -1,57 +1,57 @@
 
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral
-➤ `Estrogonofe de frango`
-➤ Opção: Estrogonofe de PVT
-➤ `Batata sauté`
-➤ Salada de escarola
-➤ *Espumone de gelatina*
-➤ Minipão, refresco
-
 *#================Química (Almoço)================#*
-➤ Arroz ,  Feijão Preto ,  Arroz Integral
-➤ *Carne assada ao molho de ervas  *
-➤ Opção: PVT com cogumelos  
-➤ *Legumes sautê *
-➤ Salada de escarola   
-➤ `Sorvete`
-➤ Mini pão, Refresco
-
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango assado*
-➤ PVT com vagem
-➤ *Polenta cremosa*
-➤ Salada de acelga
-➤ *Maçã*
-➤ Minipão, refresco
+➤ Arroz ,  Feijão Carioca ,  Arroz Integral
+➤ *Filé de frango ao molho mostarda *
+➤ Opção: Almôndega de PVT    
+➤ `Polenta com queijo`
+➤ Salada de almeirão  
+➤ *Maçã    *
+➤ Mini pão, Refresco  
 
 *#================Física (Almoço)=================#*
 ➤ O Restaurante da Física ficará fechado 
 ➤ *no período de 29, 06, 2017 a 30, 07, 2017, *
 ➤ em virtude das férias coletivas dos funcionários
-%
 
-*#==============Prefeitura (Jantar)===============#*
-Fechado
+*#================Central (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Carne picada com molho campana*
+➤ Torta de PVT
+➤ *Chuchu com salsinha*
+➤ Salada de almeirão
+➤ *Bananada*
+➤ Minipão, refresco
+
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Copa lombo com molho cítrico*
+➤ Opção: PVT colorido
+➤ *Quibebe*
+➤ Salada de agrião
+➤ *Melancia*
+➤ Minipão, refresco
+%
 
 *#================Química (Jantar)================#*
 ➤ Arroz ,  Feijão Carioca ,  Arroz Integral
-➤ *Frango assado *
-➤ Opção: PVT com azeitonas   
-➤ `Macarrão ao sugo`
-➤ Salada de alface americana 
-➤ *Melão   *
-➤ Mini pão, Refresco
+➤ *Bife grelhado ao molho roty *
+➤ Opção: PVT ao vinagrete   
+➤ *Berinjela ao forno *
+➤ Salada de repolho    
+➤ `Flan de chocolate`
+➤ Mini pão, Refresco  
+
+*#================Física (Jantar)=================#*
+Fechado
 
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Lagarto assado com molho madeira`
-➤ PVT com cenoura
-➤ *Escarola ao alho*
-➤ Salada de beterraba
-➤ `Pudim`
+➤ *Filé de tilápia com molho escabeche*
+➤ PVT com couve-flor
+➤ `Mandioca sauté`
+➤ Salada de alface
+➤ *Mexerica*
 ➤ Minipão, refresco
 
-*#================Física (Jantar)=================#*
+*#==============Prefeitura (Jantar)===============#*
 Fechado
