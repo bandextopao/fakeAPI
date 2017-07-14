@@ -1,57 +1,56 @@
 
 *#================Química (Almoço)================#*
 ➤ Arroz ,  Feijão Carioca ,  Arroz Integral
-➤ *Filé de frango ao molho mostarda *
-➤ Opção: Almôndega de PVT    
-➤ `Polenta com queijo`
-➤ Salada de almeirão  
-➤ *Maçã    *
+➤ *Carne cozida com legumes*
+➤ Opção: PVT gratinado    
+➤ *Brócolis ao alho *
+➤ Salada de alface    
+➤ *Gelatina  *
 ➤ Mini pão, Refresco  
+
+*#================Central (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Fricassê de frango*
+➤ PVT com mandioquinha
+➤ *Abobrinha refogada*
+➤ Salada de escarola
+➤ *Laranja*
+➤ Minipão, refresco
+
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão, arroz integral
+➤ `Escondidinho de carne moída`
+➤ Opção: Escondidinho de PVT
+➤ *Legumes com alecrim*
+➤ Salada de chicória
+➤ *Laranja*
 
 *#================Física (Almoço)=================#*
 ➤ O Restaurante da Física ficará fechado 
 ➤ *no período de 29, 06, 2017 a 30, 07, 2017, *
 ➤ em virtude das férias coletivas dos funcionários
-
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne picada com molho campana*
-➤ Torta de PVT
-➤ *Chuchu com salsinha*
-➤ Salada de almeirão
-➤ *Bananada*
-➤ Minipão, refresco
-
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Copa lombo com molho cítrico*
-➤ Opção: PVT colorido
-➤ *Quibebe*
-➤ Salada de agrião
-➤ *Melancia*
-➤ Minipão, refresco
 %
 
 *#================Química (Jantar)================#*
 ➤ Arroz ,  Feijão Carioca ,  Arroz Integral
-➤ *Bife grelhado ao molho roty *
-➤ Opção: PVT ao vinagrete   
-➤ *Berinjela ao forno *
-➤ Salada de repolho    
-➤ `Flan de chocolate`
+➤ *Fricassê de frango *
+➤ Opção: Fricassê de PVT   
+➤ *Acelga refogada *
+➤ Salada de beterraba    
+➤ *Mexerica  *
 ➤ Mini pão, Refresco  
-
-*#================Física (Jantar)=================#*
-Fechado
 
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de tilápia com molho escabeche*
-➤ PVT com couve-flor
-➤ `Mandioca sauté`
-➤ Salada de alface
-➤ *Mexerica*
+➤ *Contrafilé assado com molho de alho*
+➤ Moussaka de PVT
+➤ *Virado de cebola*
+➤ Salada de agrião
+➤ *Maçã*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
+Fechado
+
+*#================Física (Jantar)=================#*
 Fechado
