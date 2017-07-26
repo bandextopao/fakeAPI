@@ -4,54 +4,55 @@
 ➤ *no período de 29, 06, 2017 a 30, 07, 2017, *
 ➤ em virtude das férias coletivas dos funcionários
 
-*#================Química (Almoço)================#*
-➤ Arroz ,  Feijão ,  Arroz Integral
-➤ *Bife grelhado ao molho champignon*
-➤ Opção: PVT com mandioquinha
-➤ *Chuchu com azeitonas*
-➤ Salada de alface
-➤ `Cocada`
-➤ Mini pão, Refresco
-
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Iscas de frango com molho à cigana*
-➤ Opção: PVT com pimentões
-➤ *Berinjela à italiana*
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão , arroz integral
+➤ * Isca de carne à chinesa*
+➤ Opção: PVT com ervilha
+➤ *Cenoura com alecrim*
 ➤ Salada de agrião
-➤ *Gelatina*
+➤ *Maçã*
 ➤ Minipão, refresco
 
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral 
-➤ *Copa lombo com molho de limão*
-➤ Opção: Hambúrguer de PVT
-➤ *Berinjela com tomate e orégano *
-➤ Salada de acelga
-➤ *Laranja*
-➤ Minipão, refresco 
+*#================Central (Almoço)================#*
+➤ Arroz, arroz integral
+➤ *Feijoada*
+➤ Opção: Feijoada de PVT
+➤ *Couve à provençal*
+➤ Farofa
+➤ *Salada de tomate*
+➤ Laranja
+➤ Minipão, refresco
+
+*#================Química (Almoço)================#*
+➤ Arroz ,  Feijão ,  Arroz Integral
+➤ *Frango Assado*
+➤ Opção: PVT c,  couve flor
+➤ *Creme de milho*
+➤ Salada de catalonha
+➤ *Mamão*
+➤ Mini pão, Refresco
 %
 
 *#================Física (Jantar)=================#*
 Fechado
 
-*#================Química (Jantar)================#*
-➤ Arroz ,  Feijão ,  Arroz Integral
-➤ *Lagarto Assado ao molho roti*
-➤ Opção: PVT rica
-➤ *Purê de batatas*
-➤ Salada de pepino com tomate
-➤ *Melão*
-➤ Mini pão, Refresco
-
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Lagarto com molho roti*
-➤ Opção: PVT com batata
-➤ *Polenta*
-➤ Salada de escarola
-➤ *Maçã*
-➤ Minipão, refresco
-
 *#==============Prefeitura (Jantar)===============#*
 Fechado
+
+*#================Central (Jantar)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Frango com molho à espanhola*
+➤ Opção: Almôndegas de PVT 
+➤ *Caponata de abobrinha*
+➤ Salada de almeirão
+➤ `Pudim`
+➤ Minipão, refresco
+
+*#================Química (Jantar)================#*
+➤ Arroz ,  Feijão ,  Arroz Integral
+➤ *Cubos de carne ao vinagrete*
+➤ Opção: PVT com azeitonas
+➤ *Legumes refogados*
+➤ Salada de Mix de folhas
+➤ `Brigadeiro`
+➤ Mini pão, Refresco
