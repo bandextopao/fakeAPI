@@ -1,31 +1,31 @@
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de contrafilé grelhado*
-➤ Opção: PVT com azeitonas
-➤ `Batata sauté`
-➤ Salada de escarola
-➤ *Mexerica*
-➤ Minipão, refresco
+*#================Química (Almoço)================#*
+➤ Arroz ,  Feijão ,  Arroz Integral
+➤ *Bife de contra filé grelhado*
+➤ Opção: PVT ao gratinado
+➤ `Raviolli de queijo ao sugo`
+➤ Salada de almeirão
+➤ *Mamão*
+➤ Mini pão, Refresco 
 
-*#================Física (Almoço)=================#*
+*#================Central (Almoço)================#*
 Fechado
 
 *#==============Prefeitura (Almoço)===============#*
 Fechado
 
-*#================Química (Almoço)================#*
+*#================Física (Almoço)=================#*
 Fechado
 %
 
-*#================Central (Jantar)================#*
+*#================Química (Jantar)================#*
 Fechado
 
-*#================Física (Jantar)=================#*
+*#================Central (Jantar)================#*
 Fechado
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#================Química (Jantar)================#*
+*#================Física (Jantar)=================#*
 Fechado
