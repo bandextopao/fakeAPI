@@ -1,31 +1,67 @@
 
-*#================Química (Almoço)================#*
-➤ Arroz ,  Feijão ,  Arroz Integral
-➤ *Bife de contra filé grelhado*
-➤ Opção: PVT ao gratinado
-➤ `Raviolli de queijo ao sugo`
-➤ Salada de almeirão
-➤ *Mamão*
-➤ Mini pão, Refresco 
-
 *#================Central (Almoço)================#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Bife de caçarola*
+➤ Opção: PVT com vagem
+➤ *Cenoura sauté*
+➤ Salada de acelga
+➤ *Bananinha*
+➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
-Fechado
+➤ Arroz, feijão preto, arroz integral  
+➤ *Hambúrguer com molho de cebola*
+➤ Opção: PVT com pimentões
+➤ *Abobrinha refogada*
+➤ Salada de catalonha
+➤ `Doce de leite`
+➤ Minipão, refresco 
+
+*#================Química (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Filé de frango ao molho mostarda*
+➤ Opção: PVT com champignon 
+➤ *Quibebe *
+➤ Salada de acelga
+➤ `Doce de leite`
+➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Bife de caçarola*
+➤ Opção: PVT com vagem
+➤ *Cenoura sauté*
+➤ Salada de acelga
+➤ *Bananinha*
+➤ Minipão, refresco
 %
 
-*#================Química (Jantar)================#*
-Fechado
-
 *#================Central (Jantar)================#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Frango à passarinho*
+➤ Opção: PVT com brócolis
+➤ `Macarrão ao sugo`
+➤ Salada de escarola
+➤ *Maçã*
+➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
+*#================Química (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Iscas de carne ao vinagrete *
+➤ Opção: Almôndega de PVT
+➤ `Batata corada`
+➤ Salada de repolho roxo 
+➤ *Laranja *
+➤ Minipão, refresco
+
 *#================Física (Jantar)=================#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Frango à passarinho*
+➤ Opção: PVT com brócolis
+➤ `Macarrão ao sugo`
+➤ Salada de escarola
+➤ *Maçã*
+➤ Minipão, refresco
