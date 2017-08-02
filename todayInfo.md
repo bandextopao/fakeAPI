@@ -1,67 +1,67 @@
 
-*#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife grelhado ao molho roti*
-➤ Opção: Panqueca de PVT
-➤ *Farofa rica*
-➤ Salada de couve
-➤ *Maçã *
-➤ Minipão, refresco
-
 *#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de tilápia à baiana*
-➤ Opção: PVT à baiana
-➤ `Batata corada`
-➤ Salada de rúcula
-➤ *Mexerica*
+➤ Arroz, feijão preto, arroz integral
+➤ *Iscas de carne com molho à cigana*
+➤ Opção: PVT à cigana
+➤ *Abobrinha à italiana*
+➤ Salada de almeirão
+➤ `Doce de leite`
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral 
-➤ *Isca de carne de panela*
-➤ Opção: Torta de PVT
-➤ *Abobrinha com ervas finas*
-➤ Salada de escarola
-➤ *Banana*
-➤ Minipão, refresco 
+➤ Arroz, feijão, arroz integral
+➤ *Copa lombo com molho de cebola*
+➤ Opção: PVT com salsa
+➤ *Legumes com salsa*
+➤ Salada de rúcula
+➤ *Gelatina*
+➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Iscas de carne com molho à cigana*
+➤ Opção: PVT à cigana
+➤ *Abobrinha à italiana*
+➤ Salada de almeirão
+➤ `Doce de leite`
+➤ Minipão, refresco
+
+*#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de tilápia à baiana*
-➤ Opção: PVT à baiana
-➤ `Batata corada`
-➤ Salada de rúcula
-➤ *Mexerica*
+➤ `Estrogonofe de frango`
+➤ Opção: Estrogonofe de PVT
+➤ `Batata palha`
+➤ Salada de almeirão
+➤ *Gelatina *
 ➤ Minipão, refresco
 %
 
-*#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Picadinho à brasileira *
-➤ Opção: PVT com pimentão 
-➤ *Escarola refogada *
-➤ Salada de pepino com tomate
-➤ `Flan de baunilha`
-➤ Minipão, refresco
-
 *#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
+➤ Arroz, feijão preto, arroz integral
 ➤ *Contrafilé acebolado*
-➤ Opção: PVT com mini cebolas
-➤ *Berinjela à grega*
-➤ Salada de alface
-➤ *Barra de cereais*
+➤ Opção: PVT com moyashi
+➤ *Couve à provençal*
+➤ Salada de tomate
+➤ *Laranja*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Central (Jantar)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Lombo assado com molho de ameixa*
+➤ Opção: PVT com moyashi
+➤ *Couve à provençal*
+➤ Salada de tomate
+➤ *Laranja*
+➤ Minipão, refresco
+
+*#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Contrafilé acebolado*
-➤ Opção: PVT com mini cebolas
-➤ *Berinjela à grega*
-➤ Salada de alface
-➤ *Barra de cereais*
+➤ *Peixe no fubá *
+➤ Opção: PVT com espinafre 
+➤ *Brócolis com cenoura*
+➤ Salada de tabule 
+➤ *Mamão *
 ➤ Minipão, refresco
