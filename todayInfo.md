@@ -1,67 +1,31 @@
 
-*#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de panela *
-➤ Opção: PVT caipira
-➤ *Couve-flor ao alho *
-➤ Salada de chicória 
-➤ `Mousse`
-➤ Minipão, refresco
+*#==============Prefeitura (Almoço)===============#*
+Fechado
 
-*#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne picada com molho mexicano*
-➤ Opção: PVT com molho mexicano
-➤ `Mandioca sauté`
-➤ Salada de repolho
-➤ *Banana*
-➤ Minipão, refresco
+*#================Química (Almoço)================#*
+Fechado
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne picada com molho mexicano*
-➤ Opção: PVT com molho mexicano
-➤ `Mandioca sauté`
-➤ Salada de repolho
-➤ *Banana*
+➤ *Lagarto com molho ferrugem*
+➤ Opção: PVT com molho vinagrete
+➤ *Escarola ao alho e óleo*
+➤ Salada de beterraba
+➤ *Laranja*
 ➤ Minipão, refresco
 
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Carne moída com molho vinagrete*
-➤ Opção: almôndegas de PVT
-➤ *Polenta com escarola*
-➤ Salada de Agrião
-➤ *Maçã*
-➤ Minipão, refresco
+*#================Física (Almoço)=================#*
+.
 %
 
-*#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ `Filé de frango à pizzaiolo`
-➤ Opção: PVT à pizzaiolo 
-➤ *Macarrão ao alho e óleo *
-➤ Salada de alface americana 
-➤ *Melancia 	*
-➤ Minipão, refresco
+*#==============Prefeitura (Jantar)===============#*
+Fechado
 
-*#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango em tiras com molho cítrico*
-➤ Opção: PVT com tomate cereja
-➤ *Chuchu com salsinha*
-➤ Salada de acelga
-➤ *Gelatina*
-➤ Minipão, refresco
+*#================Química (Jantar)================#*
+Fechado
 
 *#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango em tiras com molho cítrico*
-➤ Opção: PVT com tomate cereja
-➤ *Chuchu com salsinha*
-➤ Salada de acelga
-➤ *Gelatina*
-➤ Minipão, refresco
+Fechado
 
-*#==============Prefeitura (Jantar)===============#*
+*#================Física (Jantar)=================#*
 Fechado
