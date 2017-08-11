@@ -1,67 +1,66 @@
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne em tiras com molho roti*
-➤ Opção: PVT à cigana
-➤ *Cenoura refogada*
-➤ Salada de agrião
-➤ *Bananinha*
-➤ Minipão, refresco
-
 *#================Química (Almoço)================#*
-➤ Arroz ,  Feijão ,  Arroz Integral
-➤ *File de Frango ao molho de mostarda*
-➤ Opção: Almondega de PVT 
-➤ *Berinjela à Italiana*
-➤ Salada de Catalonha
-➤ `Sorvete`
-➤ Mini pão, Refresco
-
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral
-➤ *Copa lombo com molho de limão*
-➤ Opção: PVT com ameixa
-➤ *Cuscuz de legumes (chuchu e cenoura)*
-➤ Salada de escarola
-➤ `Abacaxi`
-➤ Minipão, refresco
+➤ Arroz ,  Feijão ,  Arroz Integra
+➤ *Linguiça toscana*
+➤ Opção: PVT ao vinagrete
+➤ *Virado de abobrinha*
+➤ Salada de Beterraba 
+➤ *Melancia *
 
 *#================Física (Almoço)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne em tiras com molho roti*
-➤ PVT à cigana
-➤ *Berinjela à italiana*
-➤ Salada de acelga
-➤ `Doce de leite com chocolate`
+➤ *Frango xadrez*
+➤ Opção: PVT  xadrez
+➤ *Acelga ao alho e óleo*
+➤ Salada de pepino
+➤ *Mexerica*
+➤ Minipão, refresco
+
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão, arroz integral
+➤ *Isca de carne com molho vinagrete*
+➤ Opção: PVT à Madalena
+➤ *Repolho refogado*
+➤ Salada de tomate
+➤ `Flan`
+➤ Minipão, refresco
+
+*#================Central (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Frango xadrez*
+➤ Opção: PVT  xadrez
+➤ *Acelga ao alho e óleo*
+➤ Salada de pepino
+➤ *Mexerica*
 ➤ Minipão, refresco
 %
 
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de tilápia com molho baiana*
-➤ Opção: PVT com batata
-➤ *Pirão de legumes*
-➤ Salada de escarola
-➤ *Laranja*
-➤ Minipão, refresco
-
 *#================Química (Jantar)================#*
 ➤ Arroz ,  Feijão ,  Arroz Integral
-➤ *Bife ao molho argentino *
-➤ Opção: Hambúrguer  PVT 
-➤ *Macarrão alho e óleo*
+➤ *Fricassê de Frango*
+➤ Opção: PVT com azeitona
+➤ *Brócolis ao alho *
+➤ Salada de chicória 
+➤ *Gelatina	*
+➤ Mini pão, Refresco
+
+*#================Física (Jantar)=================#*
+➤ Arroz, feijão, arroz integral
+➤ `Lagarto com molho madeira`
+➤ Opção: PVT com vagem
+➤ *Batata doce sauté*
 ➤ Salada de almeirão
 ➤ *Maçã*
-➤ Mini pão, Refresco
+➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#================Física (Jantar)=================#*
+*#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de tilápia com molho baiana*
-➤ PVT com batata
-➤ *Pirão de legumes*
-➤ Salada de escarola
-➤ *Laranja*
+➤ `Lagarto com molho madeira`
+➤ Opção: PVT com vagem
+➤ *Batata doce sauté*
+➤ Salada de almeirão
+➤ *Maçã*
 ➤ Minipão, refresco
