@@ -1,67 +1,31 @@
 
+*#==============Prefeitura (Almoço)===============#*
+Fechado
+
 *#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ `Escondidinho de carne`
-➤ Opção: Escondidinho de PVT  
-➤ *Escarola à provençal *
-➤ Salada de pepino com tomate 
-➤ *Laranja  *
-➤ Minipão, refresco
+Fechado
+
+*#================Física (Almoço)=================#*
+Fechado
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango ao forno*
-➤ Opção: Moussaka de PVT
-➤ *Creme de milho*
-➤ Salada de rúcula
-➤ *Mexerica*
-➤ Minipão, refresco
-
-*#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango ao forno*
-➤ Opção: Moussaka de PVT
-➤ *Creme de milho*
-➤ Salada de rúcula
-➤ *Mexerica*
-➤ Minipão, refresco
-
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral
-➤ *Copa lombo com molho cítrico*
-➤ Opção: PVT com ameixa
-➤ *Chucrute*
-➤ Salada de tomate
-➤ *Melancia*
+➤ *Carne em cubos com molho*
+➤ Opção: PVT com maçã
+➤ `Batata corada`
+➤ Salada de repolho
+➤ *Laranja*
 ➤ Minipão, refresco
 %
 
-*#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Linguiça acebolada *
-➤ Opção: Omelete de queijo  
-➤ *Virado de abobrinha *
-➤ Salada de alface americana  
-➤ `Sorvete`
-➤ Minipão, refresco
+*#==============Prefeitura (Jantar)===============#*
+Fechado
 
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de caçarola*
-➤ Opção: Ovos mexidos
-➤ *Abóbora com coentro*
-➤ Salada de alface
-➤ *Goiabada*
-➤ Minipão, refresco
+*#================Química (Jantar)================#*
+Fechado
 
 *#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de caçarola*
-➤ Opção: Ovos mexidos
-➤ *Abóbora com coentro*
-➤ Salada de escarola
-➤ *Goiabada*
-➤ Minipão, refresco
+Fechado
 
-*#==============Prefeitura (Jantar)===============#*
+*#================Central (Jantar)================#*
 Fechado
