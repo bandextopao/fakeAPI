@@ -1,67 +1,31 @@
 
-*#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Cupim assado *
-➤ Opção: Fricassê de PVT 
-➤ *Legumes coloridos *
-➤ Salada de alface lisa    
-➤ *Gelatina *
-➤ Minipão, refresco
+*#==============Prefeitura (Almoço)===============#*
+Fechado
 
 *#================Central (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Lombo com molho de limão*
-➤ Opção: PVT com moyashi
-➤ *Couve à provençal*
-➤ Salada de pepino
-➤ *Laranja*
+➤ Arroz, feijão, arroz integral
+➤ *Lagarto com molho ferrugem*
+➤ Opção: PVT tropical
+➤ *Cenoura com salsinha*
+➤ Salada de repolho
+➤ *Goiabada*
 ➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Lombo com molho de limão*
-➤ Opção: PVT com moyashi
-➤ *Couve à provençal*
-➤ Salada de pepino
-➤ *Laranja*
-➤ Minipão, refresco
+Fechado
 
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral
-➤ *Isca de carne à pomodoro*
-➤ Opção: Torta de PVT
-➤ *Abobrinha ao forno*
-➤ Salada de agrião
-➤ *Banana*
-➤ Minipão, refresco
+*#================Química (Almoço)================#*
+Fechado
 %
 
-*#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Fricassê de frango*
-➤ Opção: PVT com cogumelo 
-➤ `Batata corada`
-➤ Salada de almeirão   
-➤ *Melancia *
-➤ Minipão, refresco
+*#==============Prefeitura (Jantar)===============#*
+Fechado
 
 *#================Central (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Carne picada com molho ferrugem*
-➤ Opção: Moussaka de PVT
-➤ *Batata doce sauté*
-➤ Salada de escarola
-➤ *Gelatina*
-➤ Minipão, refresco
+Fechado
 
 *#================Física (Jantar)=================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Carne picada com molho caipira*
-➤ Opção: Moussaka de PVT
-➤ *Batata doce sauté*
-➤ Salada de escarola
-➤ *Gelatina*
-➤ Minipão, refresco
+Fechado
 
-*#==============Prefeitura (Jantar)===============#*
+*#================Química (Jantar)================#*
 Fechado
