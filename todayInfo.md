@@ -1,67 +1,67 @@
 
-*#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de contrafilé acebolado*
-➤ Opção: Torta de PVT
-➤ *Chuchu com salsinha*
-➤ Salada de alface
-➤ *Maçã*
-➤ Minipão, refresco
-
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Linguiça acebolada*
-➤ Opção: PVT com abobrinha
-➤ *Cenoura com salsa*
-➤ Salada de escarola
-➤ *Melancia*
-➤ Minipão, refresco
-
-*#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Fricassê de frango *
-➤ Opção: Fricassê de frango	
-➤ *Brócolis *
-➤ Salada de pepino com tomate  
-➤ *Maçã   *
+➤ *Isca de frango à moda oriental*
+➤ Opção: PVT com espinafre
+➤ `Polenta com molho ao sugo`
+➤ Salada de agrião
+➤ *Maçã*
 ➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Bife de contrafilé acebolado*
-➤ Opção: Torta de PVT
-➤ *Chuchu com salsinha*
-➤ Salada de alface
-➤ *Maçã*
+➤ *Empanado de frango*
+➤ Opção: PVT com vagem
+➤ *Creme de milho*
+➤ Salada de repolho
+➤ *Laranja*
+➤ Minipão, refresco
+
+*#================Química (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Bife grelhado ao molho chinês *
+➤ Opção: PVT com jardineira de legumes 
+➤ `Nhoque`
+➤ Salada de almeirão
+➤ `Brigadeiro`
+➤ Minipão, refresco
+
+*#================Física (Almoço)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Empanado de frango*
+➤ Opção: PVT com vagem
+➤ *Creme de milho*
+➤ Salada de repolho
+➤ *Laranja*
 ➤ Minipão, refresco
 %
-
-*#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de tilápia com molho escabeche*
-➤ Opção: PVT com legumes
-➤ `Batata corada`
-➤ Salada de acelga
-➤ *Mexerica*
-➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ `Hambúrguer à pizzaiolo`
-➤ Opção: Hambúrguer de PVT  
-➤ *Abobrinha refogada *
-➤ Salada de acelga com pimentão   
-➤ *Manjar com calda de ameixa *
-➤ Minipão, refresco
-
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de tilápia com molho escabeche*
-➤ Opção: PVT com legumes
-➤ `Batata corada`
-➤ Salada de acelga
-➤ *Mexerica*
+➤ *Carne assada com molho roti*
+➤ Opção: PVT com batata doce
+➤ *Abobrinha à juliana*
+➤ Salada de alface
+➤ `Doce de leite`
+➤ Minipão, refresco
+
+*#================Química (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Cupim assado ao molho de ervas *
+➤ Opção: PVT com alho-poró   
+➤ *Chuchu refogado *
+➤ Salada de alface   
+➤ *Banana   *
+➤ Minipão, refresco
+
+*#================Física (Jantar)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Carne assada com molho roti*
+➤ Opção: PVT com batata doce
+➤ *Abobrinha à juliana*
+➤ Salada de alface
+➤ `Doce de leite`
 ➤ Minipão, refresco
