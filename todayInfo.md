@@ -1,38 +1,38 @@
 
 *#==============Prefeitura (Almoço)===============#*
 ➤ Arroz, feijão, arroz integral
-➤ *Isca de frango à moda oriental*
-➤ Opção: PVT com espinafre
-➤ `Polenta com molho ao sugo`
-➤ Salada de agrião
-➤ *Maçã*
+➤ *Bife com pimentões *
+➤ Opção: escondidinho de PVT
+➤ *Berinjela ao forno acebolada*
+➤ Salada de mostarda
+➤ `Pudim`
 ➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Empanado de frango*
-➤ Opção: PVT com vagem
-➤ *Creme de milho*
-➤ Salada de repolho
-➤ *Laranja*
+➤ *Carne picada com molho campana*
+➤ Opção: Ovos mexidos
+➤ *Escarola à provençal*
+➤ Salada de tomate
+➤ `Sorvete`
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Bife grelhado ao molho chinês *
-➤ Opção: PVT com jardineira de legumes 
-➤ `Nhoque`
-➤ Salada de almeirão
-➤ `Brigadeiro`
+➤ *Peixe no fubá *
+➤ Opção: Rondele de PVT com queijo
+➤ `Batata sauté`
+➤ Salada de acelga  
+➤ *Melancia  *
 ➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Empanado de frango*
-➤ Opção: PVT com vagem
-➤ *Creme de milho*
-➤ Salada de repolho
-➤ *Laranja*
+➤ *Carne picada com molho campana*
+➤ Opção: Ovos mexidos
+➤ *Escarola à provençal*
+➤ Salada de tomate
+➤ `Sorvete`
 ➤ Minipão, refresco
 %
 
@@ -41,27 +41,27 @@ Fechado
 
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne assada com molho roti*
-➤ Opção: PVT com batata doce
-➤ *Abobrinha à juliana*
-➤ Salada de alface
-➤ `Doce de leite`
+➤ *Frango à passarinho*
+➤ Opção: Escondidinho de PVT
+➤ *Cenoura refogada*
+➤ Salada de almeirão
+➤ *Banana*
 ➤ Minipão, refresco
 
 *#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Cupim assado ao molho de ervas *
-➤ Opção: PVT com alho-poró   
-➤ *Chuchu refogado *
-➤ Salada de alface   
-➤ *Banana   *
+➤ *Filé de frango grelhado ao molho rosé *
+➤ Opção: Omelete de forno com legumes 
+➤ *Escarola refogada *
+➤ Salada de cenoura    
+➤ `Sorvete`
 ➤ Minipão, refresco
 
 *#================Física (Jantar)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne assada com molho roti*
-➤ Opção: PVT com batata doce
-➤ *Abobrinha à juliana*
-➤ Salada de alface
-➤ `Doce de leite`
+➤ *Frango à passarinho*
+➤ Opção: PVT com milho
+➤ *Cenoura refogada*
+➤ Salada de almeirão
+➤ *Banana*
 ➤ Minipão, refresco
