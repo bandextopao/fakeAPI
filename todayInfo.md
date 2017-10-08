@@ -1,31 +1,31 @@
 
+*#================Química (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Filé de coxa de frango grelhado *
+➤ Opção: PVT alemão 
+➤ *Jardineira de legumes *
+➤ Salada de alface americana  
+➤ `Doce de banana`
+➤ Minipão, refresco
+
 *#================Física (Almoço)=================#*
 Fechado
 
-*#================Química (Almoço)================#*
+*#==============Prefeitura (Almoço)===============#*
 Fechado
 
 *#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de contrafilé acebolado*
-➤ Opção: PVT com moyashi
-➤ *Purê de abóbora*
-➤ Salada de escarola
-➤ *Mexerica*
-➤ Minipão, refresco
-
-*#==============Prefeitura (Almoço)===============#*
 Fechado
 %
-
-*#================Física (Jantar)=================#*
-Fechado
 
 *#================Química (Jantar)================#*
 Fechado
 
-*#================Central (Jantar)================#*
+*#================Física (Jantar)=================#*
 Fechado
 
 *#==============Prefeitura (Jantar)===============#*
+Fechado
+
+*#================Central (Jantar)================#*
 Fechado
