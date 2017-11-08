@@ -1,67 +1,67 @@
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Iscas de carne com molho campana*
-➤ Opção: Soja com legumes
-➤ *Abobrinha refogada*
-➤ Salada de acelga
-➤ *Bananada*
+➤ *Frango assado*
+➤ Opção: PVT com milho
+➤ `Macarrão ao sugo`
+➤ Salada de almeirão
+➤ *Mexerica*
+➤ Minipão, refresco
+
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão, arroz integral
+➤ *Carne assada com molho roti*
+➤ Opção: PVT molho rosé
+➤ `Batata sauté`
+➤ Salada de alface
+➤ *Melão*
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Estrogonofe de frango`
-➤ Opção: Estrogonofe de PVT 
-➤ `Batata palha`
-➤ Salada de alface 
-➤ *Banana *
+➤ *Carne assada ao molho de ervas *
+➤ Opção: PVT com cogumelos
+➤ *Legumes sauté*
+➤ Salada de escarola 
+➤ `Sorvete de chocolate`
 ➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne com molho campana*
-➤ Opção: Soja com legumes
-➤ *Abobrinha refogada*
-➤ Salada de acelga
-➤ *Bananada*
+➤ *Frango assado*
+➤ Opção: PVT com milho
+➤ `Macarrão ao sugo`
+➤ Salada de almeirão
+➤ *Mexerica*
 ➤ Minipão, refresco
-
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão preto, arroz integral 
-➤ `Filé de frango à pizzaiolo`
-➤ Opção: Lentilha com molho de PVT
-➤ *Creme de milho*
-➤ Salada de rúcula
-➤ `Mousse de chocolate`
-➤ Minipão, refresco 
 %
 
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango em tiras com molho aurora*
-➤ Opção: PVT com molho aurora
-➤ `Batata corada`
-➤ Salada de alface
-➤ *Maçã*
-➤ Minipão, refresco
-
-*#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de panela *
-➤ Opção: PVT alemão  
-➤ *Quibebe *
-➤ Salada de catalonha  
-➤ `Barra de biscoito recheada com chocolate`
-➤ Minipão, refresco
-
-*#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango em tiras com molho aurora*
-➤ Opção: PVT com molho aurora
-➤ `Batata corada`
-➤ Salada de alface
-➤ *Maçã*
+➤ *Carne assada com molho roti*
+➤ Opção: Torta de PVT
+➤ *Acelga com molho shoyo*
+➤ Salada de beterraba
+➤ `Sorvete`
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
+
+*#================Química (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Frango assado *
+➤ Opção: PVT com couve-flor 
+➤ `Macarrão ao sugo`
+➤ Salada de alface    
+➤ *Melão *
+➤ Minipão, refresco
+
+*#================Física (Jantar)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Carne assada com molho roti*
+➤ Opção: Torta de PVT
+➤ *Acelga com molho shoyu*
+➤ Salada de beterraba
+➤ `Sorvete`
+➤ Minipão, refresco
