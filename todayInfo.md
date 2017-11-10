@@ -1,67 +1,67 @@
 
+*#================Química (Almoço)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Carne em cubos com legumes *
+➤ Opção: Assado vienense de PVT
+➤ *Brócolis gratinado*
+➤ Salada de rúcula   
+➤ *Gelatina de morango  *
+➤ Minipão, refresco
+
 *#==============Prefeitura (Almoço)===============#*
 ➤ Arroz, feijão, arroz integral
-➤ *Copa lombo com molho de maçã*
-➤ Opção: Yakissoba de PVT
-➤ *Jardineira de legumes *
-➤ Salada de agrião
-➤ *Melão*
+➤ *Filé de coxa com molho de ervilha*
+➤ Opção: Grão-de-bico com molho de PVT
+➤ *Abobrinha à napolitana*
+➤ Salada de acelga
+➤ `Mousse de maracujá`
 ➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de tilápia dourado*
-➤ Opção: PVT com moyashi
-➤ *Jardineira de legumes*
-➤ Salada de alface
-➤ *Goiabada*
-➤ Minipão, refresco
-
-*#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de frango ao molho mostarda*
-➤ Opção: PVT com azeitonas
-➤ `Polenta com queijo`
-➤ Salada de almeirão  
-➤ *Maçã  *
+➤ `Fricassé de frango`
+➤ Opção: Fricassé de legumes
+➤ *Escarola à provençal*
+➤ Salada de tomate
+➤ *Banana*
 ➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de tilápia com molho escabeche*
-➤ Opção: PVT com moyashi
-➤ *Jardineira de legumes*
-➤ Salada de alface
-➤ *Goiabada*
+➤ `Fricassé de frango`
+➤ Opção: Fricassé de legumes
+➤ *Escarola à provençal*
+➤ Salada de tomate
+➤ *Banana*
 ➤ Minipão, refresco
 %
+
+*#================Química (Jantar)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ `Fricassé de frango`
+➤ Opção: Fricassé de PVT
+➤ *Acelga refogada *
+➤ Salada de beterraba   
+➤ *Laranja *
+➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango à passarinho*
-➤ Opção: PVT com azeitonas
-➤ *Polenta cremosa*
-➤ Salada de almeirão
-➤ *Laranja*
-➤ Minipão, refresco
-
-*#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife ao molho roti *
-➤ Opção: Panqueca de PVT
-➤ *Berinjela na salsa *
-➤ Salada de repolho    
-➤ `Flan de chocolate`
+➤ *Carne assada com molho de ameixa*
+➤ Opção: PVT tropical
+➤ *Batata doce sauté*
+➤ Salada de acelga
+➤ *Maçã*
 ➤ Minipão, refresco
 
 *#================Física (Jantar)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango à passarinho*
-➤ Opção: PVT com azeitonas
-➤ *Polenta cremosa*
-➤ Salada de almeirão
-➤ *Laranja*
+➤ *Carne assada com molho de ameixa*
+➤ Opção: PVT tropical
+➤ *Batata doce sauté*
+➤ Salada de acelga
+➤ *Maçã*
 ➤ Minipão, refresco
