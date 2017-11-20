@@ -1,14 +1,25 @@
 
 *#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne moída refogada à primavera *
-➤ Opção: PVT com cogumelos    
-➤ `Raviolli ao sugo`
-➤ Salada de alface  
-➤ *Laranja *
-➤ Minipão, refresco
-
-*#================Central (Almoço)================#*
-Fechado
+Feriado
 
 *#================Física (Almoço)=================#*
+Feriado
+
+*#==============Prefeitura (Almoço)===============#*
+Feriado
+
+*#================Central (Almoço)================#*
+Feriado
+%
+
+*#================Química (Jantar)================#*
+Feriado
+
+*#================Física (Jantar)=================#*
+Feriado
+
+*#==============Prefeitura (Jantar)===============#*
+Feriado
+
+*#================Central (Jantar)================#*
+Feriado
