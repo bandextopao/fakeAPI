@@ -1,48 +1,48 @@
 
-*#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de caçarola*
-➤ Opção: PVT à caipira
-➤ *Batata doce corada*
-➤ Salada de escarola
-➤ *Mexerica*
+*#================Química (Almoço)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Lombo assado ao molho de ervas*
+➤ Opção: Raviolli de queijo com molho de PVT  
+➤ `Farofa doce`
+➤ Salpicão de repolho   
+➤ `Torta mousse holandesa`
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de frango com molho vinagrete*
-➤ Opção: PVT com molho vinagrete
-➤ *Ratatouille*
-➤ Salada de acelga
-➤ *Melancia*
+➤ *Hambúrguer acebolado*
+➤ Opção: Lentilha com molho de PVT
+➤ *Brócolis e couve-flor ao alho*
+➤ Salada de escarola
+➤ *Maçã*
 ➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Bife de caçarola*
-➤ Opção: PVT à caipira
-➤ *Batata doce corada*
-➤ Salada de escarola
-➤ *Laranja*
+➤ *Carne picada com molho caipira*
+➤ Opção: PVT à cigana
+➤ *Cenoura com molho branco*
+➤ Salada de alface
+➤ *Bananada*
 ➤ Minipão, refresco
 
-*#================Química (Almoço)================#*
+*#================Física (Almoço)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Bife acebolado*
-➤ Opção: PVT com cogumelo  
-➤ *Abóbora sauté*
-➤ Salada de acelga 
-➤ *Melancia*
+➤ *Carne em cubos com molho caipira*
+➤ Opção: PVT à cigana
+➤ *Cenoura com molho branco*
+➤ Salada de alface
+➤ *Bananada*
 ➤ Minipão, refresco
 %
 
-*#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango em tiras com molho de cogumelos*
-➤ Opção: PVT com cogumelos
-➤ *Macarrão ao alho e óleo*
-➤ Salada de acelga
-➤ *Maçã*
+*#================Química (Jantar)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ `Estrogonofe de carne`
+➤ Opção: Estrogonofe de legumes  
+➤ `Batata palha`
+➤ Salada de alface 
+➤ *Banana*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
@@ -50,18 +50,18 @@ Fechado
 
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Iscas de frango com molho de cogumelos*
-➤ Opção: PVT com cogumelos
-➤ *Macarrão ao alho e óleo*
-➤ Salada de acelga
-➤ *Maçã*
+➤ *Quibe*
+➤ Opção: Quibe de PVT
+➤ *Berinjela à italiana*
+➤ Salada de almeirão
+➤ *Laranja*
 ➤ Minipão, refresco
 
-*#================Química (Jantar)================#*
+*#================Física (Jantar)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de coxa de frango ao molho rosé*
-➤ Opção: Rondelli de queijo com molho de PVT
-➤ `Mandioca temperada`
-➤ Salada de repolho bicolor
+➤ *Quibe*
+➤ Opção: Quibe de PVT
+➤ *Berinjela à italiana*
+➤ Salada de almeirão
 ➤ *Laranja*
 ➤ Minipão, refresco
