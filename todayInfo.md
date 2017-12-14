@@ -1,67 +1,67 @@
 
-*#================Física (Almoço)=================#*
+*#==============Prefeitura (Almoço)===============#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne moída gratinada*
-➤ Opção: PVT com cenoura
-➤ *Repolho à provençal*
-➤ Salada de beterraba
-➤ `Doce de leite`
+➤ *Fricassê de frango*
+➤ Opção: Fricassê de PVT
+➤ `Mandioca corada`
+➤ Salada de rúcula
+➤ `Doce de banana`
 ➤ Minipão, refresco
 
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão preto, arroz integral 
-➤ *Bife de caçarola*
-➤ Opção: Escondidinho de PVT
-➤ *Cenoura na manteiga*
-➤ Salada de alface
-➤ *Banana*
-➤ Minipão, refresco 
-
 *#================Química (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Bisteca suína ao molho barbecue *
-➤ Opção: PVT com legumes  
-➤ *Farofa rica *
-➤ Salada de couve 
-➤ *Laranja *
+➤ Arroz, feijão, arroz integral
+➤ `Estrogonofe de frango`
+➤ Opção: Estrogonofe de legumes    
+➤ `Batata palha`
+➤ Salada de chicória  
+➤ *Gelatina *
+➤ Minipão, refresco
+
+*#================Física (Almoço)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Frango assado*
+➤ Opção: PVT à caipira
+➤ `Purê de batata`
+➤ Salada de acelga
+➤ *Laranja*
 ➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Carne moída com cenoura e mandioca gratinada`
-➤ Opção: PVT com cenoura
-➤ *Escarola à provençal*
-➤ Salada de beterraba
-➤ *Goiabada*
+➤ *Frango assado*
+➤ Opção: PVT à caipira
+➤ *Polenta*
+➤ Salada de acelga
+➤ *Laranja*
 ➤ Minipão, refresco
 %
-
-*#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango em tiras com molho shoyu*
-➤ Opção: PVT com moyashi
-➤ *Polenta*
-➤ Salada de agrião
-➤ *Banana*
-➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Química (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Frango xadrez*
-➤ Opção: Xadrez de PVT 
-➤ *Abobrinha refogada *
-➤ Salada de almeirão  
-➤ `Pudim de baunilha`
+➤ Arroz, feijão, arroz integral
+➤ *Carne assada ao molho roti*
+➤ Opção: Omelete de forno com tomate e queijo
+➤ *Legumes sauté *
+➤ Salada de alface
+➤ *Melancia*
+➤ Minipão, refresco
+
+*#================Física (Jantar)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Hambúrguer com molho barbecue*
+➤ Opção: PVT com ervilhas
+➤ *Caponata de abobrinha*
+➤ Salada de repolho
+➤ *Goiabada*
 ➤ Minipão, refresco
 
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango em tiras com molho shoyu*
-➤ Opção: PVT com moyashi
-➤ *Creme de milho*
-➤ Salada de almeirão
-➤ *Banana*
+➤ *Hambúrguer com molho barbecue*
+➤ Opção: PVT com ervilhas
+➤ *Caponata de abobrinha*
+➤ Salada de repolho
+➤ `Doce de leite`
 ➤ Minipão, refresco
