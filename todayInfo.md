@@ -1,25 +1,25 @@
 
-*#================Química (Almoço)================#*
+*#==============Prefeitura (Almoço)===============#*
 Fechado
 
 *#================Central (Almoço)================#*
-Fechado
+No período de 16, 12, 2017 a 03, 01, 2018, o Restaurante Central ficará fechado para manutenção.	
 
 *#================Física (Almoço)=================#*
 Fechado
 
-*#==============Prefeitura (Almoço)===============#*
+*#================Química (Almoço)================#*
 Fechado
 %
 
-*#================Química (Jantar)================#*
+*#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Central (Jantar)================#*
-Fechado
+No período de 16, 12, 2017 a 03, 01, 2018, o Restaurante Central ficará fechado para manutenção.	
 
 *#================Física (Jantar)=================#*
 Fechado
 
-*#==============Prefeitura (Jantar)===============#*
+*#================Química (Jantar)================#*
 Fechado
