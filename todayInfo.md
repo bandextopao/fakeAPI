@@ -1,55 +1,55 @@
 
 *#================Física (Almoço)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Hambúrguer com molho americano*
-➤ Opção: PVT com ervilha
-➤ *Macarrão ao alho e óleo*
-➤ Salada de repolho
-➤ *Laranja*
-➤ Minipão, refresco
-
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral
-➤ *Hambúrguer com molho de vinho*
-➤ Opção: PVT com ameixa
-➤ *Creme de couve-flor com alho-poró*
-➤ Salada de alface
+➤ *Salsicha com molho de tomate*
+➤ Opção: PVT com tomate cereja
+➤ *Purê de legumes*
+➤ Salada de escarola
 ➤ *Maçã*
 ➤ Minipão, refresco
 
-*#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ `Estrogonofe de carne`
-➤ Opção: Estrogonofe de PVT 
-➤ `Batata palha`
-➤ Salada de picles
-➤ *Barrinha de biscoito recheada*
-➤ Minipão, refresco 
-
 *#================Central (Almoço)================#*
 No período de 16, 12, 2017 a 03, 01, 2018, o Restaurante Central ficará fechado para manutenção.	
+
+*#================Química (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Frango empanado*
+➤ Opção: PVT com brócolis  
+➤ *Polenta cremosa *
+➤ Salada de beterraba   
+➤ `Pudim de baunilha`
+➤ Minipão, refresco 
+
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão, arroz integral
+➤ *Copa lombo com molho cítrico*
+➤ Opção: Panqueca de PVT
+➤ *Abóbora ao alho*
+➤ Salada de escarola
+➤ *Gelatina*
+➤ Minipão, refresco
 %
 
 *#================Física (Jantar)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Frango com cenoura e mandioca gratinado`
-➤ Opção: PVT com cogumelos
-➤ `Batata palha`
-➤ Salada de pepino
-➤ *Maçã*
+➤ *Bife de caçarola*
+➤ Opção: PVT com couve
+➤ *Chuchu refogado*
+➤ Salada de acelga
+➤ *Banana*
+➤ Minipão, refresco
+
+*#================Central (Jantar)================#*
+No período de 16, 12, 2017 a 03, 01, 2018, o Restaurante Central ficará fechado para manutenção.	
+
+*#================Química (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Carne em cubos com legumes*
+➤ Opção: PVT à pizzaiolo  
+➤ *Brócolis *
+➤ Salada de catalonha 
+➤ *Mamão*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
-
-*#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ `Almôndegas ao sugo`
-➤ Opção: PVT com azeitonas   
-➤ *Macarrão ao alho e óleo *
-➤ Salada de cenoura ralada
-➤ *Laranja *
-➤ Minipão, refresco 
-
-*#================Central (Jantar)================#*
-No período de 16, 12, 2017 a 03, 01, 2018, o Restaurante Central ficará fechado para manutenção.	
