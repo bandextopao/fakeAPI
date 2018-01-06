@@ -1,55 +1,31 @@
 
 *#================Física (Almoço)=================#*
-No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fechado para manutenção.
+Fechado
 
-*#==============Prefeitura (Almoço)===============#*
+*#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango assado com molho de tomate*
-➤ Opção: PVT gratinado
-➤ *Cuscuz de legumes*
-➤ Salada de rúcula
+➤ *Lombo assado com molho de limão*
+➤ Opção: PVT à califórnia
+➤ *Farofa*
+➤ Salada de almeirão
 ➤ *Laranja*
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne moída com legumes *
-➤ Opção: Hambúrguer de PVT   
-➤ *Escarola refogada *
-➤ Salada de tomate com cebola  
-➤ *Maçã *
-➤ Minipão, refresco 
+Fechado
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Carne picada*
-➤ Opção: Moussaka de PVT
-➤ *Abóbora refogada*
-➤ Salada de acelga
-➤ *Banana*
-➤ Minipão, refresco
+*#==============Prefeitura (Almoço)===============#*
+Fechado
 %
 
 *#================Física (Jantar)=================#*
-No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fechado para manutenção.
+Fechado
 
-*#==============Prefeitura (Jantar)===============#*
+*#================Central (Jantar)================#*
 Fechado
 
 *#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de panela *
-➤ Opção: PVT ao vinagrete   
-➤ *Farofa rica *
-➤ Salada de repolho 
-➤ `Doce de leite`
-➤ Minipão, refresco
+Fechado
 
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango em tiras com molho russo*
-➤ Opção: PVT gratinado
-➤ *Escarola à provençal*
-➤ Salada de alface
-➤ *Goiabada*
-➤ Minipão, refresco
+*#==============Prefeitura (Jantar)===============#*
+Fechado
