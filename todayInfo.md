@@ -1,30 +1,30 @@
 
+*#================Química (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Filé de coxa grelhado *
+➤ Opção: PVT com vagem  
+➤ *Quibebe*
+➤ Salada de alface   
+➤ `Sorvete`
+➤ Minipão, refresco 
+
 *#================Física (Almoço)=================#*
 Fechado
 
 *#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Lombo assado com molho de limão*
-➤ Opção: PVT à califórnia
-➤ *Farofa*
-➤ Salada de almeirão
-➤ *Laranja*
-➤ Minipão, refresco
-
-*#================Química (Almoço)================#*
 Fechado
 
 *#==============Prefeitura (Almoço)===============#*
 Fechado
 %
 
+*#================Química (Jantar)================#*
+Fechado
+
 *#================Física (Jantar)=================#*
 Fechado
 
 *#================Central (Jantar)================#*
-Fechado
-
-*#================Química (Jantar)================#*
 Fechado
 
 *#==============Prefeitura (Jantar)===============#*
