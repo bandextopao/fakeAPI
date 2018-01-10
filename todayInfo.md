@@ -1,55 +1,55 @@
 
+*#================Física (Almoço)=================#*
+No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fechado para manutenção.
+
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Bife de caçarola*
-➤ Opção: PVT com chucrute
-➤ *Polenta cremosa*
-➤ Salada de alface
-➤ *Maçã*
-➤ Minipão, refresco
-
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral 
-➤ `Estrogonofe de frango`
-➤ Opção: Omelete de PVT
-➤ `Batata palha`
-➤ Salada de agrião
-➤ *Maçã*
+➤ *Frango assado*
+➤ Opção: Quibe de PVT
+➤ *Quiabo ao alho*
+➤ Salada de repolho
+➤ *Laranja*
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral 
-➤ *Copa lombo ao molho barbecue*
-➤ Opção: Panqueca de PVT 
-➤ *Virado de abobrinha*
-➤ Salada de almeirão 
-➤ `Gelatina de abacaxi`
+➤ Arroz, feijão, arroz integral 
+➤ `Filé de frango à pizzaiolo`
+➤ Opção: PVT com vagem
+➤ *Creme de milho*
+➤ Salada de alface
+➤ *Maçã *
 ➤ Minipão, refresco
 
-*#================Física (Almoço)=================#*
-No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fechado para manutenção.
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Bife com molho barbecue  *
+➤ Opção: Lasanha de berinjela com PVT
+➤ *Acelga refogada*
+➤ Salada de tomate
+➤ *Pavê de coco*
+➤ Minipão, refresco
 %
+
+*#================Física (Jantar)=================#*
+No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fechado para manutenção.
 
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de coxa com molho de maracujá*
-➤ Opção: PVT com molho de maracujá
-➤ *Chuchu com cenoura ralada*
-➤ Salada de almeirão
-➤ *Barra de cereais*
+➤ *Hambúrguer com molho barbecue*
+➤ Opção: Omelete
+➤ `Batata corada`
+➤ Salada de acelga
+➤ *Gelatina*
+➤ Minipão, refresco
+
+*#================Química (Jantar)================#*
+➤ Arroz, feijão, arroz integral 
+➤ *Bife grelhado ao molho argentino*
+➤ Opção: Assado vienense de PVT   
+➤ *Chuchu sauté  *
+➤ Salada de catalonha 
+➤ *Maria mole*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
-
-*#================Química (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral 
-➤ `Lasanha`
-➤ Opção: PVT com alho-poró
-➤ *Escarola à provençal*
-➤ Salada de grão-de-bico 
-➤ *Melancia*
-➤ Minipão, refresco
-
-*#================Física (Jantar)=================#*
-No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fechado para manutenção.
