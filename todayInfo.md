@@ -1,30 +1,30 @@
 
+*#================Central (Almoço)================#*
+Fechado
+
 *#==============Prefeitura (Almoço)===============#*
 Fechado
 
 *#================Física (Almoço)=================#*
 Fechado
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne picada com milho verde*
-➤ Opção: PVT com cenoura
-➤ *Berinjela à juliana*
-➤ Salada de rúcula
-➤ `Pão de mel`
-➤ Minipão, refresco
-
 *#================Química (Almoço)================#*
-Fechado
+➤ Arroz, feijão, arroz integral 
+➤ *Bife de panela*
+➤ Opção: PVT gratinado   
+➤ `Purê de batata`
+➤ Salada de escarola
+➤ *Melão  *
+➤ Minipão, refresco
 %
+
+*#================Central (Jantar)================#*
+Fechado
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Física (Jantar)=================#*
-Fechado
-
-*#================Central (Jantar)================#*
 Fechado
 
 *#================Química (Jantar)================#*
