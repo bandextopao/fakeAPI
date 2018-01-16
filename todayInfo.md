@@ -1,55 +1,55 @@
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Salsicha com molho de tomate*
-➤ Opção: PVT com cenoura
-➤ `Batata corada com alecrim`
-➤ Salada de agrião
-➤ *Maçã*
-➤ Minipão, refresco
-
 *#================Física (Almoço)=================#*
 No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fechado para manutenção.
 
+*#================Central (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Frango à chinesa*
+➤ Opção: PVT à chinesa
+➤ *Acelga à provençal*
+➤ Salada de beterraba ralada
+➤ `Pão de mel`
+➤ Minipão, refresco
+
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral 
-➤ `Almôndegas com molho roti`
-➤ Opção: Almôndegas de PVT
-➤ *Macarrão com manjericão*
-➤ Salada de escarola
-➤ *Laranja*
+➤ Arroz, feijão preto, arroz integral 
+➤ `Filé de frango à pizzaiolo`
+➤ Opção: Lentilha com molho de PVT
+➤ *Chucrute*
+➤ Salada de tomate
+➤ `Pavê de chocolate`
 ➤ Minipão, refresco 
 
 *#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ `Hambúrguer à pizzaiolo`
-➤ Opção: Hambúrguer de PVT 
-➤ *Couve-flor ao vinagrete*
-➤ Salada de alface                             
-➤ `Sorvete`
+➤ Arroz, feijão preto, arroz integral
+➤ *Carne em cubos acebolada *
+➤ Opção: PVT com mandioquinha  
+➤ *Chuchu com manjericão *
+➤ Salada de escarola 
+➤ *Banana *
 ➤ Minipão, refresco
 %
 
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ `Bife à milanesa`
-➤ Opção: PVT com brócolis
-➤ *Berinjela à napolitana*
-➤ Salada de escarola
-➤ *Bananada*
-➤ Minipão, refresco
-
 *#================Física (Jantar)=================#*
 No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fechado para manutenção.
+
+*#================Central (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Tiras de carne acebolada*
+➤ Opção: PVT à califórnia
+➤ *Batata-doce sauté*
+➤ Salada de alface
+➤ *Laranja*
+➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango xadrez *
-➤ Opção: Xadrez de PVT 
-➤ *Legumes sauté*
-➤ Salada de acelga 
-➤ *Mamão*
+➤ Arroz, feijão preto, arroz integral
+➤ *Copa lombo ao vinagrete *
+➤ Opção: Almôndega de PVT 
+➤ *Virado de vagem *
+➤ Salada de couve 
+➤ `Doce de leite com chocolate`
 ➤ Minipão, refresco
