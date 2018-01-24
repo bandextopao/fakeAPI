@@ -1,55 +1,55 @@
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango assado*
-➤ Opção: PVT com vagem
-➤ *Caponata de berinjela *
-➤ Salada de almeirão
-➤ `Doce de leite`
-➤ Minipão, refresco
-
-*#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango assado *
-➤ Opção: PVT ao vinagrete    
-➤ *Berinjela ao forno *
-➤ Salada de escarola
-➤ *Melancia *
-➤ Minipão, refresco
-
 *#================Física (Almoço)=================#*
 No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fechado para manutenção.
 
+*#================Química (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ `Almôndega ao sugo`
+➤ Opção: Almôndega de PVT      
+➤ `Raviolli de queijo ao sugo`
+➤ Salada de almeirão 
+➤ `Brigadeiro`
+➤ Minipão, refresco
+
 *#==============Prefeitura (Almoço)===============#*
 ➤ Arroz, feijão, arroz integral
-➤ *Fricassê de frango *
-➤ Opção: Fricassê de PVT
-➤ *Ratatouille*
-➤ Salada de agrião
-➤ *Gelatina*
+➤ `Cubos de carne com molho madeira`
+➤ Opção: PVT com escarola
+➤ `Nhoque com molho ao sugo`
+➤ Salada de rúcula
+➤ *Banana*
+➤ Minipão, refresco
+
+*#================Central (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Hambúrguer acebolado*
+➤ Opção: PVT com couve
+➤ `Purê de batata`
+➤ Salada de alface
+➤ *Maçã*
 ➤ Minipão, refresco
 %
-
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Tiras de carne à portuguesa*
-➤ Opção: PVT à portuguesa
-➤ *Farofa de banana*
-➤ Salada de acelga
-➤ *Pêssego*
-➤ Minipão, refresco
-
-*#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Quibe de assadeira *
-➤ Opção: PVT com mandioquinha 
-➤ *Legumes sauté *
-➤ Salada de alface   
-➤ *Gelatina de cereja  *
-➤ Minipão, refresco
 
 *#================Física (Jantar)=================#*
 No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fechado para manutenção.
 
+*#================Química (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Bife à chinesa *
+➤ Opção: Omelete de forno com ricota 
+➤ *Couve refogada*
+➤ Salada de beterraba  
+➤ *Banana *
+➤ Minipão, refresco
+
 *#==============Prefeitura (Jantar)===============#*
 Fechado
+
+*#================Central (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Omelete de assadeira*
+➤ Opção: Torta de PVT
+➤ *Jardineira de legumes*
+➤ Salada de escarola
+➤ `Chocolate em barra`
+➤ Minipão, refresco
