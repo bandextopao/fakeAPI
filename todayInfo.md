@@ -2,54 +2,54 @@
 *#================Física (Almoço)=================#*
 No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fechado para manutenção.
 
-*#================Química (Almoço)================#*
+*#==============Prefeitura (Almoço)===============#*
 ➤ Arroz, feijão, arroz integral
-➤ *Bife grelhado ao molho argentino  *
-➤ Opção: Omelete de queijo  
-➤ *Abobrinha à italiana *
-➤ Salada de escarola  
-➤ *Sagú de uva *
+➤ *Copa lombo com molho cítrico*
+➤ Opção: PVT com cogumelo
+➤ *Chucrute*
+➤ Salada de tomate
+➤ `Pudim de baunilha`
 ➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Escondidinho de carne`
-➤ Opção: Escondidinho de PVT
-➤ *Escarola refogada*
-➤ Salada de pepino com tomate
-➤ *Goiabada*
+➤ *Salsicha com molho barbecue*
+➤ Opção: PVT com moyashi
+➤ *Jardineira de legumes*
+➤ Salada de agrião
+➤ *Banana*
 ➤ Minipão, refresco
 
-*#==============Prefeitura (Almoço)===============#*
+*#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de frango com molho mostarda*
-➤ Opção: PVT com molho mostarda
-➤ *Abobrinha ao alho*
-➤ Salada de rúcula
-➤ *Laranja*
+➤ *Frango assado *
+➤ Opção: PVT com vagem  
+➤ `Mandioca temperada`
+➤ Salada de alface 
+➤ *Banana  *
 ➤ Minipão, refresco
 %
 
 *#================Física (Jantar)=================#*
 No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fechado para manutenção.
 
-*#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne assada ao molho de ervas*
-➤ Opção: Panqueca de PVT 
-➤ *Escarola à provençal *
-➤ Salada de pepino 
-➤ *Mamão   *
-➤ Minipão, refresco
+*#==============Prefeitura (Jantar)===============#*
+Fechado
 
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango com molho cítrico*
-➤ Opção: Quibe de PVT
-➤ *Quiabo ao alho e óleo*
-➤ Salada de alface
-➤ *Maçã*
+➤ *Bife de contrafilé ao molho roti*
+➤ Opção: PVT com espinafre
+➤ *Abobrinha turquesa*
+➤ Salada de acelga
+➤ `Doce de leite`
 ➤ Minipão, refresco
 
-*#==============Prefeitura (Jantar)===============#*
-Fechado
+*#================Química (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Linguiça toscana *
+➤ Opção: Almôndega de PVT 
+➤ *Farofa rica *
+➤ Salada de catalonha  
+➤ *Laranja *
+➤ Minipão, refresco
