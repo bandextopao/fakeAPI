@@ -1,25 +1,22 @@
 
-*#================Química (Almoço)================#*
-Fechado
-
 *#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne assada com molho ferrugem*
-➤ Opção: PVT à primavera
-➤ *Chuchu crocante*
-➤ Salada de alface
-➤ *Maçã*
-➤ Minipão, refresco
+Fechado
 
 *#================Física (Almoço)=================#*
 Fechado
 
 *#==============Prefeitura (Almoço)===============#*
 Fechado
-%
 
-*#================Química (Jantar)================#*
-Fechado
+*#================Química (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Bife de panela  *
+➤ Opção: PVT com alho-poró  
+➤ *Berinjela ao forno*
+➤ Salada de almeirão  
+➤ `Sorvete`
+➤ Minipão, refresco
+%
 
 *#================Central (Jantar)================#*
 Fechado
@@ -28,4 +25,7 @@ Fechado
 Fechado
 
 *#==============Prefeitura (Jantar)===============#*
+Fechado
+
+*#================Química (Jantar)================#*
 Fechado
