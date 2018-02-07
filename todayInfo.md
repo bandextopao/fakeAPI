@@ -1,55 +1,55 @@
 
 *#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Hambúrguer com molho barbecue*
-➤ Opção: PVT com tomate cereja
-➤ *Cenoura com vagem*
-➤ Salada de repolho
-➤ *Maçã*
-➤ Minipão, refresco
-
-*#================Química (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ `Carne moída refogada com batata e milho`
-➤ Opção: Escondidinho de PVT  
-➤ *Cenoura com vagem  *
-➤ Salada de escarola  
-➤ `Flan`
+➤ Arroz, arroz integral
+➤ *Minifeijoada*
+➤ Opção: Feijoada vegetariana
+➤ *Couve refogada*
+➤ Farofa
+➤ *Laranja*
 ➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
 No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fechado para manutenção.
 
+*#================Química (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ `Bisteca suína ao molho de abacaxi`
+➤ Opção: Omelete de forno
+➤ *Couve ao alho *
+➤ Salada de tomate com cebola 
+➤ *Maçã   *
+➤ Minipão, refresco
+
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral 
-➤ *Frango assado*
-➤ Opção: Feijoada de PVT
-➤ *Abóbora com alecrim*
-➤ Salada de rúcula
-➤ *Melancia*
+➤ Arroz, feijão, arroz integral
+➤ *Bife de panela*
+➤ Opção: PVT com escarola
+➤ *Legumes à brasileira*
+➤ Salada de agrião
+➤ *Sagu*
 ➤ Minipão, refresco
 %
 
 *#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango à mexicana*
-➤ Opção: Torta de PVT
-➤ *Chuchu no vapor*
-➤ Salada de almeirão
-➤ *Barra de cereais*
-➤ Minipão, refresco
-
-*#================Química (Jantar)================#*
 ➤ Arroz, feijão preto, arroz integral
-➤ *Bife grelhado ao molho roti *
-➤ Opção: PVT com moyashi    
-➤ *Polenta cremosa *
-➤ Salada de alface     
-➤ *Banana  *
+➤ *Bife a rolê*
+➤ Opção: Escondidinho de PVT
+➤ *Berinjela à grega*
+➤ Salada de acelga
+➤ *Goiaba*
 ➤ Minipão, refresco
 
 *#================Física (Jantar)=================#*
 No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fechado para manutenção.
+
+*#================Química (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ `Estrogonofe de frango`
+➤ Opção: Estrogonofe de PVT  
+➤ `Batata palha`
+➤ Salada de chicória    
+➤ *Gelatina *
+➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
