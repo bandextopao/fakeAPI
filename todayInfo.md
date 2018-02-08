@@ -1,11 +1,20 @@
 
-*#================Central (Almoço)================#*
-➤ Arroz, arroz integral
-➤ *Minifeijoada*
-➤ Opção: Feijoada vegetariana
-➤ *Couve refogada*
-➤ Farofa
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão, arroz integral
+➤ *Fricassê de frango*
+➤ Opção: Fricassê de PVT
+➤ *Ratatouille*
+➤ Salada de escarola
 ➤ *Laranja*
+➤ Minipão, refresco
+
+*#================Central (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Frango assado*
+➤ Opção: PVT com batata
+➤ *Abobrinha à juliana*
+➤ Salada de alface
+➤ `Pudim de prestígio`
 ➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
@@ -13,30 +22,24 @@ No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fec
 
 *#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Bisteca suína ao molho de abacaxi`
-➤ Opção: Omelete de forno
-➤ *Couve ao alho *
-➤ Salada de tomate com cebola 
-➤ *Maçã   *
-➤ Minipão, refresco
-
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de panela*
-➤ Opção: PVT com escarola
-➤ *Legumes à brasileira*
-➤ Salada de agrião
-➤ *Sagu*
+➤ `Filé de frango à pizzaiolo`
+➤ Opção: PVT alemão  
+➤ *Abobrinha refogada *
+➤ Salada de alface
+➤ `Doce de banana`
 ➤ Minipão, refresco
 %
 
+*#==============Prefeitura (Jantar)===============#*
+Fechado
+
 *#================Central (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Bife a rolê*
-➤ Opção: Escondidinho de PVT
-➤ *Berinjela à grega*
-➤ Salada de acelga
-➤ *Goiaba*
+➤ Arroz, feijão, arroz integral
+➤ *Hambúrguer acebolado*
+➤ Opção: PVT à cigana
+➤ *Creme de milho*
+➤ Salada de escarola
+➤ *Maçã*
 ➤ Minipão, refresco
 
 *#================Física (Jantar)=================#*
@@ -44,12 +47,9 @@ No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fec
 
 *#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Estrogonofe de frango`
-➤ Opção: Estrogonofe de PVT  
-➤ `Batata palha`
-➤ Salada de chicória    
-➤ *Gelatina *
+➤ *Quibe de assadeira *
+➤ Opção: PVT com alho-poró   
+➤ *Chuchu refogado *
+➤ Salada de catalonha    
+➤ *Mamão     *
 ➤ Minipão, refresco
-
-*#==============Prefeitura (Jantar)===============#*
-Fechado
