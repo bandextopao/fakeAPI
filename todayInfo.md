@@ -1,54 +1,54 @@
 
-*#================Central (Almoço)================#*
+*#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Salsicha com molho barbecue*
-➤ Opção: PVT com ervilhas
-➤ `Purê de batata`
-➤ Salada de escarola
-➤ *Laranja*
+➤ *Filé de frango ao molho mostarda *
+➤ Opção: Almôndega de PVT    
+➤ *Quibebe*
+➤ Salada de alface   
+➤ *Banana  *
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral
-➤ *Hambúrguer com molho ferrugem*
-➤ Opção: PVT com ervilha
-➤ `Macarrão com molho ao sugo`
-➤ Salada de alface
-➤ *Maçã*
-➤ Minipão, refresco
+➤ Arroz, feijão, arroz integral  
+➤ `Filé de frango com molho madeira`
+➤ Opção: Omelete de PVT
+➤ `Mandioca corada`
+➤ Salada de agrião
+➤ *Laranja*
+➤ Minipão, refresco 
 
-*#================Química (Almoço)================#*
+*#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Linguiça toscana *
-➤ Opção: Quibe de PVT   
-➤ *Farofa rica *
-➤ Salada de repolho    
-➤ `Doce de goiabada`
+➤ *Carne em cubos com cogumelos*
+➤ Opção: PVT com cogumelos
+➤ *Chuchu com milho*
+➤ Salada de alface
+➤ `Pão de mel`
 ➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
 No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fechado para manutenção.
 %
 
-*#================Central (Jantar)================#*
+*#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Torta de frango*
-➤ Opção: PVT à caipira
-➤ *Ratatouille*
-➤ Salada de repolho
-➤ `Doce de leite`
+➤ *Bife grelhado ao molho à chinesa*
+➤ Opção: PVT refogado    
+➤ *Berinjela ao forno *
+➤ Salada de escarola  
+➤ `Cocada cremosa`
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#================Química (Jantar)================#*
+*#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de coxa grelhado *
-➤ Opção: PVT rica    
-➤ `Mandioca ao vinagrete`
-➤ Salada de acelga    
-➤ *Laranja *
+➤ *Filé de peixe à baiana*
+➤ Opção: PVT à baiana
+➤ *Cuscuz de legumes*
+➤ Salada de almeirão
+➤ *Ameixa*
 ➤ Minipão, refresco
 
 *#================Física (Jantar)=================#*
