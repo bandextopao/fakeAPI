@@ -4,30 +4,29 @@ No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fec
 
 *#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Bife acebolado *
-➤ Opção: Panqueca de PVT  
-➤ *Chuchu refogado *
-➤ Salada de almeirão   
-➤ `Pudim de baunilha`
-➤ Minipão, refresco
-
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ `Escondidinho de frango`
-➤ Opção: Escondidinho de PVT
-➤ *Caponata de abobrinha*
-➤ Salada de alface
-➤ *Bananada*
+➤ *Frango assado *
+➤ Opção: Fricassé de PVT  
+➤ *Berinjela com passas *
+➤ Salada de escarola   
+➤ `Brigadeiro`
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
 ➤ Arroz, feijão, arroz integral
-➤ *Cubos de frango à moda oriental*
-➤ Opção: PVT à moda oriental
-➤ `Batata napolitana`
-➤ Salada de rúcula
-➤ `Pudim de maria mole`
+➤ *Isca de carne com molho barbecue*
+➤ Opção: Panqueca de PVT
+➤ *Cenoura sauté*
+➤ Salada de agrião
+➤ *Banana*
 ➤ Minipão, refresco
+
+*#================Central (Almoço)================#*
+➤ Arroz colorido, feijão, arroz integral
+➤ *Canelone de carne*
+➤ Opção: Canelone de PVT
+➤ *Salada de acelga*
+➤ Laranja
+➤ *Minipão, refresco*
 %
 
 *#================Física (Jantar)=================#*
@@ -35,21 +34,21 @@ No período de 04, 01, 2018 a 25, 02, 2018, o Restaurante da Física ficará fec
 
 *#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de frango ao molho vinagrete*
-➤ Opção: PVT com alho-poró   
-➤ *Creme de milho *
-➤ Salada de chicória    
-➤ *Laranja *
-➤ Minipão, refresco
-
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Ovos fritos*
-➤ Opção: PVT com escarola
-➤ *Seleta de legumes*
-➤ Salada de almeirão
-➤ *Maçã*
+➤ *Copa lombo ao molho barbecue *
+➤ Opção: Omelete de forno   
+➤ *Virado de espinafre *
+➤ Salada de alface  
+➤ *Melão *
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
+
+*#================Central (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Quibe*
+➤ Opção: Quibe de PVT
+➤ *Berinjela com coalhada*
+➤ Salada de escarola
+➤ `Doce de leite`
+➤ Minipão, refresco
