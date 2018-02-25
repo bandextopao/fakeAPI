@@ -1,30 +1,30 @@
 
-*#================Química (Almoço)================#*
-Fechado
-
 *#================Física (Almoço)=================#*
 Fechado
 
 *#==============Prefeitura (Almoço)===============#*
 Fechado
 
-*#================Central (Almoço)================#*
+*#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Lombo com molho de abacaxi`
-➤ Opção: PVT à havaiana
-➤ *Chucrute*
-➤ Salada de beterraba
-➤ *Goiabada*
+➤ *Frango assado*
+➤ Opção: PVT com vagem  
+➤ `Macarrão ao sugo`
+➤ Salada de repolho bicolor    
+➤ *Laranja *
 ➤ Minipão, refresco
-%
 
-*#================Química (Jantar)================#*
+*#================Central (Almoço)================#*
 Fechado
+%
 
 *#================Física (Jantar)=================#*
 Fechado
 
 *#==============Prefeitura (Jantar)===============#*
+Fechado
+
+*#================Química (Jantar)================#*
 Fechado
 
 *#================Central (Jantar)================#*
