@@ -1,67 +1,67 @@
 
-*#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Fricassê de frango*
-➤ Opção: Almôndega de PVT com aveia  
-➤ *Cenoura na salsa*
-➤ Salada de acelga  
-➤ `Mousse de chocolate`
-➤ Minipão, refresco
-
-*#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango ao forno*
-➤ Opção: PVT com espinafre
-➤ *Polenta cremosa*
-➤ Salada de repolho
-➤ *Maçã*
+*#================Central (Almoço)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Carne em cubos à mineira*
+➤ Opção: PVT com azeitonas
+➤ *Cenoura com ervilhas*
+➤ Salada de acelga
+➤ `Pão de mel`
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão preto, arroz integral  
+➤ *Bife de panela*
+➤ Opção: Yakissoba de PVT
+➤ *Polenta *
+➤ Salada de agrião
+➤ *Manga *
+➤ Minipão, refresco 
+
+*#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Copa lombo com molho cítrico*
-➤ Opção: PVT com ameixa
-➤ *Chucrute*
-➤ Salada de tomate e pepino
-➤ *Goiabinha*
+➤ *Frango assado *
+➤ Opção: PVT alemão  
+➤ *Legumes sauté *
+➤ Salada de escarola 
+➤ *Bolinho individual de laranja     *
 ➤ Minipão, refresco
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango ao forno*
-➤ Opção: PVT com espinafre
-➤ *Polenta cremosa*
-➤ Salada de repolho
-➤ *Maçã*
+*#================Física (Almoço)=================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Carne em cubos à mineira*
+➤ Opção: PVT com azeitonas
+➤ *Cenoura com ervilhas*
+➤ Salada de acelga
+➤ `Doce de leite com chocolate`
 ➤ Minipão, refresco
 %
 
-*#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Cupim assado ao molho de ervas*
-➤ Opção: PVT rica 
-➤ *Virado de abobrinha *
-➤ Salada de alface
-➤ *Maçã  *
-➤ Minipão, refresco
-
-*#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de contrafilé com molho roti*
-➤ Opção: PVT com tomate cereja
-➤ *Abobrinha com tomate*
-➤ Salada de alface
-➤ *Bananada*
+*#================Central (Jantar)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Ovos mexidos*
+➤ Opção: PVT à primavera
+➤ `Mandioca corada`
+➤ Salada de escarola
+➤ *Maçã*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#================Central (Jantar)================#*
+*#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Bife de contrafilé com molho roti*
-➤ Opção: PVT com tomate cereja
-➤ *Abobrinha com tomate*
-➤ Salada de alface
-➤ *Bananada*
+➤ *Iscas de carne aceboladas*
+➤ Opção: PVT refogado  
+➤ *Couve-flor gratinada*
+➤ Salada de rúcula   
+➤ *Mamão*
+➤ Minipão, refresco
+
+*#================Física (Jantar)=================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Ovos mexidos*
+➤ Opção: PVT à primavera
+➤ `Mandioca corada`
+➤ Salada de escarola
+➤ *Maçã*
 ➤ Minipão, refresco
