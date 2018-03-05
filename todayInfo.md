@@ -1,67 +1,67 @@
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Carne em cubos à mineira*
-➤ Opção: PVT com azeitonas
-➤ *Cenoura com ervilhas*
-➤ Salada de acelga
-➤ `Pão de mel`
-➤ Minipão, refresco
-
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão preto, arroz integral  
-➤ *Bife de panela*
-➤ Opção: Yakissoba de PVT
-➤ *Polenta *
-➤ Salada de agrião
-➤ *Manga *
+➤ Arroz, feijão, arroz integral  
+➤ `Almôndegas com molho de tomate`
+➤ Opção: PVT à primavera (milho e ervilha)
+➤ *Creme de espinafre*
+➤ Salada de alface
+➤ *Melancia*
 ➤ Minipão, refresco 
 
 *#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango assado *
-➤ Opção: PVT alemão  
-➤ *Legumes sauté *
-➤ Salada de escarola 
-➤ *Bolinho individual de laranja     *
+➤ *Filé de frango ao molho fazendinha *
+➤ Opção: PVT com azeitonas 
+➤ *Abóbora refogada *
+➤ Salada de repolho 
+➤ *Goiabada *
+➤ Minipão, refresco
+
+*#================Central (Almoço)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Linguiça acebolada*
+➤ Opção: PVT com milho
+➤ *Couve à provençal*
+➤ Salada de beterraba
+➤ *Laranja*
 ➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
 ➤ Arroz, feijão preto, arroz integral
-➤ *Carne em cubos à mineira*
-➤ Opção: PVT com azeitonas
-➤ *Cenoura com ervilhas*
-➤ Salada de acelga
-➤ `Doce de leite com chocolate`
+➤ *Linguiça acebolada*
+➤ Opção: PVT com milho
+➤ *Couve à provençal*
+➤ Salada de beterraba
+➤ *Laranja*
 ➤ Minipão, refresco
 %
-
-*#================Central (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Ovos mexidos*
-➤ Opção: PVT à primavera
-➤ `Mandioca corada`
-➤ Salada de escarola
-➤ *Maçã*
-➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Iscas de carne aceboladas*
-➤ Opção: PVT refogado  
-➤ *Couve-flor gratinada*
-➤ Salada de rúcula   
-➤ *Mamão*
+➤ *Bife grelhado à caçadora *
+➤ Opção: PVT com alho-poró 
+➤ `Mandioca temperada`
+➤ Salada de acelga  
+➤ *Laranja*
+➤ Minipão, refresco
+
+*#================Central (Jantar)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Carne assada com molho russo*
+➤ Opção: PVT com ervilhas
+➤ *Batata-doce corada*
+➤ Salada de almeirão
+➤ *Goiabada*
 ➤ Minipão, refresco
 
 *#================Física (Jantar)=================#*
 ➤ Arroz, feijão preto, arroz integral
-➤ *Ovos mexidos*
-➤ Opção: PVT à primavera
-➤ `Mandioca corada`
-➤ Salada de escarola
-➤ *Maçã*
+➤ *Carne assada com molho russo*
+➤ Opção: PVT com ervilhas
+➤ *Batata doce corada*
+➤ Salada de almeirão
+➤ *Goiabada*
 ➤ Minipão, refresco
