@@ -1,18 +1,18 @@
 
 *#================Química (Almoço)================#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Frango assado*
+➤ Opção: PVT com vagem e batata   
+➤ *Creme de milho *
+➤ Salada de alface americana   
+➤ *Bolinho individual de laranja  *
+➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
 Fechado
 
 *#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Lombo com molho de limão*
-➤ Opção: PVT com mandioca
-➤ *Cenoura com passas*
-➤ Salada de almeirão
-➤ `Pão de mel`
-➤ Minipão, refresco
+Fechado
 
 *#==============Prefeitura (Almoço)===============#*
 Fechado
