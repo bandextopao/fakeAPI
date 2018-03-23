@@ -1,67 +1,67 @@
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Iscas de carne com molho de cogumelos*
-➤ Opção: PVT com ervilhas
-➤ *Abóbora refogada*
-➤ Salada de alface
-➤ *Goiaba*
-➤ Minipão, refresco
-
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Cubos de frango à moda oriental*
-➤ Opção: PVT com moyashi
-➤ `Mandioca corada`
-➤ Salada de alface
-➤ *Espumone de morango*
+➤ Arroz, feijão, arroz integral  
+➤ *Copa lombo com molho de vinho*
+➤ Opção: PVT à madalena
+➤ *Abóbora com alho-poró*
+➤ Salada de escarola
+➤ *Maçã*
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de frango ao molho mostarda *
-➤ Opção: Almôndega de PVT
-➤ *Abobrinha ao forno *
-➤ Salada de folhas mistas       
-➤ *Melancia     *
+➤ *Bife grelhado ao molho roti*
+➤ Opção: PVT ao vinagrete  
+➤ *Repolho à escabeche *
+➤ Salada de beterraba ralada    
+➤ `Flan de baunilha`
+➤ Minipão, Refresco
+
+*#================Central (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Fricassê de frango*
+➤ Opção: Fricassê de PVT
+➤ *Escarola à provençal*
+➤ Salada de beterraba
+➤ *Caqui*
 ➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Iscas de carne com molho de cogumelos*
-➤ Opção: PVT com ervilhas
-➤ *Abóbora refogada*
-➤ Salada de alface
-➤ *Goiaba*
+➤ *Fricassê de frango*
+➤ Opção: Fricassê de PVT
+➤ *Escarola à provençal*
+➤ Salada de beterraba
+➤ *Caqui*
 ➤ Minipão, refresco
 %
-
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Cupim com molho de limão*
-➤ Opção: PVT com milho
-➤ `Mandioca sauté`
-➤ Salada de repolho
-➤ *Banana*
-➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Carne assada ao molho madeira`
-➤ Opção: PVT com azeitonas   
-➤ *Brócolis ao alho*
-➤ Salada de acelga    
-➤ `Sorvete`
+➤ *Filé de coxa grelhado*
+➤ Opção: PVT alemão     
+➤ `Purê de batata`
+➤ Salada de alface americana    
+➤ *Melão  *
+➤ Minipão, refresco
+
+*#================Central (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Ovos mexidos*
+➤ Opção: PVT com couve
+➤ *Legumes mistos*
+➤ Salada de acelga
+➤ *Goiaba*
 ➤ Minipão, refresco
 
 *#================Física (Jantar)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Cupim com molho de limão*
-➤ Opção: PVT com milho
-➤ `Mandioca sauté`
-➤ Salada de repolho
-➤ *Banana*
+➤ *Ovos mexidos*
+➤ Opção: PVT com couve
+➤ *Legumes mistos*
+➤ Salada de acelga
+➤ *Goiaba*
 ➤ Minipão, refresco
