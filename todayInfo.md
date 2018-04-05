@@ -1,67 +1,67 @@
 
-*#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango com molho de ervilhas*
-➤ Opção: PVT com ervilhas
-➤ *Escarola à provençal*
-➤ Salada de pepino com hortelã
-➤ *Maçã*
-➤ Minipão, refresco
-
 *#================Química (Almoço)================#*
 ➤ Arroz ,  Feijão ,  Arroz Integral
-➤ `Estrogonofe de Carne`
-➤ Opção: Estrogonofe PVT   
-➤ `Batata palha`
-➤ Salada de catalonha  
-➤ *Maçã *
-➤ Mini pão, Refresco
+➤ *Frango assado *
+➤ Opção: PVT à portuguesa 
+➤ *Chuchu com manjericão *
+➤ Salada de beterraba ralada
+➤ `Cocada cremosa`
+➤ Mini pão, refresco 
 
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão , arroz integral
-➤ *Filé de frango com molho vinagrete*
-➤ Opção: PVT com molho vinagrete
-➤ *Abóbora com ervas finas*
-➤ Salada de agrião
-➤ *Banana*
+➤ Arroz, feijão, arroz integral
+➤ *Bife de contrafilé*
+➤ Opção: berinjela gratinada com PVT
+➤ *Couve flor com alho poró*
+➤ Salada de rúcula
+➤ *Melancia*
+➤ Minipão, refresco
+
+*#================Física (Almoço)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Rolê de carne com molho de tomate*
+➤ Opção: PVT com brócolis
+➤ *Macarrão ao alho e óleo*
+➤ Salada de alface
+➤ *Caqui*
 ➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango com molho de ervilhas*
-➤ Opção: PVT com ervilhas
-➤ *Escarola à provençal*
-➤ Salada de pepino com hortelã
-➤ *Maçã*
+➤ *Rolê de carne com molho de tomate*
+➤ Opção: PVT com brócolis
+➤ *Macarrão ao alho e óleo*
+➤ Salada de repolho
+➤ *Laranja*
 ➤ Minipão, refresco
 %
 
-*#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne assada*
-➤ Opção: PVT com moyashi
-➤ *Chuchu no vapor*
-➤ Salada de almeirão
-➤ *Goiaba*
-➤ Minipão, refresco
-
 *#================Química (Jantar)================#*
 ➤ Arroz ,  Feijão ,  Arroz Integral
-➤ *Peixe no fubá *
-➤ Opção: Lasanha de PVT  
-➤ *Brócolis com cenoura  *
-➤ Salada de alface americana 
-➤ *Sagu de uva*
-➤ Mini pão, Refresco
+➤ *Bife grelhado acebolado *
+➤ Opção: Charuto de repolho com PVT 
+➤ *Quibebe *
+➤ Salada de almeirão
+➤ *Melão *
+➤ Mini pão, refresco 
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
+*#================Física (Jantar)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Filé de peixe dourado*
+➤ Opção: PVT com brócolis
+➤ *Vagem com cenoura*
+➤ Salada de acelga
+➤ *Banana*
+➤ Minipão, refresco
+
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne assada*
-➤ Opção: PVT com moyashi
-➤ *Chuchu no vapor*
-➤ Salada de almeirão
-➤ *Goiaba*
+➤ *Filé de peixe dourado*
+➤ Opção: PVT com batata
+➤ *Vagem com cenoura*
+➤ Salada de acelga
+➤ *Banana*
 ➤ Minipão, refresco
