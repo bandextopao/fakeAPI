@@ -1,21 +1,25 @@
 
+*#==============Prefeitura (Almoço)===============#*
+Fechado
+
 *#================Física (Almoço)=================#*
 Fechado
 
 *#================Química (Almoço)================#*
-Fechado
+➤ Arroz ,  Feijão ,  Arroz Integral
+➤ *Frango à caçadora*
+➤ Opção: PVT com tomate  
+➤ *Creme de espinafre*
+➤ Salada de almeirão
+➤ `Sorvete`
+➤ Mini pão, refresco 
 
 *#================Central (Almoço)================#*
-➤ Arroz festivo, feijão, arroz integral
-➤ `Lasanha`
-➤ Opção: Macarrão com molho de PVT
-➤ *Salada de almeirão*
-➤ Laranja
-➤ *Minipão, refresco*
-
-*#==============Prefeitura (Almoço)===============#*
 Fechado
 %
+
+*#==============Prefeitura (Jantar)===============#*
+Fechado
 
 *#================Física (Jantar)=================#*
 Fechado
@@ -24,7 +28,4 @@ Fechado
 Fechado
 
 *#================Central (Jantar)================#*
-Fechado
-
-*#==============Prefeitura (Jantar)===============#*
 Fechado
