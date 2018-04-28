@@ -1,67 +1,31 @@
 
+*#================Química (Almoço)================#*
+Fechado
+
+*#================Física (Almoço)=================#*
+Fechado
+
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão , arroz integral
-➤ *Carne moída com pimentões*
-➤ Opção: PVT com pimentões
-➤ *Virado de couve*
-➤ Salada de mostarda
-➤ *Banana*
-➤ Minipão, refresco
+Fechado
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne moída com azeitonas*
-➤ Opção: PVT com azeitonas
-➤ *Macarrão ao alho e óleo*
-➤ Salada de alface
-➤ *Maçã*
-➤ Minipão, refresco
-
-*#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne moída com azeitonas*
-➤ Opção: PVT com azeitonas
-➤ *Macarrão ao alho e óleo*
-➤ Salada de alface
-➤ *Maçã*
-➤ Minipão, refresco
-
-*#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ `Lasanha à bolonhesa`
-➤ Opção: PVT rica 
-➤ *Couve à mineira *
-➤ Salada de beterraba ralada  
-➤ *Maçã*
+➤ *Bife de contrafilé grelhado*
+➤ Opção: PVT com batata
+➤ *Abóbora à italiana*
+➤ Salada de repolho
+➤ *Laranja*
 ➤ Minipão, refresco
 %
+
+*#================Química (Jantar)================#*
+Fechado
+
+*#================Física (Jantar)=================#*
+Fechado
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne em cubos com molho mostarda*
-➤ Opção: PVT com brócolis
-➤ *Caponata de berinjela*
-➤ Salada de almeirão
-➤ *Caqui*
-➤ Minipão, refresco
-
-*#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne picada com cogumelos*
-➤ Opção: PVT com brócolis
-➤ *Caponata de berinjela*
-➤ Salada de almeirão
-➤ *Caqui*
-➤ Minipão, refresco
-
-*#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de frango ao molho mostarda*
-➤ Opção: Quibe de PVT
-➤ *Berinjela ao forno*
-➤ Salada de alface 
-➤ *Melão *
-➤ Minipão, refresco
+Fechado
