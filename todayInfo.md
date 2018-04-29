@@ -1,6 +1,12 @@
 
 *#================Química (Almoço)================#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Bife ao molho caçadora  *
+➤ Opção: PVT com mandioquinha   
+➤ *Abóbora ao alho*
+➤ Salada de almeirão 
+➤ *Bolinho individual de laranja *
+➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
 Fechado
@@ -9,13 +15,7 @@ Fechado
 Fechado
 
 *#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de contrafilé grelhado*
-➤ Opção: PVT com batata
-➤ *Abóbora à italiana*
-➤ Salada de repolho
-➤ *Laranja*
-➤ Minipão, refresco
+Fechado
 %
 
 *#================Química (Jantar)================#*
