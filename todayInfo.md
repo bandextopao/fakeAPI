@@ -1,41 +1,41 @@
 
-*#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ `Carne em cubos ao molho madeira`
-➤ Opção: Panqueca de PVT 
-➤ *Abobrinha à italiana*
-➤ Salada de repolho 
-➤ *Bolo  *
-➤ Minipão, refresco
-
 *#================Física (Almoço)=================#*
-Fechado
+Feriado
 
 
 *#================Central (Almoço)================#*
-Fechado
+Feriado
 
 
-*#==============Prefeitura (Almoço)===============#*
-Fechado
-%
-
-*#================Química (Jantar)================#*
+*#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Almôndega ao sugo`
-➤ Opção: Almôndega de PVT 
-➤ *Macarrão alho e óleo *
-➤ Salada de alface 
-➤ *Melancia*
+➤ *Filé de frango ao vinagrete*
+➤ Opção: PVT com alho-poró 
+➤ *Creme de milho*
+➤ Salada de alface
+➤ *Maçã*
 ➤ Minipão, refresco
 
+*#==============Prefeitura (Almoço)===============#*
+Feriado
+%
+
 *#================Física (Jantar)=================#*
-Fechado
+Feriado
 
 
 *#================Central (Jantar)================#*
-Fechado
+Feriado
 
+
+*#================Química (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Carne assada ao molho roti*
+➤ Opção: PVT com tomate 
+➤ *Acelga ao alho  *
+➤ Salada de cenoura ralada 
+➤ `Pudim`
+➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
-Fechado
+Feriado
