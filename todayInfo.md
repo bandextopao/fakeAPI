@@ -1,41 +1,67 @@
 
-*#================Física (Almoço)=================#*
-Feriado
-
-
 *#================Central (Almoço)================#*
-Feriado
-
+➤ Arroz, feijão preto, arroz integral
+➤ `Lombo com molho de abacaxi`
+➤ Opção: PVT havaiano
+➤ *Virado de milho*
+➤ Salada de repolho
+➤ *Laranja*
+➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de frango ao vinagrete*
-➤ Opção: PVT com alho-poró 
-➤ *Creme de milho*
-➤ Salada de alface
-➤ *Maçã*
+➤ *Bife grelhado ao molho de champignon *
+➤ Opção: Omelete com espinafre 
+➤ *Jardineira de legumes*
+➤ Salada de pepino com tomate
+➤ `Mousse de chocolate`
+➤ Minipão, refresco
+
+*#================Física (Almoço)=================#*
+➤ Arroz, feijão preto, arroz integral
+➤ `Lombo com molho de abacaxi`
+➤ Opção: PVT havaiano
+➤ *Virado de milho*
+➤ Salada de repolho
+➤ *Laranja*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
-Feriado
+➤ Arroz, feijão , arroz integral
+➤ `Almôndegas à primavera`
+➤ Opção: PVT à primavera 
+➤ *Polenta cremosa*
+➤ Salada de rúcula
+➤ *Goiabinha*
+➤ Minipão, refresco
 %
 
-*#================Física (Jantar)=================#*
-Feriado
-
-
 *#================Central (Jantar)================#*
-Feriado
-
+➤ Arroz, feijão preto, arroz integral
+➤ *Carne assada*
+➤ Opção: PVT com ervilhas
+➤ *Chuchu no vapor*
+➤ Salada de acelga
+➤ *Maçã*
+➤ Minipão, refresco
 
 *#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne assada ao molho roti*
-➤ Opção: PVT com tomate 
-➤ *Acelga ao alho  *
-➤ Salada de cenoura ralada 
-➤ `Pudim`
+➤ *Fricassê de frango *
+➤ Opção: Moussaka vegetariana  
+➤ *Brócolis ao alho *
+➤ Salada de catalonha 
+➤ *Banana*
+➤ Minipão, refresco
+
+*#================Física (Jantar)=================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Carne assada*
+➤ Opção: PVT com ervilhas
+➤ *Chuchu no vapor*
+➤ Salada de acelga
+➤ *Maçã*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
-Feriado
+Fechado
