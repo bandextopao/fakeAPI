@@ -1,67 +1,67 @@
 
 *#================Física (Almoço)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Rolê de carne com molho de tomate*
-➤ Opção: PVT com ervilhas
-➤ *Macarrão ao alho e óleo*
-➤ Salada de acelga
-➤ *Maçã*
+➤ *Empanado de frango*
+➤ Opção: PVT com tomate-cereja
+➤ *Escarola à provençal*
+➤ Salada de beterraba
+➤ *Laranja*
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Picadinho à brasileira*
-➤ Opção: PVT com moyashi  
-➤ *Couve-flor ao vinagrete*
-➤ Salada de repolho bicolor 
-➤ *Maçã*
+➤ *Filé de frango ao vinagrete*
+➤ Opção: Puchero vegetariano   
+➤ *Abobrinha à italiana*
+➤ Salada de almeirão 
+➤ `Pudim`
 ➤ Minipão, refresco
-
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral  
-➤ *Carnes em cubos com molho roti*
-➤ Opção: PVT com espinafre
-➤ *Batata doce sauté*
-➤ Salada de almeirão
-➤ *Laranja*
-➤ Minipão, refresco 
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Rolê de carne com molho de tomate*
-➤ Opção: PVT com ervilhas
-➤ *Macarrão ao alho e óleo*
-➤ Salada de acelga
-➤ *Maçã*
+➤ *Empanado de frango*
+➤ Opção: PVT com tomate-cereja
+➤ *Escarola à provençal*
+➤ Salada de beterraba
+➤ *Laranja*
+➤ Minipão, refresco
+
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão, arroz integral 
+➤ `Estrogonofe de frango`
+➤ Opção:  Estrogonofe de PVT 
+➤ `Batata corada`
+➤ Salada de agrião
+➤ *Laranja*
 ➤ Minipão, refresco
 %
 
 *#================Física (Jantar)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de tilápia à baiana*
-➤ Opção: PVT com brócolis
-➤ *Creme de cenoura*
-➤ Salada de repolho
-➤ *Goiabada*
+➤ *Cupim com molho de limão*
+➤ Opção: PVT com moyashi
+➤ *Chuchu com salsa*
+➤ Salada de alface
+➤ *Mexerica*
 ➤ Minipão, refresco
 
 *#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Estrogonofe de frango`
-➤ Opção: Estrogonofe de PVT 
-➤ *Batata-palha*
-➤ Salada de acelga  
-➤ *Gelatina *
+➤ *Lagarto assado ao molho roti *
+➤ Opção: PVT alemão    
+➤ *Acelga refogada *
+➤ Salada de pepino com tomate  
+➤ *Mamão *
+➤ Minipão, refresco
+
+*#================Central (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Cupim com molho de limão*
+➤ Opção: PVT com moyashi
+➤ *Chuchu com salsa*
+➤ Salada de alface
+➤ *Mexerica*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
-
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de tilápia à baiana*
-➤ Opção: PVT com brócolis
-➤ *Creme de cenoura*
-➤ Salada de repolho
-➤ *Goiabada*
-➤ Minipão, refresco
