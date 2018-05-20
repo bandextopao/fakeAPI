@@ -1,30 +1,30 @@
 
+*#================Física (Almoço)=================#*
+Fechado
+
 *#==============Prefeitura (Almoço)===============#*
 Fechado
 
 *#================Química (Almoço)================#*
-Fechado
-
-*#================Física (Almoço)=================#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Iscas de carne aceboladas *
+➤ Opção: PVT com cogumelos    
+➤ `Ravióli ao sugo`
+➤ Salada de almeirão     
+➤ *Laranja   *
+➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Iscas de carne à napolitana*
-➤ Opção: PVT à napolitana
-➤ `Mandioca com salsa`
-➤ Salada de acelga
-➤ *Banana*
-➤ Minipão, refresco
+Fechado
 %
+
+*#================Física (Jantar)=================#*
+Fechado
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Química (Jantar)================#*
-Fechado
-
-*#================Física (Jantar)=================#*
 Fechado
 
 *#================Central (Jantar)================#*
