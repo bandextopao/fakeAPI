@@ -1,61 +1,67 @@
 
 *#================Química (Almoço)================#*
+➤ Arroz ,  Feijão Preto ,  arroz integral
+➤ *Pernil com molho de limão *
+➤ Opção: Omelete de forno c,  legumes
+➤ *Abóbora sauté*
+➤ Salada de escarola
+➤ *Maçã*
+➤ Mini pão, refresco
+
+*#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne cozida ao molho roti*
-➤ Opção: PVT caipira
-➤ `Mandioca temperada`
-➤ Salada de acelga   
-➤ *Mamão*
+➤ `Estrogonofe de carne`
+➤ Opção: Estrogonofe de PVT
+➤ *Batata-palha*
+➤ Salada de alface
+➤ *Maçã*
 ➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango empanado*
-➤ Opção: PVT com brócolis
-➤ *Chuchu com salsa*
-➤ Salada de acelga
-➤ *Laranja*
+➤ `Estrogonofe de carne`
+➤ Opção: Estrogonofe de PVT
+➤ *Batata-palha*
+➤ Salada de alface
+➤ *Maçã*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
-Fechado por problemas operacionais. O Restaurante Central, Restaurante da Física e Restaurante das Químicas funcionarão normalmente para almoço e jantar.
-
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango empanado*
-➤ Opção: PVT com brócolis
-➤ *Chuchu com salsa*
-➤ Salada de acelga
-➤ *Banana*
-➤ Minipão, refresco
+➤ Arroz, feijão, arroz integral 
+➤ *Cubos de frango com molho de ervas*
+➤ Opção: PVT com vagem
+➤ *Macarrão ao alho e óleo*
+➤ Salada de escarola
+➤ *Gelatina*
+➤ Minipão, refresco 
 %
 
 *#================Química (Jantar)================#*
+➤ Arroz ,  Feijão Preto ,  Arroz Integral
+➤ *Filé de coxa assado*
+➤ Opção: PVT com brócolis  
+➤ *Creme de milho*
+➤ Salada de folhas mistas  
+➤ *Banana *
+➤ Mini pão, Refresco
+
+*#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de coxa grelhado*
-➤ Opção: PVT com azeitona    
-➤ *Escarola ao alho*
-➤ Salada de beterraba ralada       
-➤ *Bolinho individual*
+➤ *Filé de tilápia dourado*
+➤ Opção: PVT com milho
+➤ *Abobrinha ao forno*
+➤ Salada de almeirão
+➤ *Barra de cereais*
 ➤ Minipão, refresco
 
 *#================Física (Jantar)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne assada com molho roti*
-➤ Opção: PVT com ervilha
-➤ *Batata-doce corada*
-➤ Salada de escarola
-➤ *Maçã*
+➤ *Filé de tilápia dourado*
+➤ Opção: PVT com milho
+➤ *Abobrinha ao forno*
+➤ Salada de almeirão
+➤ *Barra de cereais*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
-
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne assada com molho roti*
-➤ Opção: PVT com ervilhas
-➤ *Batata-doce corada*
-➤ Salada de escarola
-➤ *Barra de cereal*
-➤ Minipão, refresco
