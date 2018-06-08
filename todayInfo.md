@@ -1,67 +1,67 @@
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Carne picada com molho à cigana*
-➤ Opção: PVT com cogumelos
-➤ *Abóbora sauté*
-➤ Salada de almeirão
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão preto , arroz integral
+➤ *Carne em cubos à brasileira*
+➤ Opção: PVT à brasileira
+➤ `Polenta ao sugo`
+➤ Salada de repolho
 ➤ *Banana*
+➤ Minipão, refresco
+
+*#================Central (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ `Almôndegas com molho de tomate`
+➤ Opção: PVT à baiana
+➤ *Batata-doce sauté*
+➤ Salada de acelga
+➤ `Doce de leite`
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
 ➤ Arroz ,  Feijão ,  Arroz Integral
-➤ *Iscas de frango com molho vinagrete*
-➤ Opção: PVT Alemão
-➤ `Mandioca sauté`
-➤ Salada de alface
-➤ `Delicia de abacaxi`
+➤ *Bife grelhado à chinesa*
+➤ Opção: Lasanha de PVT 
+➤ *Legumes sautê*
+➤ Salada de repolho bicolor
+➤ *Melancia*
 ➤ Mini pão, Refresco
-
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de frango com molho ferrugem*
-➤ Opção: canelone de PVT 
-➤ *Berinjela com salsa*
-➤ Salada de rúcula
-➤ `Mousse de maracujá`
-➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Carne picada com molho à cigana*
-➤ Opção: PVT com cogumelos
-➤ *Abóbora sauté*
-➤ Salada de almeirão
-➤ *Banana*
+➤ Arroz, feijão, arroz integral
+➤ `Almôndegas com molho de tomate`
+➤ Opção: PVT à baiana
+➤ *Batata-doce sauté*
+➤ Salada de acelga
+➤ `Doce de leite`
 ➤ Minipão, refresco
 %
-
-*#================Central (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Cupim com molho ferrugem*
-➤ Opção: PVT com batata
-➤ *Chuchu refogado*
-➤ Salada de alface
-➤ *Laranja*
-➤ Minipão, refresco
-
-*#================Química (Jantar)================#*
-➤ Arroz ,  Feijão ,  Arroz Integral
-➤ *Carne assada com molho de ervas*
-➤ Opção: PVT com alho poró
-➤ *Berinjela com passas*
-➤ Salada de escarola 
-➤ *Caqui *
-➤ Mini pão, Refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
+*#================Central (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Ovos mexidos*
+➤ Opção: PVT com vinagrete
+➤ *Couve à provençal*
+➤ Salada de tomate
+➤ *Banana*
+➤ Minipão, refresco
+
+*#================Química (Jantar)================#*
+➤ Arroz ,  Feijão ,  Arroz Integral
+➤ *Cubos de frango com molho mostarda *
+➤ Opção: PVT ao vinagrete
+➤ *Brócolis ao alho*
+➤ Salada de alface  
+➤ *Laranja *
+➤ Mini pão, Refresco
+
 *#================Física (Jantar)=================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Carne assada com molho ferrugem*
-➤ Opção: PVT com batata
-➤ *Chuchu refogado*
-➤ Salada de alface
-➤ *Laranja*
+➤ Arroz, feijão, arroz integral
+➤ *Ovos mexidos*
+➤ Opção: PVT com vinagrete
+➤ *Couve à provençal*
+➤ Salada de tomate
+➤ *Banana*
 ➤ Minipão, refresco
