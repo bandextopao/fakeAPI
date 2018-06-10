@@ -1,31 +1,31 @@
 
-*#================Física (Almoço)=================#*
+*#================Central (Almoço)================#*
 Fechado
 
 *#==============Prefeitura (Almoço)===============#*
 Fechado
 
-*#================Química (Almoço)================#*
+*#================Física (Almoço)=================#*
 Fechado
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Rolê de frango*
-➤ Opção: PVT à primavera
-➤ *Escarola ao alho e óleo*
-➤ Salada de beterraba
-➤ *Laranja*
-➤ Minipão, refresco
+*#================Química (Almoço)================#*
+➤ Arroz ,  Feijão ,  Arroz Integral
+➤ *File de coxa grelhado*
+➤ Opção: Quibe de PVT
+➤ *Couve-flor gratinado*
+➤ Salada de escarola 
+➤ *Banana *
+➤ Mini pão, Refresco
 %
 
-*#================Física (Jantar)=================#*
+*#================Central (Jantar)================#*
 Fechado
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#================Química (Jantar)================#*
+*#================Física (Jantar)=================#*
 Fechado
 
-*#================Central (Jantar)================#*
+*#================Química (Jantar)================#*
 Fechado
