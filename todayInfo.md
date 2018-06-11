@@ -1,31 +1,67 @@
 
-*#================Central (Almoço)================#*
-Fechado
-
-*#==============Prefeitura (Almoço)===============#*
-Fechado
-
 *#================Física (Almoço)=================#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Bife à espanhola*
+➤ Opção: PVT à espanhola
+➤ *Abobrinha refogada*
+➤ Salada de acelga
+➤ `Doce de leite`
+➤ Minipão, refresco
+
+*#================Central (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Bife à espanhola*
+➤ Opção: PVT à espanhola
+➤ *Abobrinha refogada*
+➤ Salada de acelga
+➤ `Doce de leite`
+➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
-➤ Arroz ,  Feijão ,  Arroz Integral
-➤ *File de coxa grelhado*
-➤ Opção: Quibe de PVT
-➤ *Couve-flor gratinado*
-➤ Salada de escarola 
-➤ *Banana *
-➤ Mini pão, Refresco
+➤ Arroz, feijão, arroz integral
+➤ *Picadinho à brasileira*
+➤ Opção: Charuto de repolho com PVT 
+➤ *Polenta cremosa*
+➤ Salada de acelga 
+➤ *Maçã *
+➤ Minipão, refresco
+
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão, arroz integral  
+➤ *Isca de frango com molho roti*
+➤ Opção: PVT com moyashi
+➤ *Creme de milho*
+➤ Salada de mix de folhas
+➤ *Melancia*
+➤ Minipão, refresco
 %
 
-*#================Central (Jantar)================#*
-Fechado
-
-*#==============Prefeitura (Jantar)===============#*
-Fechado
-
 *#================Física (Jantar)=================#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Filé de tilápia com molho de tomate*
+➤ Opção: PVT com cogumelos
+➤ *Cuscuz*
+➤ Salada de escarola
+➤ *Mexerica*
+➤ Minipão, refresco
+
+*#================Central (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Filé de tilápia com molho de tomate*
+➤ Opção: PVT com cogumelos
+➤ *Cuscuz*
+➤ Salada de escarola
+➤ *Mexerica*
+➤ Minipão, refresco
 
 *#================Química (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Carne assada com molho roti *
+➤ Opção: PVT à pizzaiolo
+➤ *Abóbora refogada*
+➤ Salada de almeirão  
+➤ *Gelatina  *
+➤ Minipão, refresco
+
+*#==============Prefeitura (Jantar)===============#*
 Fechado
