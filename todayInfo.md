@@ -1,66 +1,66 @@
 
-*#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Rolê de frango gratinado*
-➤ Opção: PVT à primavera
-➤ *Macarrão ao alho e óleo*
-➤ Salada de rúcula
-➤ *Barra de cereais*
-➤ Minipão, refresco
-
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Rolê de frango ao sugo`
-➤ Opção: PVT à primavera
-➤ *Macarrão ao alho e óleo*
-➤ Salada de acelga
-➤ *Barra de cereais*
+➤ *Iscas de carne com molho vinagrete*
+➤ Opção: PVT com vinagrete
+➤ *Batata-doce sauté*
+➤ Salada de almeirão
+➤ *Maçã*
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Feijoada*
-➤ Opção: Feijoada vegetariana
-➤ *Couve à mineira*
-➤ Salada de beterraba com cebola
-➤ *Laranja*
+➤ Arroz, feijão, arroz integral
+➤ *Frango assado*
+➤ Opção: PVT com couve-flor 
+➤ *Chuchu com manjericão*
+➤ Salada de almeirão 
+➤ *Bolinho individual *
+➤ Minipão, refresco
+
+*#================Física (Almoço)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Iscas de carne com molho vinagrete*
+➤ Opção: PVT com vinagrete
+➤ *Batata-doce sauté*
+➤ Salada de almeirão
+➤ *Maçã*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
 ➤ Arroz, feijão , arroz integral
-➤ `Almôndegas ao sugo`
-➤ Opção: Yakissoba de PVT 
-➤ *Batata-doce sauté*
-➤ Salada de catalonha
-➤ *Mexerica*
+➤ *Pernil grelhado com molho barbecue*
+➤ Opção: PVT caipira
+➤ `Mandioca corada`
+➤ Salada de alface americana
+➤ *Canjica*
 ➤ Minipão, refresco
 %
 
-*#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Ovos mexidos*
-➤ Opção: PVT com tomate-cereja
-➤ *Escarola à provençal*
-➤ Salada de pepino
-➤ *Mexerica*
-➤ Minipão, refresco
-
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Ovos mexidos*
-➤ Opção: PVT com tomate-cereja
-➤ *Escarola à provençal*
-➤ Salada de pepino
-➤ *Mexerica*
+➤ *Frango empanado*
+➤ Opção: PVT com batata
+➤ *Cenoura gratinada*
+➤ Salada de alface
+➤ *Laranja*
 ➤ Minipão, refresco
 
 *#================Química (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Copa lombo com molho barbecue *
-➤ Opção: Omelete com ricota e vinagrete  
-➤ `Mandioca temperada`
-➤ Salada de alface americana 
-➤ *Gelatina *
+➤ Arroz, feijão, arroz integral
+➤ *Bife de panela*
+➤ Opção: Rondele de queijo com PVT
+➤ *Abobrinha refogada *
+➤ Salada de escarola 
+➤ *Melancia  *
+➤ Minipão, refresco
+
+*#================Física (Jantar)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Frango empanado*
+➤ Opção: PVT com batata
+➤ *Cenoura gratinada*
+➤ Salada de alface
+➤ *Laranja*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
