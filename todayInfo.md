@@ -1,10 +1,13 @@
 
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão , arroz integral
-➤ *Filé de frango ao molho vinagrete*
-➤ Opção: Lasanha de abobrinha PVT 
-➤ *Batata-palha*
-➤ Salada de escarola
+Fechado
+
+*#================Central (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Carne em cubos com molho mostarda*
+➤ Opção: PVT com milho
+➤ `Mandioca sauté`
+➤ Salada de almeirão
 ➤ *Banana*
 ➤ Minipão, refresco
 
@@ -13,37 +16,16 @@ Fechado
 
 *#================Física (Almoço)=================#*
 Fechado
-
-*#================Central (Almoço)================#*
-Fechado
 %
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
+*#================Central (Jantar)================#*
+Fechado
+
 *#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ `Bife grelhado ao molho madeira`
-➤ Opção: PVT à indiana
-➤ *Virado de acelga*
-➤ Salada de pepino c,  tomate
-➤ *Barrinha de biscoito recheada*
-➤ Minipão, refresco
+Fechado
 
 *#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ `Almôndegas com molho barbecue`
-➤ Opção: PVT com azeitonas
-➤ `Purê de batata`
-➤ Salada de repolho
-➤ *Maçã*
-➤ Minipão, refresco
-
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ `Almôndegas com molho barbecue`
-➤ Opção: PVT com azeitonas
-➤ *Batata-palha*
-➤ Salada de repolho
-➤ *Maçã*
-➤ Minipão, refresco
+Fechado
