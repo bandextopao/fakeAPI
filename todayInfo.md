@@ -1,38 +1,42 @@
 
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão , arroz integral
-➤ *Filé de frango ao pomodoro*
-➤ Opção: Lasanha de berinjela de PVT 
-➤ *Creme de milho*
-➤ Salada de escarola
-➤ *Laranja*
+➤ FUNCIONAMENTO ATÉ 13H
+➤ *Arroz, feijão preto , arroz integral*
+➤ Copa lombo ao molho de maçã
+➤ *Opção: Grão de bico com legumes*
+➤ Cenoura com milho
+➤ *Salada de mix de folhas*
+➤ Pavê de chocolate
 ➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango assado*
-➤ Opção: PVT com tomate-cereja
-➤ *Caponata de abobrinha*
-➤ Salada de repolho
-➤ `Doce de leite`
+➤ FUNCIONAMENTO ATÉ 12H30
+➤ *Arroz, feijão, arroz integral*
+➤ Bife de caçarola
+➤ *PVT com moyashi*
+➤ Mandioca sauté
+➤ *Salada de almeirão*
+➤ Pudim
 ➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango assado*
-➤ Opção: PVT com tomate-cereja
-➤ *Caponata de abobrinha*
-➤ Salada de agrião
-➤ *Barra de cereais*
+➤ FUNCIONAMENTO ATÉ 12H30
+➤ *Arroz, feijão, arroz integral*
+➤ Quibe assado
+➤ *Opção: PVT com moyashi*
+➤ Acelga com molho shoyu
+➤ *Salada de tomate*
+➤ Pudim
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango xadrez*
-➤ Opção: Xadrez PVT 
-➤ *Escarola refogada*
-➤ Salada de pepino com tomate 
-➤ *Sagu *
+➤ FUNCIONAMENTO ATÉ 13H
+➤ *Arroz, feijão, arroz integral*
+➤ Hambúrguer acebolado 
+➤ *Opção: Hambúrguer de PVT*
+➤ Macarrão ao sugo 
+➤ *Salada de folhas mistas  *
+➤ Mamão 
 ➤ Minipão, refresco
 %
 
@@ -40,28 +44,10 @@
 Fechado
 
 *#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Salsicha com molho americano*
-➤ Opção: PVT com milho
-➤ `Batata corada`
-➤ Salada de escarola
-➤ *Maçã*
-➤ Minipão, refresco
+Fechado
 
 *#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Salsicha com molho americano*
-➤ Opção: PVT com milho
-➤ `Batata corada`
-➤ Salada de escarola
-➤ *Laranja*
-➤ Minipão, refresco
+Fechado
 
 *#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife grelhado acebolado*
-➤ Opção: Omelete de forno com vinagrete e ricota
-➤ *Brócolis ao alho *
-➤ Salada de alface americana  
-➤ *Maçã*
-➤ Minipão, refresco
+Fechado
