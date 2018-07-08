@@ -1,24 +1,24 @@
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Iscas de frango com molho caipira*
-➤ Opção: PVT caipira
-➤ *Batata-doce sauté*
-➤ Salada de escarola
-➤ *Maçã*
-➤ Minipão, refresco
+*#==============Prefeitura (Almoço)===============#*
+Fechado
 
 *#================Física (Almoço)=================#*
 Fechado
 
 *#================Química (Almoço)================#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Frango assado  *
+➤ Opção: PVT à pizzaiolo
+➤ `Ravióli de queijo ao sugo`
+➤ Salada de alface  
+➤ *Laranja *
+➤ Minipão, refresco
 
-*#==============Prefeitura (Almoço)===============#*
+*#================Central (Almoço)================#*
 Fechado
 %
 
-*#================Central (Jantar)================#*
+*#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Física (Jantar)=================#*
@@ -27,5 +27,5 @@ Fechado
 *#================Química (Jantar)================#*
 Fechado
 
-*#==============Prefeitura (Jantar)===============#*
+*#================Central (Jantar)================#*
 Fechado
