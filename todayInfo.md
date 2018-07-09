@@ -1,31 +1,29 @@
 
 *#==============Prefeitura (Almoço)===============#*
-Fechado
-
-*#================Física (Almoço)=================#*
-Fechado
-
-*#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango assado  *
-➤ Opção: PVT à pizzaiolo
-➤ `Ravióli de queijo ao sugo`
-➤ Salada de alface  
-➤ *Laranja *
-➤ Minipão, refresco
+Feriado
 
 *#================Central (Almoço)================#*
-Fechado
+Feriado
+
+
+*#================Física (Almoço)=================#*
+Feriado
+
+
+*#================Química (Almoço)================#*
+Feriado
 %
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
+*#================Central (Jantar)================#*
+Feriado
+
+
 *#================Física (Jantar)=================#*
-Fechado
+Feriado
+
 
 *#================Química (Jantar)================#*
-Fechado
-
-*#================Central (Jantar)================#*
 Fechado
