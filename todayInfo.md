@@ -1,55 +1,55 @@
 
-*#================Física (Almoço)=================#*
-O Restaurante da Física ficará fechado no período de 10, 07, 2018 a 31, 07, 2018, em virtude do recesso escolar e das férias coletivas dos funcionários da Divisão de Alimentação.	
-
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão , arroz integral
-➤ `Lasanha à bolonhesa`
-➤ Opção: PVT com milho
-➤ *Brócolis no vapor*
-➤ Salada de rúcula
-➤ *Maçã*
-➤ Minipão, refresco
-
 *#================Central (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Bife de contrafilé acebolado*
-➤ Opção: PVT com batata
-➤ *Chuchu com salsa*
-➤ Salada de alface
-➤ `Pudim`
+➤ Arroz, feijão, arroz integral
+➤ *Iscas de frango com molho caipira*
+➤ Opção: Torta de PVT
+➤ *Jardineira de legumes*
+➤ Salada de escarola
+➤ *Mexerica*
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
-➤ Arroz ,  Feijão ,  Arroz integral
-➤ *Filé de Frango ao molho de mostarda *
-➤ Opção: PVT com legumes 
-➤ *Polenta cremosa *
-➤ Salada de almeirão 
-➤ *Maçã *
+➤ Arroz ,  Feijão ,  Arroz Integral
+➤ `Carne em cubos com mandioca`
+➤ Opção: Tomate recheado c,  PVT e ricota 
+➤ *Brócolis refogado *
+➤ Salada de alface lisa 
+➤ *Gelatina *
 ➤ Mini pão , Refresco  
+
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão , arroz integral
+➤ *Isca de frango à brasileira*
+➤ Opção: Lasanha de PVT
+➤ *Chuchu e cenoura com alecrim*
+➤ Salada de mix de folhas
+➤ `Pudim de prestígio`
+➤ Minipão, refresco
+
+*#================Física (Almoço)=================#*
+O Restaurante da Física ficará fechado no período de 10, 07, 2018 a 31, 07, 2018, em virtude do recesso escolar e das férias coletivas dos funcionários da Divisão de Alimentação.	
 %
 
-*#================Física (Jantar)=================#*
-O Restaurante da Física ficará fechado no período de 10, 07, 2018 a 31, 07, 2018, em virtude do recesso escolar e das férias coletivas dos funcionários da Divisão de Alimentação.	
+*#================Central (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Madalena de carne*
+➤ Opção: Madalena de PVT
+➤ *Acelga com molho shoyu*
+➤ Salada de pepino
+➤ *Gelatina*
+➤ Minipão, refresco
+
+*#================Química (Jantar)================#*
+➤ Arroz ,  Feijão ,  Arroz Integral
+➤ `Pernil ao molho de abacaxi`
+➤ Opção: Omelete c,  legumes 
+➤ `Mandioca com salsa`
+➤ Salada de catalonha
+➤ *Mexerica *
+➤ Mini pão , Refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#================Central (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Filé de tilápia dourado*
-➤ Opção: PVT com alho-poró
-➤ *Cenoura com ervilhas*
-➤ Salada de acelga
-➤ *Banana*
-➤ Minipão, refresco
-
-*#================Química (Jantar)================#*
-➤ Arroz ,  Feijão ,  Arroz integral
-➤ *Iscas de carne ao molho roty*
-➤ Opção: Panqueca de PVT  
-➤ *Berinjela com passas  *
-➤ Salada de repolho 
-➤ `Flan de chocolate`
-➤ Mini pão , Refresco
+*#================Física (Jantar)=================#*
+O Restaurante da Física ficará fechado no período de 10, 07, 2018 a 31, 07, 2018, em virtude do recesso escolar e das férias coletivas dos funcionários da Divisão de Alimentação.	
