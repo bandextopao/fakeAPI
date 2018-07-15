@@ -1,12 +1,6 @@
 
 *#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne picada*
-➤ Opção: PVT com tomate-cereja
-➤ *Batata-doce sauté*
-➤ Salada de almeirão
-➤ *Banana*
-➤ Minipão, refresco
+Fechado
 
 *#================Física (Almoço)=================#*
 Fechado
@@ -15,7 +9,13 @@ Fechado
 Fechado
 
 *#================Química (Almoço)================#*
-Fechado
+➤ Arroz ,  Feijão Preto ,  Arroz Integral
+➤ *Bisteca suína ao molho de limão *
+➤ Opção: PVT com vagem  
+➤ *Farofa *
+➤ Salada de beterraba ralada 
+➤ *Laranja *
+➤ Mini pão , Refresco
 %
 
 *#================Central (Jantar)================#*
