@@ -1,31 +1,29 @@
 
-*#================Central (Almoço)================#*
-Fechado
+*#==============Prefeitura (Almoço)===============#*
+Feriado
 
 *#================Física (Almoço)=================#*
-Fechado
+Feriado
 
-*#==============Prefeitura (Almoço)===============#*
-Fechado
 
 *#================Química (Almoço)================#*
-➤ Arroz ,  Feijão Preto ,  Arroz Integral
-➤ *Bisteca suína ao molho de limão *
-➤ Opção: PVT com vagem  
-➤ *Farofa *
-➤ Salada de beterraba ralada 
-➤ *Laranja *
-➤ Mini pão , Refresco
+Feriado
+
+*#================Central (Almoço)================#*
+Feriado
+
 %
-
-*#================Central (Jantar)================#*
-Fechado
-
-*#================Física (Jantar)=================#*
-Fechado
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
+*#================Física (Jantar)=================#*
+Feriado
+
+
 *#================Química (Jantar)================#*
 Fechado
+
+*#================Central (Jantar)================#*
+Feriado
+
