@@ -1,55 +1,55 @@
 
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão , arroz integral 
-➤ *Isca de frango à moda oriental*
-➤ Opção: Escondidinho de PVT
-➤ *Abobrinha com tomate*
-➤ Salada mix de folhas
-➤ *Sagu*
+*#================Central (Almoço)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Bife de contrafilé acebolado*
+➤ Abobrinha refogada
+➤ `PVT com batata`
+➤ Salada de alface
+➤ *Gelatina*
 ➤ Minipão, refresco
+
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão preto , arroz integral
+➤ *Bife de panela*
+➤ Opção: Lentilha com ricota
+➤ *Chucrute*
+➤ Salada de tomate
+➤ *Melancia*
+➤ Minipão, refresco
+
+*#================Química (Almoço)================#*
+➤ Arroz ,  Feijão ,  Arroz Integral
+➤ *Frango assado*
+➤ Creme de milho 
+➤ *Opção: PVT com couve flor *
+➤ Salada de catalonha 
+➤ *Melancia  *
+➤ Mini pão, Refresco
 
 *#================Física (Almoço)=================#*
 O Restaurante da Física ficará fechado no período de 10, 07, 2018 a 31, 07, 2018, em virtude do recesso escolar e das férias coletivas dos funcionários da Divisão de Alimentação.
+%
 
-*#================Química (Almoço)================#*
-➤ Arroz ,  Feijão Preto , Arroz integral
-➤ *Bife grelhado ao molho champignon*
-➤ Chuchu com azeitonas 
-➤ *Opção: Hambúrguer de PVT  *
-➤ Salada de alface  
-➤ *Pavê  *
-➤ Mini pão, Refresco
-
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ `Iscas de frango à milanesa`
-➤ Cenoura com alho-poró
-➤ *PVT com vagem*
-➤ Salada de almeirão
+*#================Central (Jantar)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Fricassê de frango*
+➤ Acelga com molho shoyu
+➤ *Fricassê de PVT*
+➤ Salada de tomate
 ➤ *Banana*
 ➤ Minipão, refresco
-%
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#================Física (Jantar)=================#*
-Fechado
-
 *#================Química (Jantar)================#*
-➤ Arroz ,  Feijão Preto , Arroz integral
-➤ *Lagarto assado ao molho roty*
-➤ Purê de batatas
-➤ *Opção: PVT rica *
-➤ Salada de pepino com tomate 
-➤ *Melão  *
+➤ Arroz ,  Feijão ,  Arroz integral
+➤ *Cubos de carne ao vinagrete*
+➤ Legumes refogados 
+➤ `Opção: Lasanha de PVT`
+➤ Salada de mix de folhas 
+➤ `Brigadeiro`
 ➤ Mini pão, Refresco
 
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne picada com molho de especiarias*
-➤ Mandioca sauté
-➤ *Rocambole de PVT*
-➤ Salada de repolho bicolor
-➤ *Maçã*
-➤ Minipão, refresco
+*#================Física (Jantar)=================#*
+Fechado
