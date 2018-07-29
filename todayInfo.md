@@ -1,31 +1,31 @@
 
-*#================Física (Almoço)=================#*
+*#================Química (Almoço)================#*
+➤ Arroz ,  Feijão ,  Arroz Integral
+➤ *Filé de frango ao molho de cogumelos*
+➤ Opção:  PVT com cogumelo 
+➤ `Raviolli de queijo ao sugo`
+➤ Salada de almeirão  
+➤ *Mamão  *
+➤ Mini pão, refresco
+
+*#================Central (Almoço)================#*
 Fechado
 
-*#================Química (Almoço)================#*
+*#================Física (Almoço)=================#*
 Fechado
 
 *#==============Prefeitura (Almoço)===============#*
 Fechado
-
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de contrafilé com molho vinagrete*
-➤ Opção: PVT com vinagrete
-➤ *Abóbora com coentro*
-➤ Salada de almeirão
-➤ *Maçã*
-➤ Minipão, refresco
 %
-
-*#================Física (Jantar)=================#*
-Fechado
 
 *#================Química (Jantar)================#*
 Fechado
 
-*#==============Prefeitura (Jantar)===============#*
+*#================Central (Jantar)================#*
 Fechado
 
-*#================Central (Jantar)================#*
+*#================Física (Jantar)=================#*
+Fechado
+
+*#==============Prefeitura (Jantar)===============#*
 Fechado
