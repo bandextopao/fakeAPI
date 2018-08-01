@@ -1,55 +1,67 @@
 
+*#================Física (Almoço)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Carne em tiras à chinesa*
+➤ Opção: PVT à chinesa
+➤ *Chuchu no vapor*
+➤ Salada de alface
+➤ `Pão de mel`
+➤ Minipão, refresco
+
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão , arroz integral
+➤ *Picadinho de carne*
+➤ Opção: Torta de PVT 
+➤ *Quibebe*
+➤ Salada de alface 
+➤ `Flan de baunilha com banana`
+➤ Minipão, refresco
+
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Escondidinho de frango`
-➤ Opção: Escondidinho de PVT
-➤ *Escarola refogada*
-➤ Salada de pepino com tomate
-➤ *Maçã*
+➤ *Carne em tiras à chinesa*
+➤ Opção: PVT à chinesa
+➤ *Chuchu no vapor*
+➤ Salada de alface
+➤ `Pão de mel`
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
 ➤ Arroz ,  Feijão ,  Arroz Integral
-➤ *Frango empanado *
-➤ Opção:  PVT caipira 
-➤ *Creme de espinafre  *
-➤ Salada de alface americana   
-➤ *Mexerica  *
-➤ Minipão, refresco
-
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão , arroz integral 
-➤ *Bife de pernil ao molho de maçã *
-➤ Opção: PVT com batata
-➤ *Virado de abobrinha*
-➤ Salada mix de folhas
-➤ *Melancia*
-➤ Minipão, refresco
-
-*#================Física (Almoço)=================#*
-O Restaurante da Física ficará fechado no período de 10, 07, 2018 a 31, 07, 2018, em virtude do recesso escolar e das férias coletivas dos funcionários da Divisão de Alimentação.
+➤ `Estrogonofe de carne`
+➤ Opção: Estrogonofe de PVT
+➤ `Batata palha`
+➤ Salada de almeirão 
+➤ *Gelatina *
+➤ Minipão , Refresco 
 %
 
-*#================Central (Jantar)================#*
+*#================Física (Jantar)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne assada com molho roti*
-➤ Opção: PVT com espinafre
-➤ *Abobrinha*
-➤ Salada de repolho
-➤ `Doce de leite`
-➤ Minipão, refresco
-
-*#================Química (Jantar)================#*
-➤ Arroz ,  Feijão ,  Arroz Integral
-➤ *Iscas de carne aceboladas *
-➤ Opção:  Rondele de queijo com PVT  
-➤ *Couve flor com salsa*
-➤ Salada de almeirão    
-➤ `Flan`
+➤ *Frango com molho de laranja*
+➤ PVT à primavera
+➤ *Virado de milho*
+➤ Salada de almeirão
+➤ *Banana*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#================Física (Jantar)=================#*
-Fechado
+*#================Central (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Frango com molho de laranja*
+➤ PVT à primavera
+➤ *Virado de milho*
+➤ Salada de almeirão
+➤ *Banana*
+➤ Minipão, refresco
+
+*#================Química (Jantar)================#*
+➤ Arroz ,  Feijão ,  Arroz Integral
+➤ *Frango assado *
+➤ Opção: PVT com espinafre
+➤ *Brócolis com vinagrete  *
+➤ Salada de tabule
+➤ *Mamão*
+➤ Minipão , Refresco 
