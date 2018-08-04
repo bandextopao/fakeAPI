@@ -1,67 +1,31 @@
 
-*#================Física (Almoço)=================#*
+*#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne em cubos com molho de mostarda*
-➤ Opção: PVT com milho
-➤ *Abóbora refogada*
-➤ Salada de escarola
-➤ *Banana*
+➤ *Filé de frango grelhado*
+➤ Opção: PVT com vagem
+➤ *Berinjela à italiana*
+➤ Salada de repolho
+➤ *Barra de cereais*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão preto , arroz integral
-➤ `Almôndegas com molho de tomate fresco`
-➤ Opção: Panqueca de PVT
-➤ *Purê de batata doce*
-➤ Salada de acelga
-➤ *Maçã*
-➤ Minipão, refresco
+Fechado
 
 *#================Química (Almoço)================#*
-➤ Arroz ,  Feijão ,  Arroz Integral
-➤ *Bife de panela *
-➤ Opção: Omelete de forno 
-➤ *Chuchu com ervas *
-➤ Salada de chicória 
-➤ `Mousse`
-➤ Minipão , Refresco 
+Fechado
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne em cubos com molho de mostarda*
-➤ Opção: PVT com milho
-➤ *Abóbora refogada*
-➤ Salada de escarola
-➤ *Banana*
-➤ Minipão, refresco
+*#================Física (Almoço)=================#*
+Fechado
 %
 
-*#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne assada*
-➤ Opção: PVT com brócolis
-➤ *Batata-doce corada*
-➤ Salada de alface
-➤ *Maçã*
-➤ Minipão, refresco
+*#================Central (Jantar)================#*
+Fechado
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Química (Jantar)================#*
-➤ Arroz ,  Feijão ,  Arroz Integral
-➤ `Filé de frango ao molho pizzaiolo`
-➤ Opção: PVT ao pizzaiolo
-➤ *Macarrão alho e óleo*
-➤ Salada de alface americana
-➤ *Melancia*
-➤ Minipão , Refresco  
+Fechado
 
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne assada*
-➤ Opção: PVT com brócolis
-➤ *Batata-doce corada*
-➤ Salada de alface
-➤ *Maçã*
-➤ Minipão, refresco
+*#================Física (Jantar)=================#*
+Fechado
