@@ -1,31 +1,67 @@
 
-*#==============Prefeitura (Almoço)===============#*
-Fechado
+*#================Central (Almoço)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Lombo com molho de limão*
+➤ Opção: PVT com batata-doce
+➤ *Chucrute*
+➤ Salada de beterraba
+➤ *Laranja*
+➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
-Fechado
+➤ Arroz, feijão preto, arroz integral
+➤ *Lombo com molho de limão*
+➤ Opção: PVT com batata-doce
+➤ *Chucrute*
+➤ Salada de beterraba
+➤ *Laranja*
+➤ Minipão, refresco
 
-*#================Central (Almoço)================#*
-Fechado
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão, arroz integral  
+➤ *Cubos de carne com cebolas em pétalas  *
+➤ Opção: PVT com espinafre
+➤ *Repolho com passas*
+➤ Salada de tomate
+➤ *Goiabinha*
+➤ Minipão, refresco 
 
 *#================Química (Almoço)================#*
-➤ Arroz ,  Feijão ,  Arroz Integral
-➤ *Frango assado *
-➤ Opção: PVT com azeitona 
-➤ *Creme de milho *
-➤ Salada de almeirão 
-➤ `Sorvete`
-➤ Minipão, Refresco 
+➤ Arroz, feijão, arroz integral
+➤ *Bife grelhado acebolado *
+➤ Opção: Assado vienense de PVT
+➤ *Couve-flor com salsa *
+➤ Salada de acelga
+➤ *Biscoito recheado*
+➤ Minipão, refresco 
 %
+
+*#================Central (Jantar)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Empanado de frango*
+➤ Opção: PVT com espinafre
+➤ *Purê misto*
+➤ Salada de almeirão
+➤ *Maçã*
+➤ Minipão, refresco
+
+*#================Física (Jantar)=================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Empanado de frango*
+➤ Opção: PVT com espinafre
+➤ *Purê misto*
+➤ Salada de almeirão
+➤ *Maçã*
+➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#================Física (Jantar)=================#*
-Fechado
-
-*#================Central (Jantar)================#*
-Fechado
-
 *#================Química (Jantar)================#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Copa lombo com molho agridoce*
+➤ Opção: Rondele de queijo com PVT 
+➤ `Mandioca temperada`
+➤ Salada de repolho bicolor
+➤ *Laranja*
+➤ Minipão, refresco 
