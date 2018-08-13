@@ -1,31 +1,67 @@
 
 *#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Bife grelhado com molho roti *
-➤ Opção: PVT à pizzaiolo
-➤ `Purê de batata`
-➤ Salada de alface americana 	
-➤ `Doce de banana (tablete)`
+➤ `Hambúrguer à pizzaiolo`
+➤ Opção: Hambúrguer de PVT 
+➤ *Polenta cremosa *
+➤ Salada de acelga
+➤ *Mamão*
 ➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Bife de caçarola*
+➤ Opção: PVT com espinafre
+➤ `Mandioca sauté`
+➤ Salada de escarola
+➤ *Goiabada*
+➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Bife de caçarola*
+➤ Opção: PVT com espinafre
+➤ `Mandioca sauté`
+➤ Salada de escarola
+➤ *Goiabada*
+➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
-Fechado
+➤ Arroz, feijão, arroz integral  
+➤ *Bife de panela*
+➤ Opção: Almôndegas de PVT 
+➤ `Macarrão ao sugo`
+➤ Salada de rúcula
+➤ *Melancia*
+➤ Minipão, refresco 
 %
 
 *#================Química (Jantar)================#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Filé de frango grelhado com molho de ervas*
+➤ Opção: PVT rica 
+➤ *Abóbora refogada *
+➤ Salada de escarola 
+➤ *Maçã*
+➤ Minipão, refresco
 
 *#================Central (Jantar)================#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Filé de frango grelhado*
+➤ Opção: PVT com batata
+➤ *Abobrinha refogada*
+➤ Salada de acelga
+➤ *Maçã*
+➤ Minipão, refresco
 
 *#================Física (Jantar)=================#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Filé de frango grelhado*
+➤ Opção: PVT com mandioca
+➤ *Abobrinha refogada*
+➤ Salada de acelga
+➤ *Maçã*
+➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
