@@ -1,67 +1,67 @@
 
+*#================Central (Almoço)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Quibe*
+➤ Opção: PVT à primavera
+➤ *Berinjela à italiana*
+➤ Salada de agrião
+➤ *Melão*
+➤ Minipão, refresco
+
 *#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Escondidinho de carne moída`
-➤ Opção: Cassoulet vegetariano 
-➤ *Brócolis ao alho *
-➤ Salada de almeirão 
-➤ *Gelatina *
+➤ `Bife grelhado com molho madeira`
+➤ Opção: PVT com mandioquinha
+➤ *Chuchu com azeitona*
+➤ Salada de alface 
+➤ *Banana*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão preto , arroz integral
-➤ *Filé de frango com molho de maçã*
-➤ Opção: Feijoada de PVT 
-➤ *Cenoura sauté*
-➤ Salada de repolho	
-➤ *Gelatina*
+➤ Arroz, feijão, arroz integral
+➤ `Cupim ao molho madeira`
+➤ Opção: Hambúrguer de PVT 
+➤ *Virado de couve*
+➤ Salada de pepino
+➤ *Mexerica*
 ➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango ao forno*
-➤ Opção: PVT com vagem
-➤ *Creme de milho*
-➤ Salada de repolho
-➤ *Maçã*
-➤ Minipão, refresco
-
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango ao forno*
-➤ Opção: PVT com vagem
-➤ *Creme de milho*
-➤ Salada de repolho
-➤ *Maçã*
+➤ Arroz, feijão preto, arroz integral
+➤ *Quibe*
+➤ Opção: PVT à primavera
+➤ *Berinjela à italiana*
+➤ Salada de agrião
+➤ *Goiabada*
 ➤ Minipão, refresco
 %
 
+*#================Central (Jantar)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Filé de frango à caipira*
+➤ Opção: PVT à caipira
+➤ *Macarrão ao alho e óleo*
+➤ Salada de almeirão
+➤ *Laranja*
+➤ Minipão, refresco
+
 *#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne assada com molho roti*
-➤ Opção: Omelete de forno   
-➤ *Legumes sauté *
-➤ Salada de escarola 
-➤ *Melancia  *
+➤ *Frango assado*
+➤ Opção: PVT com alho-poró  
+➤ *Creme de milho*
+➤ Salada de almeirão
+➤ *Bolinho individual *
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de peixe com molho de mostarda*
-➤ Opção: PVT com tomate-cereja
-➤ *Escarola refogada*
-➤ Salada de alface
-➤ `Pão de mel`
-➤ Minipão, refresco
-
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de peixe com molho de mostarda*
-➤ Opção: PVT com tomate-cereja
-➤ *Escarola refogada*
-➤ Salada de beterraba
-➤ `Pão de mel`
+➤ Arroz, feijão preto, arroz integral
+➤ *Filé de frango à caipira*
+➤ Opção: PVT à caipira
+➤ `Batata palha`
+➤ Salada de almeirão
+➤ *Laranja*
 ➤ Minipão, refresco
