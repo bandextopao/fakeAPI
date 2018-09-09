@@ -1,4 +1,7 @@
 
+*#================Química (Almoço)================#*
+Fechado
+
 *#==============Prefeitura (Almoço)===============#*
 Fechado
 
@@ -7,10 +10,10 @@ Fechado
 
 *#================Física (Almoço)=================#*
 Fechado
-
-*#================Química (Almoço)================#*
-Fechado
 %
+
+*#================Química (Jantar)================#*
+Fechado
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
@@ -19,7 +22,4 @@ Fechado
 Fechado
 
 *#================Física (Jantar)=================#*
-Fechado
-
-*#================Química (Jantar)================#*
 Fechado
