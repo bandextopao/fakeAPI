@@ -1,57 +1,57 @@
 
 *#================Física (Almoço)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango em tiras à caipira*
-➤ Opção: PVT à caipira
-➤ *Chuchu com salsa*
-➤ Salada de agrião
-➤ `Doce de leite`
+➤ `Estrogonofe de carne`
+➤ Opção: Estrogonofe de legumes
+➤ *Batata-palha*
+➤ Salada de alface
+➤ *Mexerica*
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Frango assado*
-➤ Opção: PVT com azeitonas
-➤ *Legumes refogados *
-➤ Salada de alface 
-➤ *Curau*
+➤ Arroz, feijão, arroz integral
+➤ `Carne assada ao molho madeira`
+➤ Opção: PVT com moyashi 
+➤ *Escarola refogada *
+➤ Salada de beterraba ralada 
+➤ `Sorvete`
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral 
-➤ *Torta madalena*
-➤ Opção: Canelone de PVT
-➤ *Escarola refogada*
-➤ Salada de tomate
-➤ *Maçã*
-➤ Minipão, refresco
+➤ Arroz, feijão , arroz integral 
+➤ *Hambúrguer com molho barbecue*
+➤ Opção: Lentilha com couve
+➤ *Batata doce sauté*
+➤ Salada de rúcula
+➤ *Gelatina*
+➤ Minipão, refresco 
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango em tiras à caipira*
-➤ Opção: PVT caipira
-➤ *Chuchu com salsa*
-➤ Salada de agrião
-➤ `Doce de leite`
+➤ `Estrogonofe de carne`
+➤ Opção: Estrogonofe de legumes
+➤ *Batata-palha*
+➤ Salada de alface
+➤ *Mexerica*
 ➤ Minipão, refresco
 %
 
 *#================Física (Jantar)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Cupim assado com molho roti*
-➤ Opção: PVT com espinafre
-➤ *Abobrinha com tomate*
-➤ Salada de escarola
-➤ *Banana*
+➤ *Frango à passarinho*
+➤ Opção: PVT com tomate-cereja
+➤ *Caponata de berinjela*
+➤ Salada de acelga
+➤ *Maçã*
 ➤ Minipão, refresco
 
 *#================Química (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ `Copa lombo ao molho de abacaxi`
-➤ Opção: Moussaka vegetariana
-➤ *Virado de couve *
-➤ Salada de pepino
-➤ *Banana *
+➤ Arroz, feijão, arroz integral
+➤ *Bife acebolado *
+➤ Opção: Cassoulet vegetariano 
+➤ `Mandioca temperada`
+➤ Salada de alface 
+➤ *Melancia *
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
@@ -59,9 +59,9 @@ Fechado
 
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Cupim com molho roti*
-➤ Opção: PVT com espinafre
-➤ *Abobrinha com tomate*
-➤ Salada de escarola
-➤ *Banana*
+➤ *Frango à passarinho*
+➤ Opção: PVT com tomate-cereja
+➤ *Caponata de berinjela*
+➤ Salada de acelga
+➤ *Maçã*
 ➤ Minipão, refresco
