@@ -1,67 +1,32 @@
 
-*#==============Prefeitura (Almoço)===============#*
+*#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Coxa de frango assada com molho ao sugo`
-➤ Opção: Panqueca de PVT 
-➤ `Mandioca na manteiga`
-➤ Salada de agrião
-➤ `Pudim de chocolate`
+➤ *Bife de caçarola*
+➤ Opção: PVT à primavera
+➤ *Virado de couve*
+➤ Salada de almeirão
+➤ *Barra de cereais*
 ➤ Minipão, refresco
+➤ Valor calórico da refeição: 875 kcal
 
 *#================Física (Almoço)=================#*
-➤ Arroz, feijão preto, arroz integral
-➤ `Lombo com molho de abacaxi`
-➤ Opção: PVT à havaiana
-➤ *Couve à provençal*
-➤ Salada de beterraba
-➤ *Laranja*
-➤ Minipão, refresco
+Fechado
 
 *#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Fricassê de frango *
-➤ Opção: PVT com tomate  
-➤ *Brócolis refogado *
-➤ Salada de alface americana 
-➤ *Maçã *
-➤ Minipão, refresco  
+Fechado
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ `Lombo com molho de abacaxi`
-➤ Opção: PVT havaiano
-➤ *Couve à provençal*
-➤ Salada de tomate
-➤ *Laranja*
-➤ Minipão, refresco
+*#==============Prefeitura (Almoço)===============#*
+Fechado
 %
 
-*#==============Prefeitura (Jantar)===============#*
+*#================Central (Jantar)================#*
 Fechado
 
 *#================Física (Jantar)=================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Quibe*
-➤ Opção: PVT com pimentões
-➤ `Vagem com batata`
-➤ Salada de alface
-➤ *Barra de cereais*
-➤ Minipão, refresco
+Fechado
 
 *#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de panela *
-➤ Opção: Omelete
-➤ *Abobrinha refogada *
-➤ Salada de escarola 
-➤ `Delicia de abacaxi`
-➤ Minipão, refresco
+Fechado
 
-*#================Central (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Quibe*
-➤ Opção: PVT com pimentões
-➤ `Vagem com batata`
-➤ Salada de alface
-➤ *Barra de cereais*
-➤ Minipão, refresco
+*#==============Prefeitura (Jantar)===============#*
+Fechado
