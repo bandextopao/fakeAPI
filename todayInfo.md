@@ -1,23 +1,25 @@
 
+*#==============Prefeitura (Almoço)===============#*
+Fechado
+
 *#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de caçarola*
-➤ Opção: PVT à primavera
-➤ *Virado de couve*
-➤ Salada de almeirão
-➤ *Barra de cereais*
-➤ Minipão, refresco
-➤ Valor calórico da refeição: 875 kcal
+Fechado
 
 *#================Física (Almoço)=================#*
 Fechado
 
 *#================Química (Almoço)================#*
-Fechado
-
-*#==============Prefeitura (Almoço)===============#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Filé de frango com molho fazendinha*
+➤ Opção: PVT com vinagrete    
+➤ `Ravióli ao sugo`
+➤ Salada de almeirão 
+➤ *Barrinha de biscoito recheada*
+➤ Minipão, refresco  
 %
+
+*#==============Prefeitura (Jantar)===============#*
+Fechado
 
 *#================Central (Jantar)================#*
 Fechado
@@ -26,7 +28,4 @@ Fechado
 Fechado
 
 *#================Química (Jantar)================#*
-Fechado
-
-*#==============Prefeitura (Jantar)===============#*
 Fechado
