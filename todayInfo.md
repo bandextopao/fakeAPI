@@ -1,48 +1,48 @@
 
 *#================Física (Almoço)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Linguiça acebolada*
-➤ Opção: PVT com vagem
-➤ *Polenta*
-➤ Salada de almeirão
-➤ *Bananada*
+➤ *Frango assado*
+➤ Opção: PVT com espinafre
+➤ *Abóbora refogada*
+➤ Salada de alface
+➤ *Maçã*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão , arroz integral  
-➤ `Cubos de frango com molho de abacaxi`
-➤ Opção: Quibe de PVT
-➤ *Creme de brócolis*
-➤ Salada de acelga
-➤ *Laranja*
+➤ Arroz, feijão , arroz integral
+➤ `Escondidinho de frango`
+➤ Opção: PVT com mandioquinha
+➤ *Legumes orientais (brócolis, cenoura, acelga) *
+➤ Salada de alface
+➤ `Pudim de coco`
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne em cubos ao molho roti *
-➤ Opção: Omelete de forno 
-➤ `Nhoque ao sugo`
-➤ Salada de acelga 
-➤ *Melancia *
+➤ *Iscas de frango com molho caipira*
+➤ Opção: Estrogonofe de PVT  
+➤ *Batata-palha *
+➤ Salada de alface  
+➤ *Maçã  *
 ➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Linguiça acebolada*
-➤ Opção: PVT com vagem
-➤ *Polenta*
-➤ Salada de almeirão
-➤ *Bananada*
+➤ *Frango assado*
+➤ Opção: PVT com espinafre
+➤ *Abóbora refogada*
+➤ Salada de alface
+➤ *Maçã*
 ➤ Minipão, refresco
 %
 
 *#================Física (Jantar)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Bife de caçarola com milho e ervilhas*
-➤ Opção: PVT com batata-doce
-➤ *Abobrinha ao alho e óleo*
-➤ Salada de acelga
-➤ *Laranja*
+➤ *Quibe*
+➤ Opção: PVT com ervilhas
+➤ *Escarola à provençal*
+➤ Salada de pepino
+➤ `Pão de mel`
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
@@ -50,18 +50,19 @@ Fechado
 
 *#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango assado*
-➤ Opção: PVT com azeitonas
-➤ *Creme de milho*
-➤ Salada de repolho roxo
-➤ *Banana*
+➤ `Hambúrguer com molho pizzaiolo`
+➤ Opção: Hambúrguer de lentilha 
+➤ *Abobrinha à italiana*
+➤ Salada de alface 
+➤ *Laranja *
 ➤ Minipão, refresco
+➤  
 
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Bife de caçarola com milho e ervilhas*
-➤ Opção: PVT com batata-doce
-➤ *Abobrinha ao alho e óleo*
-➤ Salada de acelga
-➤ *Laranja*
+➤ *Quibe*
+➤ Opção: PVT com ervilhas
+➤ *Escarola à provençal*
+➤ Salada de pepino
+➤ `Pão de mel`
 ➤ Minipão, refresco
