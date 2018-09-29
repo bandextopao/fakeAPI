@@ -1,67 +1,31 @@
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de caçarola*
-➤ Opção: PVT com milho
-➤ *Chuchu com azeitonas*
-➤ Salada de almeirão
-➤ `Doce de leite`
-➤ Minipão, refresco
-
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão , arroz integral 
-➤ *Coxa sobrecoxa de frango *
-➤ Opção: grão de bico com PVT 
-➤ *Creme de couve - flor*
-➤ Salada de escarola
-➤ *Mexerica*
-➤ Minipão, refresco 
+*#================Química (Almoço)================#*
+Fechado
 
 *#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de caçarola*
-➤ Opção: PVT com milho
-➤ *Chuchu com azeitonas*
-➤ Salada de almeirão
-➤ `Doce de leite`
-➤ Minipão, refresco
+Fechado
 
-*#================Química (Almoço)================#*
+*#==============Prefeitura (Almoço)===============#*
+Fechado
+
+*#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Cupim assado *
-➤ Opção: PVT com brócolis  
-➤ *Cenoura com salsa*
-➤ Salada de alface lisa    
-➤ *Gelatina *
+➤ *Carne em tiras à cigana*
+➤ Opção: PVT à primavera
+➤ `Macarrão ao sugo`
+➤ Salada de escarola
+➤ *Mexerica*
 ➤ Minipão, refresco
 %
 
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de tilápia dourado*
-➤ Opção: PVT com moyashi
-➤ *Purê colorido*
-➤ Salada de alface
-➤ *Maçã*
-➤ Minipão, refresco
+*#================Química (Jantar)================#*
+Fechado
+
+*#================Física (Jantar)=================#*
+Fechado
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de peixe assado*
-➤ Opção: PVT com moyashi
-➤ *Purê colorido*
-➤ Salada de alface
-➤ *Maçã*
-➤ Minipão, refresco
-
-*#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Fricassê de frango*
-➤ Opção: PVT com cogumelo 
-➤ `Batata corada`
-➤ Salada de almeirão   
-➤ *Melancia *
-➤ Minipão, refresco
+*#================Central (Jantar)================#*
+Fechado
