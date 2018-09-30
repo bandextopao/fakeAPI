@@ -1,31 +1,31 @@
 
+*#==============Prefeitura (Almoço)===============#*
+Fechado
+
 *#================Química (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Filé de frango com molho de cogumelos*
+➤ Opção: PVT com moyashi   
+➤ `Ravioli ao sugo`
+➤ Salada de acelga     
+➤ `Doce de banana`
+➤ Minipão, refresco
+
+*#================Central (Almoço)================#*
 Fechado
 
 *#================Física (Almoço)=================#*
 Fechado
-
-*#==============Prefeitura (Almoço)===============#*
-Fechado
-
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne em tiras à cigana*
-➤ Opção: PVT à primavera
-➤ `Macarrão ao sugo`
-➤ Salada de escarola
-➤ *Mexerica*
-➤ Minipão, refresco
 %
-
-*#================Química (Jantar)================#*
-Fechado
-
-*#================Física (Jantar)=================#*
-Fechado
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
+*#================Química (Jantar)================#*
+Fechado
+
 *#================Central (Jantar)================#*
+Fechado
+
+*#================Física (Jantar)=================#*
 Fechado
