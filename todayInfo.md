@@ -1,67 +1,67 @@
 
 *#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de frango ao vinagrete *
-➤ Opção: Grão-de-bico à indiana 
-➤ `Nhoque ao sugo`
-➤ Salada de repolho bicolor
-➤ *Melão *
+➤ Arroz, feijão preto, arroz integral
+➤ *Copa lombo ao molho de limão *
+➤ Opção: Omelete de forno com queijo  
+➤ *Quibebe *
+➤ Salada de escarola  
+➤ *Gelatina  *
 ➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Carne moída à primavera*
-➤ Opção: PVT à primavera
-➤ *Polenta*
-➤ Salada de escarola
-➤ *Maçã*
+➤ Arroz, feijão, arroz integral
+➤ *Filé de peixe à baiana*
+➤ Opção: PVT à baiana
+➤ *Cenoura com vagem*
+➤ Salada de almeirão
+➤ *Barra de cereais*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
 ➤ Arroz, feijão, arroz integral
-➤ *Bife de panela*
-➤ Opção: Canelone de PVT
-➤ *Abobrinha à napolitana*
-➤ Salada de alface
-➤ *Melancia*
+➤ *Fricassê de frango *
+➤ Opção: Fricassê de PVT
+➤ *Berinjela com molho vinagrete*
+➤ Salada de agrião
+➤ *Gelatina*
 ➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Carne moída à primavera*
-➤ Opção: PVT à primavera
-➤ *Caponata de abobrinha*
-➤ Salada de escarola
-➤ *Maçã*
+➤ Arroz, feijão, arroz integral
+➤ *Filé de peixe à baiana*
+➤ Opção: PVT à baiana
+➤ *Cenoura com vagem*
+➤ Salada de almeirão
+➤ *Barra de cereais*
 ➤ Minipão, refresco
 %
 
 *#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne em cubos acebolada*
-➤ Opção: PVT com brócolis   
-➤ *Acelga refogada *
-➤ Salada de beterraba com ervilha   
-➤ `Doce de leite`
+➤ Arroz, feijão preto, arroz integral
+➤ *Frango assado*
+➤ Opção: Rondele de queijo com PVT   
+➤ *Berinjela com passas   *
+➤ Salada de catalonha    
+➤ *Banana  *
 ➤ Minipão, refresco
 
 *#================Central (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Lombo assado*
-➤ Opção: PVT com alho-poró
-➤ *Berinjela à grega*
-➤ Salada de repolho
-➤ *Laranja*
+➤ Arroz, feijão, arroz integral
+➤ *Frango à passarinho*
+➤ Opção: PVT com milho
+➤ *Chuchu no vapor*
+➤ Salada de acelga
+➤ *Banana*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Física (Jantar)=================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Lombo assado*
-➤ Opção: PVT com alho-poró
-➤ *Berinjela à grega*
-➤ Salada de repolho
-➤ *Laranja*
+➤ Arroz, feijão, arroz integral
+➤ *Frango à passarinho*
+➤ Opção: PVT com milho
+➤ *Creme de milho*
+➤ Salada de acelga
+➤ *Banana*
 ➤ Minipão, refresco
