@@ -1,31 +1,25 @@
 
-*#================Física (Almoço)=================#*
+*#================Química (Almoço)================#*
+O Restaurante das Químicas ficará fechado em virtude das eleições nacionais, para que seus trabalhadores possam cumprir o dever cívico junto ao local de votação.
+
+*#================Central (Almoço)================#*
 Fechado
 
-*#================Química (Almoço)================#*
+*#================Física (Almoço)=================#*
 Fechado
 
 *#==============Prefeitura (Almoço)===============#*
 Fechado
-
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de caçarola*
-➤ Opção: PVT com azeitonas
-➤ *Batata-doce corada*
-➤ Salada de almeirão
-➤ `Doce de leite`
-➤ Minipão, refresco
 %
-
-*#================Física (Jantar)=================#*
-Fechado
 
 *#================Química (Jantar)================#*
 Fechado
 
-*#==============Prefeitura (Jantar)===============#*
+*#================Central (Jantar)================#*
 Fechado
 
-*#================Central (Jantar)================#*
+*#================Física (Jantar)=================#*
+Fechado
+
+*#==============Prefeitura (Jantar)===============#*
 Fechado
