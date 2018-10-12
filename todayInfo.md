@@ -1,67 +1,25 @@
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de peixe com molho escabeche*
-➤ Opção: PVT com cenoura
-➤ *Creme de espinafre*
-➤ Salada de alface
-➤ *Banana*
-➤ Minipão, refresco
-
 *#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife grelhado com molho argentino *
-➤ Opção: Charuto de repolho com PVT
-➤ `Macarrão ao sugo`
-➤ Salada catalonha  
-➤ *Mamão *
-➤ Minipão, refresco
+Feriado
 
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral
-➤ *Copa lombo com molho ferrugem*
-➤ Opção: Omelete de lentilha
-➤ *Jardineira de legumes*
-➤ Salada de agrião
-➤ *Delícia de morango*
-➤ Minipão, refresco
+*#================Central (Almoço)================#*
+Feriado
 
 *#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de peixe com molho escabeche*
-➤ Opção: PVT com cenoura
-➤ *Creme de espinafre*
-➤ Salada de alface
-➤ *Banana*
-➤ Minipão, refresco
+Feriado
+
+*#==============Prefeitura (Almoço)===============#*
+Feriado
 %
 
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango empanado*
-➤ Opção: PVT com brócolis
-➤ *Escarola à provençal*
-➤ Salada de pepino
-➤ *Laranja*
-➤ Minipão, refresco
-
 *#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Fricassê de frango  *
-➤ Opção: PVT com pimentões  
-➤ *Legumes sautê *
-➤ Salada de escarola
-➤ *Laranja*
-➤ Minipão, refresco
+Feriado
+
+*#================Central (Jantar)================#*
+Feriado
+
+*#================Física (Jantar)=================#*
+Feriado
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
-
-*#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango empanado*
-➤ Opção: PVT com brócolis
-➤ *Escarola à provençal*
-➤ Salada de pepino
-➤ *Laranja*
-➤ Minipão, refresco
