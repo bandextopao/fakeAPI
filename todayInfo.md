@@ -1,25 +1,25 @@
 
-*#================Química (Almoço)================#*
-Feriado
-
-*#================Central (Almoço)================#*
-Feriado
+*#==============Prefeitura (Almoço)===============#*
+Fechado
 
 *#================Física (Almoço)=================#*
-Feriado
+Fechado
 
-*#==============Prefeitura (Almoço)===============#*
-Feriado
+*#================Central (Almoço)================#*
+Fechado
+
+*#================Química (Almoço)================#*
+Fechado
 %
 
-*#================Química (Jantar)================#*
-Feriado
-
-*#================Central (Jantar)================#*
-Feriado
+*#==============Prefeitura (Jantar)===============#*
+Fechado
 
 *#================Física (Jantar)=================#*
-Feriado
+Fechado
 
-*#==============Prefeitura (Jantar)===============#*
+*#================Central (Jantar)================#*
+Fechado
+
+*#================Química (Jantar)================#*
 Fechado
