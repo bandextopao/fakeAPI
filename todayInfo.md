@@ -1,66 +1,66 @@
 
+*#================Física (Almoço)=================#*
+➤ Arroz, feijão, arroz integral
+➤ `Estrogonofe de carne`
+➤ Opção: Estrogonofe de legumes
+➤ *Batata-palha*
+➤ Salada de alface
+➤ *Mexerica*
+➤ Minipão, refresco
+
 *#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Lasanha`
-➤ Opção: PVT com azeitonas   
-➤ *Berinjela com passas*
-➤ Salada de alface 
-➤ *Gelatina *
+➤ `Hambúrguer à pizzaiolo`
+➤ Opção: Hambúrguer de PVT  
+➤ *Polenta cremosa *
+➤ Salada de escarola     
+➤ *Maçã   *
 ➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de tilápia dourado*
-➤ Opção: PVT com tomate-cereja
-➤ *Pirão*
-➤ Salada de acelga
-➤ *Maçã*
-➤ Minipão, refresco
-
-*#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de peixe assado*
-➤ Opção: PVT com tomate-cereja
-➤ *Pirão*
-➤ Salada de acelga
-➤ *Banana*
+➤ `Estrogonofe de carne`
+➤ Opção: Estrogonofe de legumes
+➤ *Batata-palha*
+➤ Salada de alface
+➤ *Mexerica*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral
-➤ *Copa lombo com molho roti*
-➤ Opção: Talharim com molho de PVT
-➤ *Brócolis ao alho e óleo*
-➤ Salada de agrião
-➤ `Mousse de maracujá`
+➤ Arroz, feijão preto, arroz integral
+➤ `Estrogonofe de carne`
+➤ Opção: Estrogonofe de PVT
+➤ `Batata com salsa`
+➤ Salada de alface
+➤ *Laranja*
 ➤ Minipão, refresco
 %
 
+*#================Física (Jantar)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Carne assada com molho cítrico*
+➤ Opção: PVT com brócolis
+➤ *Vagem com cenoura*
+➤ Salada de escarola
+➤ *Goiabada*
+➤ Minipão, refresco
+
 *#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Copa lombo com molho de abacaxi`
-➤ Opção: Omelete de forno com queijo  
-➤ *Couve refogada*
-➤ Salada beterraba ralada 
-➤ *Melancia *
+➤ `Lagarto assado com molho madeira`
+➤ Opção: Grão-de-bico à indiana 
+➤ *Chuchu com ervas*
+➤ Salada de catalonha   
+➤ `Mousse de maracujá`
 ➤ Minipão, refresco
 
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango empanado*
-➤ Opção: Macarrão com molho de PVT
-➤ *Escarola refogada*
-➤ Salada de beterraba
-➤ *Banana*
-➤ Minipão, refresco
-
-*#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango empanado*
-➤ Opção: PVT à primavera
-➤ *Escarola refogada*
-➤ Salada de beterraba
-➤ *Maçã*
+➤ *Carne assada com molho cítrico*
+➤ Opção: PVT com brócolis
+➤ *Quibebe*
+➤ Salada de escarola
+➤ *Goiabada*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
