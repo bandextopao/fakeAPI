@@ -1,30 +1,30 @@
 
 *#================Química (Almoço)================#*
+➤ Arroz ,  Feijão ,  Arroz Integral
+➤ *Pernil assado com molho de limão*
+➤ Opção: PVT com alho poró
+➤ `Batata com ervas`
+➤ Salada de alface americana
+➤ *Melão*
+➤ Mini pão , Refresco
+
+*#==============Prefeitura (Almoço)===============#*
 Fechado
 
 *#================Física (Almoço)=================#*
 Fechado
 
-*#==============Prefeitura (Almoço)===============#*
-Fechado
-
 *#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de caçarola*
-➤ Opção: PVT à cigana
-➤ *Batata-doce corada*
-➤ Salada de acelga
-➤ *Banana*
-➤ Minipão, refresco
+Fechado
 %
 
 *#================Química (Jantar)================#*
 Fechado
 
-*#================Física (Jantar)=================#*
+*#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#==============Prefeitura (Jantar)===============#*
+*#================Física (Jantar)=================#*
 Fechado
 
 *#================Central (Jantar)================#*
