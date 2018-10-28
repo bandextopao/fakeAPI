@@ -1,31 +1,25 @@
 
-*#================Física (Almoço)=================#*
+*#================Central (Almoço)================#*
 Fechado
 
 *#==============Prefeitura (Almoço)===============#*
 Fechado
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango em tiras com molho shoyu e cebola*
-➤ Opção: PVT à napolitana
-➤ *Escarola à provençal*
-➤ Salada de beterraba
-➤ *Banana*
-➤ Minipão, refresco
-
 *#================Química (Almoço)================#*
+No dia 28 de outubro de 2018, domingo, o Restaurante das Químicas ficará fechado em virtude das eleições nacionais, para que todos possam cumprir o dever cívico junto ao local de votação.
+
+*#================Física (Almoço)=================#*
 Fechado
 %
 
-*#================Física (Jantar)=================#*
+*#================Central (Jantar)================#*
 Fechado
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#================Central (Jantar)================#*
+*#================Química (Jantar)================#*
 Fechado
 
-*#================Química (Jantar)================#*
+*#================Física (Jantar)=================#*
 Fechado
