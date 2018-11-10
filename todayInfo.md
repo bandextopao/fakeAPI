@@ -1,67 +1,31 @@
 
-*#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ `Lasanha`
-➤ Opção: PVT com cogumelo   
-➤ *Brócolis ao alho*
-➤ Salada de alface lisa  
-➤ *Melancia *
-➤ Minipão, refresco
+*#================Física (Almoço)=================#*
+Fechado
 
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Bife acebolado*
-➤ Opção: PVT à vinagrete
-➤ *Escarola refogada*
-➤ Salada de pepino e tomate
-➤ *Gelatina *
-➤ Minipão, refresco
-
-*#================Física (Almoço)=================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Filé de peixe dourado*
-➤ Opção: Moussaka de PVT
-➤ *Purê de abóbora*
-➤ Salada mista de repolho
-➤ *Barra de cereais*
-➤ Minipão, refresco
+Fechado
 
 *#================Central (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Filé de peixe dourado*
-➤ Opção: Moussaka de PVT
-➤ *Purê de abóbora*
-➤ Salada mista de repolho
-➤ *Barra de cereais*
+➤ Arroz, feijão, arroz integral
+➤ *Frango à passarinho*
+➤ Opção: PVT à caçadora
+➤ `Batata sauté`
+➤ Salada de escarola
+➤ *Banana*
 ➤ Minipão, refresco
+
+*#================Química (Almoço)================#*
+Fechado
 %
 
-*#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango xadrez *
-➤ Opção: PVT xadrez
-➤ *Acelga refogada *
-➤ Salada de beterraba ralada
-➤ *Gelatina*
-➤ Minipão, refresco
+*#================Física (Jantar)=================#*
+Fechado
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#================Física (Jantar)=================#*
-➤ Arroz, feijão preto, arroz integral
-➤ `Lombo com molho de abacaxi`
-➤ Opção: Bobó de PVT
-➤ *Couve refogada*
-➤ Salada de pepino
-➤ *Laranja*
-➤ Minipão, refresco
-
 *#================Central (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ `Lombo com molho de abacaxi`
-➤ Opção: Bobó de PVT
-➤ *Couve refogada*
-➤ Salada de pepino
-➤ *Laranja*
-➤ Minipão, refresco
+Fechado
+
+*#================Química (Jantar)================#*
+Fechado
