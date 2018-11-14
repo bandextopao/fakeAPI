@@ -1,67 +1,67 @@
 
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão preto, arroz integral 
-➤ *Contrafilé com molho vinagrete*
-➤ Opção: Yakissoba de PVT
-➤ *Ratatouille*
-➤ Salada de repolho
-➤ *Sagu*
-➤ Minipão, refresco
-
 *#================Física (Almoço)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango assado*
-➤ Opção: PVT com ervilhas
-➤ *Chuchu com salsa*
-➤ Salada de alface
-➤ `Doce de leite`
+➤ *Carne moída*
+➤ Opção: PVT com brócolis
+➤ *Macarrão ao alho e óleo*
+➤ Salada de acelga
+➤ *Maçã*
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
-➤ Arroz ,  Feijão ,  Arroz Integral
-➤ *Carne assada com molho roti*
-➤ Opção: PVT com mandioquinha
-➤ *Berinjela à escabeche *
-➤ Salada de alface americana
-➤ *Goiabada *
-➤ Minipão , Refresco
+➤ Arroz ,  Feijão Preto ,  Arroz integral
+➤ `Hambúrguer ao molho pizzaiolo`
+➤ Opção: Quibe de PVT
+➤ `Mandioca temperada`
+➤ Salada de repolho
+➤ *Banana*
+➤ Minipão, Refresco
+
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão, arroz integral
+➤ *Carne moída com pimentões*
+➤ Opção: Kafta de PVT
+➤ *Batata-doce sauté*
+➤ Salada de alface
+➤ *Maçã*
+➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango assado*
-➤ Opção: PVT com ervilhas
-➤ *Chuchu com salsa*
-➤ Salada de alface
-➤ `Doce de leite`
+➤ *Carne moída*
+➤ Opção: PVT com brócolis
+➤ *Macarrão ao alho e óleo*
+➤ Salada de acelga
+➤ *Maçã*
 ➤ Minipão, refresco
 %
+
+*#================Física (Jantar)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Ovos fritos*
+➤ Opção: PVT com milho
+➤ *Espinafre à provençal*
+➤ Salada de beterraba
+➤ *Goiabada*
+➤ Minipão, refresco
+
+*#================Química (Jantar)================#*
+➤ Arroz ,  Feijão Preto ,  Arroz integral
+➤ *Frango assado*
+➤ Opção: PVT refogado  
+➤ *Chuchu com ervas*
+➤ Salada de alface crespa 
+➤ `Delicia de abacaxi`
+➤ Minipão, Refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de peixe dourado*
-➤ Opção: Moussaka de PVT
-➤ `Purê de batata`
-➤ Salada de escarola
-➤ *Banana*
-➤ Minipão, refresco
-
-*#================Química (Jantar)================#*
-➤ Arroz ,  Feijão ,  Arroz Integral
-➤ *Linguiça toscana*
-➤ Opção: Assado vienense  	
-➤ *Couve refogada*
-➤ Salada de pepino com tomate
-➤ *Maçã *
-➤ Minipão , Refresco 
-
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de peixe dourado*
-➤ Opção: Moussaka de PVT
-➤ `Purê de batata`
-➤ Salada de escarola
-➤ *Banana*
+➤ *Ovos fritos*
+➤ Opção: PVT com milho
+➤ *Espinafre à provençal*
+➤ Salada de beterraba
+➤ *Goiabada*
 ➤ Minipão, refresco
