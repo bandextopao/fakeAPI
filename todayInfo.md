@@ -1,48 +1,48 @@
 
 *#================Central (Almoço)================#*
-➤ Arroz festivo, feijão, arroz integral
-➤ *Frango empanado*
-➤ Opção: Almôndegas de PVT
-➤ `Nhoque à pomodoro`
-➤ Salada mista
-➤ `Delícia de abacaxi`
+➤ Arroz, feijão preto, arroz integral
+➤ *Carne moída com azeitonas*
+➤ Opção: PVT com moyashi
+➤ *Cenoura com salsa*
+➤ Salada de acelga
+➤ *Banana*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão preto, arroz integral
-➤ `Almôndegas com molho ferrugem`
-➤ Opção: Lentilha com legumes 
-➤ `Mandioca sauté`
-➤ Salada de acelga
-➤ *Melancia*
+➤ Arroz, feijão, arroz integral
+➤ *Carne picada com legumes*
+➤ Opção: Panqueca de PVT
+➤ *Berinjela refogada*
+➤ Salada de agrião
+➤ `Doce de leite`
 ➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
-➤ Arroz festivo, feijão, arroz integral
-➤ *Frango empanado*
-➤ Opção: Almôndegas de PVT
-➤ `Nhoque à pomodoro`
-➤ Salada mista
-➤ `Delícia de abacaxi`
+➤ Arroz, feijão, arroz integral
+➤ *Carne moída com azeitonas*
+➤ Opção: PVT com moyashi
+➤ *Cenoura com salsa*
+➤ Salada de acelga
+➤ *Banana*
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango assado*
-➤ Opção: PVT com couve-flor
-➤ *Quiabo ao alho*
-➤ Salada de catalonha 
-➤ *Laranja*
+➤ `Almôndegas ao sugo`
+➤ Opção: PVT com vagem
+➤ `Purê de batata`
+➤ Salada de alface americana
+➤ `Doce de leite com chocolate`
 ➤ Minipão, refresco
 %
 
 *#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Lombo com molho ferrugem*
-➤ Opção: PVT com ervilhas
-➤ *Chucrute*
-➤ Salada de pepino
-➤ *Laranja*
+➤ Arroz, feijão preto, arroz integral
+➤ *Salsicha com molho barbecue*
+➤ Opção: PVT à baiana
+➤ *Purê de abóbora*
+➤ Salada de almeirão
+➤ *Barra de cereais*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
@@ -50,18 +50,18 @@ Fechado
 
 *#================Física (Jantar)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Lombo com molho ferrugem*
-➤ Opção: PVT com ervilhas
-➤ *Chucrute*
-➤ Salada de pepino com hortelã
-➤ *Laranja*
+➤ *Filé de peixe à baiana*
+➤ Opção: PVT à baiana
+➤ *Purê de abóbora*
+➤ Salada de almeirão
+➤ *Barra de cereais*
 ➤ Minipão, refresco
 
 *#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Hambúrguer à pizzaiolo`
-➤ Opção: Hambúrguer de lentilha
-➤ *Quibebe*
-➤ Salada de mostarda
-➤ *Maçã*
+➤ *Bife acebolado *
+➤ Opção: PVT com azeitonas 
+➤ *Legumes sauté *
+➤ Salada de chicória
+➤ *Mamão*
 ➤ Minipão, refresco
