@@ -1,30 +1,30 @@
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango assado*
-➤ Opção: PVT à primavera
-➤ *Virado de cebola*
-➤ Salada de alface
-➤ *Laranja*
-➤ Minipão, refresco
-
-*#================Química (Almoço)================#*
-Fechado
-
 *#==============Prefeitura (Almoço)===============#*
 Fechado
+
+*#================Central (Almoço)================#*
+Fechado
+
+*#================Química (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Cubos de filé de coxa assada*
+➤ Opção: PVT com cogumelo
+➤ `Macarrão ao sugo`
+➤ Salada de alface 
+➤ *Laranja *
+➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
 Fechado
 %
 
+*#==============Prefeitura (Jantar)===============#*
+Fechado
+
 *#================Central (Jantar)================#*
 Fechado
 
 *#================Química (Jantar)================#*
-Fechado
-
-*#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Física (Jantar)=================#*
