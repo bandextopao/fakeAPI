@@ -1,55 +1,55 @@
 
-*#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango assado*
-➤ Opção: PVT alemão 
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Bife com molho barbecue  *
+➤ Opção: Lasanha de berinjela com PVT
 ➤ *Chuchu refogado*
-➤ Salada de almeirão 
-➤ *Maçã  *
+➤ Salada de agrião
+➤ `Pudim de baunilha`
 ➤ Minipão, refresco
 
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral 
-➤ *Fricassê de frango*
-➤ Opção: Omelete de legumes
-➤ *Acelga refogada*
-➤ Salada de tomate
-➤ *Maçã*
-➤ Minipão, refresco 
+*#================Física (Almoço)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Filé de tilápia com molho à baiana*
+➤ Opção: PVT à baiana
+➤ *Abóbora à italiana*
+➤ Salada de alface
+➤ *Barra de cereais*
+➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
 No período de 17, 12, 2018 a 12, 01, 2019, o Restaurante Central ficará fechado para manutenção.
 
-*#================Física (Almoço)=================#*
+*#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Estrogonofe de carne`
-➤ Opção: Estrogonofe de legumes
-➤ *Batata-palha*
-➤ Salada de almeirão
-➤ *Maçã*
+➤ `Hambúrguer ao sugo`
+➤ Opção: Omelete de forno com legumes  
+➤ `Macarrão ao sugo`
+➤ Salada de alface 
+➤ *Mamão *
 ➤ Minipão, refresco
 %
-
-*#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de panela *
-➤ Opção: Panqueca de PVT 
-➤ *Escarola à provençal*
-➤ Salada de pepino 
-➤ `Flan`
-➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
+*#================Física (Jantar)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Carne em cubos com molho de mostarda*
+➤ Opção: PVT com cogumelos
+➤ *Chuchu com milho*
+➤ Salada de acelga
+➤ *Banana*
+➤ Minipão, refresco
+
 *#================Central (Jantar)================#*
 No período de 17, 12, 2018 a 12, 01, 2019, o Restaurante Central ficará fechado para manutenção.
 
-*#================Física (Jantar)=================#*
+*#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango à passarinho*
-➤ Opção: PVT com moyashi
-➤ *Berinjela com coalhada*
-➤ Salada de repolho
-➤ `Pão de mel`
+➤ *Cubos de filé de coxa assado*
+➤ Opção: Escondidinho de PVT   
+➤ *Cenoura refogada com alho-poró*
+➤ Salada de catalonha 
+➤ *Laranja *
 ➤ Minipão, refresco
