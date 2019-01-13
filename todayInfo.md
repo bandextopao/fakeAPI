@@ -1,31 +1,31 @@
 
 *#================Química (Almoço)================#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Bife de panela*
+➤ Opção: PVT gratinada   
+➤ *Couve-flor ao alho*
+➤ Salada de escarola    
+➤ *Melão   *
+➤ Minipão, refresco
 
-*#==============Prefeitura (Almoço)===============#*
+*#================Física (Almoço)=================#*
 Fechado
 
 *#================Central (Almoço)================#*
 No período de 17, 12, 2018 a 12, 01, 2019, o Restaurante Central ficará fechado para manutenção.
 
-*#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne em tiras com molho cigana*
-➤ Opção: PVT com milho
-➤ *Batata-doce com salsa*
-➤ Salada de alface
-➤ *Banana*
-➤ Minipão, refresco
+*#==============Prefeitura (Almoço)===============#*
+Fechado
 %
 
 *#================Química (Jantar)================#*
 Fechado
 
-*#==============Prefeitura (Jantar)===============#*
+*#================Física (Jantar)=================#*
 Fechado
 
 *#================Central (Jantar)================#*
 No período de 17, 12, 2018 a 12, 01, 2019, o Restaurante Central ficará fechado para manutenção.
 
-*#================Física (Jantar)=================#*
+*#==============Prefeitura (Jantar)===============#*
 Fechado
