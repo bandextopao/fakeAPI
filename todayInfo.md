@@ -1,55 +1,55 @@
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Frango assado*
-➤ Opção: PVT com batata
-➤ *Caponata de berinjela*
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão, arroz integral
+➤ *Bife de contrafilé acebolado*
+➤ Opção: PVT com molho rosê
+➤ `Batata sauté`
 ➤ Salada de alface
-➤ *Barra de cereais*
+➤ *Melão*
+➤ Minipão, refresco
+
+*#================Central (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Bife de contrafilé acebolado*
+➤ Opção: PVT com vagem
+➤ `Macarrão ao sugo`
+➤ Salada de almeirão
+➤ *Maçã*
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ `Almôndega ao sugo`
-➤ Opção: PVT com azeitona    
-➤ *Creme de espinafre*
-➤ Salada de alface 
-➤ *Banana *
+➤ Arroz, feijão, arroz integral
+➤ *Frango assado *
+➤ Opção: PVT com vagem
+➤ *Berinjela à moda indiana*
+➤ Salada de catalonha  
+➤ `Pudim`
 ➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
 No período de 14, 01, 2019 a 17, 02, 2019, o Restaurante da Física ficará fechado.
-
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão preto, arroz integral 
-➤ *Filé de frango com molho ferrugem*
-➤ Opção: Lentilha com molho de PVT
-➤ *Chucrute*
-➤ Salada de tomate
-➤ `Mousse de chocolate`
-➤ Minipão, refresco 
 %
 
+*#==============Prefeitura (Jantar)===============#*
+Fechado
+
 *#================Central (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Carne assada com molho roti*
-➤ Opção: PVT com brócolis
-➤ *Chuchu com molho branco*
-➤ Salada de rúcula
-➤ *Banana*
+➤ Arroz, feijão, arroz integral
+➤ *Filé de peixe frito*
+➤ Opção: PVT com moyashi
+➤ *Purê de abóbora*
+➤ Salada de escarola
+➤ *Goiabada*
 ➤ Minipão, refresco
 
 *#================Química (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Copa lombo ao vinagrete *
-➤ Opção: PVT com tomate  
-➤ *Acelga refogada *
-➤ Salada de beterraba ralada
-➤ *Delicaxi *
+➤ Arroz, feijão, arroz integral
+➤ *Cubos de carne com molho argentino *
+➤ Opção: Grão-de-bico à moda indiana
+➤ *Quibebe *
+➤ Salada de almeirão  
+➤ *Maçã  *
 ➤ Minipão, refresco
 
 *#================Física (Jantar)=================#*
-Fechado
-
-*#==============Prefeitura (Jantar)===============#*
 Fechado
