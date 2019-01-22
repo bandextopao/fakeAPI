@@ -1,55 +1,55 @@
 
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de panela*
-➤ Opção: Canelone de PVT
-➤ *Creme de espinafre*
-➤ Salada de alface
-➤ *Melancia*
-➤ Minipão, refresco
-
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Rolê de frango com molho de laranja*
-➤ Opção: PVT à primavera
-➤ *Vagem ao alho e óleo*
-➤ Salada de alface
-➤ *Maçã*
-➤ Minipão, refresco
-
 *#================Física (Almoço)=================#*
 No período de 14, 01, 2019 a 17, 02, 2019, o Restaurante da Física ficará fechado.
 
+*#================Central (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ `Estrogonofe de carne`
+➤ Opção: Estrogonofe de legumes
+➤ *Batata-palha*
+➤ Salada de escarola
+➤ *Laranja*
+➤ Minipão, refresco
+
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão, arroz integral
+➤ *Filé de frango à primavera*
+➤ Opção: PVT à primavera
+➤ *Ratatouille*
+➤ Salada de agrião
+➤ `Pudim de chocolate`
+➤ Minipão, refresco
+
 *#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango assado *
-➤ Opção: PVT com cogumelo     
-➤ *Couve-flor ao alho*
-➤ Salada de escarola  
-➤ *Mamão *
+➤ *Bife de contrafilé acebolado*
+➤ Opção: Omelete de forno      
+➤ *Batata-doce sauté*
+➤ Salada de almeirão 
+➤ *Melancia     *
 ➤ Minipão, refresco
 %
-
-*#==============Prefeitura (Jantar)===============#*
-Fechado
-
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne assada com molho de cebola*
-➤ Opção: PVT com tomate-cereja
-➤ *Virado de milho*
-➤ Salada de repolho
-➤ *Barra de cereais*
-➤ Minipão, refresco
 
 *#================Física (Jantar)=================#*
 Fechado
 
+*#================Central (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Frango à chinesa*
+➤ Opção: PVT à chinesa
+➤ *Acelga refogada*
+➤ Salada de beterraba
+➤ *Banana*
+➤ Minipão, refresco
+
+*#==============Prefeitura (Jantar)===============#*
+Fechado
+
 *#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne moída à primavera*
-➤ Opção: Almôndega de PVT 
-➤ `Macarrão ao sugo`
-➤ Salada de almeirão 
-➤ *Melão  *
+➤ *Peixe à moda conceição*
+➤ Opção: PVT com milho e ervilha 
+➤ *Legumes sauté *
+➤ Salada de alface   
+➤ `Pudim`
 ➤ Minipão, refresco
