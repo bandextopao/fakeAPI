@@ -1,25 +1,25 @@
 
+*#==============Prefeitura (Almoço)===============#*
+Fechado
+
 *#================Física (Almoço)=================#*
-No período de 14, 01, 2019 a 17, 02, 2019, o Restaurante da Física ficará fechado.
+Fechado
 
 *#================Central (Almoço)================#*
-Feriado
+Fechado
 
 *#================Química (Almoço)================#*
-Feriado
-
-*#==============Prefeitura (Almoço)===============#*
-Feriado
+Fechado
 %
+
+*#==============Prefeitura (Jantar)===============#*
+Fechado
 
 *#================Física (Jantar)=================#*
 Fechado
 
 *#================Central (Jantar)================#*
-Feriado
-
-*#================Química (Jantar)================#*
 Fechado
 
-*#==============Prefeitura (Jantar)===============#*
+*#================Química (Jantar)================#*
 Fechado
