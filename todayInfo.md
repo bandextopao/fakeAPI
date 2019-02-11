@@ -1,55 +1,55 @@
 
+*#================Física (Almoço)=================#*
+No período de 14, 01, 2019 a 17, 02, 2019, o Restaurante da Física ficará fechado.
+
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de frango com molho mostarda*
-➤ Opção: PVT com molho mostarda
-➤ *Abobrinha ao alho*
-➤ Salada de alface
-➤ *Banana*
+➤ Arroz, feijão, arroz integral  
+➤ *Filé de frango com molho de laranja*
+➤ Opção: PVT com salsa
+➤ *Creme de ervilha*
+➤ Salada de escarola
+➤ *Goiabinha*
 ➤ Minipão, refresco 
 
 *#================Química (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Carne assada com molho argentino *
-➤ Opção: Lentilha com legumes       
-➤ *Abobrinha à italiana *
-➤ Salada de almeirão
-➤ `Pudim`
+➤ Arroz, feijão, arroz integral
+➤ *Bife de grelhado com molho de ervilha*
+➤ Opção: PVT com ervilha
+➤ *Polenta cremosa*
+➤ Salada de escarola 
+➤ *Melancia*
 ➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne em tiras*
-➤ Opção: PVT com chuchu
-➤ *Macarrão ao alho e óleo*
-➤ Salada de acelga
-➤ *Kiwi*
+➤ *Bife de caçarola*
+➤ Opção: PVT com vagem
+➤ *Batata-doce corada*
+➤ Salada de repolho com beterraba
+➤ *Maçã*
 ➤ Minipão, refresco
-
-*#================Física (Almoço)=================#*
-No período de 14, 01, 2019 a 17, 02, 2019, o Restaurante da Física ficará fechado.
 %
+
+*#================Física (Jantar)=================#*
+Fechado
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Química (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Filé de frango com molho de laranja *
-➤ Opção: PVT com cogumelo       
-➤ *Quiabo refogado*
-➤ Salada de acelga
-➤ *Melão      *
+➤ Arroz, feijão, arroz integral
+➤ `Copa lombo com molho de abacaxi`
+➤ Opção: PVT à califórnia
+➤ *Couve refogada*
+➤ Salada de pepino
+➤ *Laranja*
 ➤ Minipão, refresco
 
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Rolê de frango com molho de mostarda*
-➤ Opção: PVT com ervilhas
-➤ *Abobrinha à juliana*
-➤ Salada de escarola
-➤ *Laranja*
+➤ *Frango assado*
+➤ Opção: PVT com brócolis
+➤ *Acelga com molho shoyu*
+➤ Salada de beterraba
+➤ *Barra de cereais*
 ➤ Minipão, refresco
-
-*#================Física (Jantar)=================#*
-Fechado
