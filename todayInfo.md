@@ -1,55 +1,55 @@
 
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral 
-➤ *Picadinho de carne com molho roti*
-➤ Opção: Yakissoba vegetariano
-➤ *Dueto de legumes*
-➤ Salada de alface
-➤ *Melancia*
-➤ Minipão, refresco 
-
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango ao forno*
-➤ Opção: PVT com espinafre
-➤ *Chuchu com salsa*
-➤ Salada de almeirão
-➤ *Gelatina*
-➤ Minipão, refresco
-
 *#================Física (Almoço)=================#*
 No período de 14, 01, 2019 a 17, 02, 2019, o Restaurante da Física ficará fechado.
 
 *#================Química (Almoço)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Linguiça toscana com molho vinagrete*
+➤ Opção: PVT com vinagrete
+➤ *Farofa rica*
+➤ Salada de almeirão 
+➤ `Abacaxi`
+➤ Minipão, refresco
+
+*#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de frango com molho de salsão*
-➤ Opção: PVT com mandioquinha
-➤ *Berinjela ao forno*
-➤ Salada de chicória   
-➤ `Cocada cremosa`
+➤ `Estrogonofe de carne`
+➤ Opção: Estrogonofe de legumes
+➤ *Batata-palha*
+➤ Salada de acelga
+➤ *Laranja*
+➤ Minipão, refresco
+
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Coxa de frango assada*
+➤ Opção: PVT à caipira
+➤ *Chuchu com alecrim*
+➤ Salada de rúcula
+➤ *Maçã*
 ➤ Minipão, refresco
 %
-
-*#==============Prefeitura (Jantar)===============#*
-Fechado
-
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Ovos mexidos*
-➤ Opção: Escondidinho de PVT
-➤ *Cenoura com ervilhas*
-➤ Salada de alface
-➤ *Melão*
-➤ Minipão, refresco
 
 *#================Física (Jantar)=================#*
 Fechado
 
 *#================Química (Jantar)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Iscas de carne aceboladas*
+➤ Opção: Quibe de PVT
+➤ *Abóbora ao forno*
+➤ Salada de repolho bicolor
+➤ *Maçã*
+➤ Minipão, refresco
+
+*#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Lagarto assado com molho madeira`
-➤ Opção: Grãos com queijo branco
-➤ *Brócolis à provençal*
-➤ Salada de alface
+➤ *Filé de tilápia dourado*
+➤ Opção: PVT com moyashi
+➤ *Cuscuz de legumes*
+➤ Salada de escarola
 ➤ *Banana*
 ➤ Minipão, refresco
+
+*#==============Prefeitura (Jantar)===============#*
+Fechado
