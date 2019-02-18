@@ -1,55 +1,67 @@
 
-*#================Física (Almoço)=================#*
-No período de 14, 01, 2019 a 17, 02, 2019, o Restaurante da Física ficará fechado.
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão, arroz integral  
+➤ *Isca de carne à primavera *
+➤ Opção: PVT à primavera
+➤ *Cenoura com alecrim*
+➤ Salada de repolho
+➤ `Doce de leite com coco`
+➤ Minipão, refresco 
 
-*#================Química (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Linguiça toscana com molho vinagrete*
-➤ Opção: PVT com vinagrete
-➤ *Farofa rica*
-➤ Salada de almeirão 
-➤ `Abacaxi`
+*#================Física (Almoço)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Frango empanado*
+➤ Opção: PVT com vagem
+➤ *Abobrinha com tomate*
+➤ Salada de acelga
+➤ *Maçã*
 ➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Estrogonofe de carne`
-➤ Opção: Estrogonofe de legumes
-➤ *Batata-palha*
-➤ Salada de acelga
-➤ *Laranja*
+➤ *Frango empanado*
+➤ Opção: PVT com vagem
+➤ *Abobrinha com tomate *
+➤ Salada de acelga 
+➤ *Maçã *
 ➤ Minipão, refresco
 
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Coxa de frango assada*
-➤ Opção: PVT à caipira
-➤ *Chuchu com alecrim*
-➤ Salada de rúcula
-➤ *Maçã*
+*#================Química (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Picadinho de carne à brasileira *
+➤ Opção: Grão-de-bico à moda indiana  
+➤ *Repolho refogado*
+➤ Salada de beterraba  
+➤ `Doce de leite`
 ➤ Minipão, refresco
 %
 
-*#================Física (Jantar)=================#*
+*#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#================Química (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Iscas de carne aceboladas*
-➤ Opção: Quibe de PVT
-➤ *Abóbora ao forno*
-➤ Salada de repolho bicolor
-➤ *Maçã*
+*#================Física (Jantar)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Carne em cubos com molho de mostarda*
+➤ Opção: PVT com brócolis
+➤ *Cenoura com salsa*
+➤ Salada de repolho
+➤ *Goiabada*
 ➤ Minipão, refresco
 
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de tilápia dourado*
-➤ Opção: PVT com moyashi
-➤ *Cuscuz de legumes*
-➤ Salada de escarola
-➤ *Banana*
+➤ *Carne em cubos com  molho de mostarda*
+➤ Opção: PVT com brócolis
+➤ *Cenoura com salsa*
+➤ Salada de repolho 
+➤ *Goiabada *
 ➤ Minipão, refresco
 
-*#==============Prefeitura (Jantar)===============#*
-Fechado
+*#================Química (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Filé de frango com molho roti*
+➤ Opção: PVT com azeitonas
+➤ `Mandioca temperada`
+➤ Salada de chicória    
+➤ *Banana *
+➤ Minipão, refresco
