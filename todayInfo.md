@@ -1,24 +1,24 @@
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ `Almôndegas ao sugo`
-➤ Opção: PVT com alho-poró
-➤ *Batata-doce corada*
-➤ Salada de repolho
-➤ *Bananada*
-➤ Minipão, refresco
+*#================Física (Almoço)=================#*
+Fechado
 
 *#================Química (Almoço)================#*
-Fechado
+➤ Arroz, feijão, arroz integral
+➤ *Cubos de pernil com molho barbecue*
+➤ Opção: PVT com queijo branco  
+➤ *Virado de abobrinha*
+➤ Salada de repolho bicolor    
+➤ *Laranja*
+➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
 Fechado
 
-*#================Física (Almoço)=================#*
+*#================Central (Almoço)================#*
 Fechado
 %
 
-*#================Central (Jantar)================#*
+*#================Física (Jantar)=================#*
 Fechado
 
 *#================Química (Jantar)================#*
@@ -27,5 +27,5 @@ Fechado
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#================Física (Jantar)=================#*
+*#================Central (Jantar)================#*
 Fechado
