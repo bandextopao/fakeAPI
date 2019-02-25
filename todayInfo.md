@@ -1,31 +1,67 @@
 
-*#================Física (Almoço)=================#*
-Fechado
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz ,  Feijão ,  Arroz Integral
+➤ *Bife de panela*
+➤ Opção: PVT à madalena
+➤ *Creme de espinafre*
+➤ Salada de alface
+➤ *Melão*
+➤ Minipão, refresco
 
-*#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Cubos de pernil com molho barbecue*
-➤ Opção: PVT com queijo branco  
-➤ *Virado de abobrinha*
-➤ Salada de repolho bicolor    
+*#================Central (Almoço)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Linguiça acebolada*
+➤ Opção: PVT caipira
+➤ *Farofa*
+➤ Salada de acelga
 ➤ *Laranja*
 ➤ Minipão, refresco
 
-*#==============Prefeitura (Almoço)===============#*
-Fechado
+*#================Química (Almoço)================#*
+➤ Arroz ,  Feijão Carioca ,  Arroz Integral
+➤ *Bife de contrafilé com molho argentino*
+➤ Opção: PVT argentino
+➤ *Chuchu com manjericão*
+➤ Salada de escarola   
+➤ *Barrinha de biscoito recheado *
+➤ Mini pão, Refresco
 
-*#================Central (Almoço)================#*
-Fechado
+*#================Física (Almoço)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Linguiça acebolada*
+➤ Opção: PVT caipira
+➤ *Farofa*
+➤ Salada de beterraba
+➤ *Laranja*
+➤ Minipão, refresco
 %
-
-*#================Física (Jantar)=================#*
-Fechado
-
-*#================Química (Jantar)================#*
-Fechado
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Central (Jantar)================#*
-Fechado
+➤ Arroz, feijão preto, arroz integral
+➤ *Bife de caçarola*
+➤ Opção: PVT com vagem
+➤ *Batata-doce sauté*
+➤ Salada de almeirão
+➤ *Maçã*
+➤ Minipão, refresco
+
+*#================Química (Jantar)================#*
+➤ Arroz ,  Feijão Carioca ,  Arroz Integral
+➤ *Hambúrguer com molho vinagrete *
+➤ Opção: Hambúrguer de lentilha
+➤ `Ravióli de queijo ao sugo`
+➤ Salada de alface    
+➤ *Melão*
+➤ Mini pão, Refresco
+
+*#================Física (Jantar)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Bife de contrafilé grelhado*
+➤ Opção: PVT com brócolis
+➤ *Batata-doce sauté*
+➤ Salada de almeirão
+➤ *Maçã*
+➤ Minipão, refresco
