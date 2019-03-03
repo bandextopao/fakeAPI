@@ -6,13 +6,7 @@ Fechado
 Fechado
 
 *#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de caçarola com molho de ervilhas*
-➤ Opção: PVT com moyashi
-➤ *Chuchu refogado*
-➤ Salada de almeirão
-➤ `Pão de mel`
-➤ Minipão, refresco
+Fechado
 
 *#================Química (Almoço)================#*
 Fechado
