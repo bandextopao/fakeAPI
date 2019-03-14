@@ -1,67 +1,67 @@
 
 *#================Física (Almoço)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango assado*
-➤ Opção: PVT com espinafre
-➤ *Creme de milho*
-➤ Salada de repolho
-➤ *Maçã*
-➤ Minipão, refresco
-
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral
-➤ *Cubos de frango à chinesa*
-➤ Opção: PVT à chinesa
-➤ *Batata-palha*
-➤ Salada de alface 
-➤ *Maçã*
-➤ Minipão, refresco
-
-*#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Lagarto assado ao molho de ervas *
-➤ Opção: PVT com cogumelo  
-➤ *Brócolis refogado *
-➤ Salada de escarola    
-➤ `Sorvete`
+➤ *Filé de tilápia à baiana*
+➤ Opção: PVT à baiana
+➤ *Cenoura com alho-poró*
+➤ Salada de almeirão
+➤ *Goiabada*
 ➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango assado*
-➤ Opção: PVT com espinafre
-➤ *Creme de milho*
-➤ Salada de repolho
-➤ *Maçã*
+➤ *Filé de tilápia à baiana*
+➤ Opção: PVT à baiana
+➤ *Cenoura com alho-poró*
+➤ Salada de almeirão
+➤ *Laranja*
+➤ Minipão, refresco
+
+*#================Química (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ `Salsicha ao sugo`
+➤ Opção: PVT com tomate cereja   
+➤ `Purê de batata`
+➤ Salada de alface     
+➤ *Melancia  *
+➤ Minipão, refresco
+
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão, arroz integral
+➤ *Isca de carne com molho ferrugem *
+➤ Opção: PVT com espinafre       
+➤ *Berinjela ao forno *
+➤ Salada mix de folhas
+➤ *Gelatina  *
 ➤ Minipão, refresco
 %
 
 *#================Física (Jantar)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Omelete de espinafre*
-➤ Opção: PVT com milho
-➤ `Vagem com batata`
-➤ Salada de alface
-➤ `Sorvete`
-➤ Minipão, refresco
-
-*#==============Prefeitura (Jantar)===============#*
-Fechado
-
-*#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de panela *
-➤ Opção: Lasanha de PVT 
-➤ *Abobrinha com salsa *
-➤ Salada de chicória   
-➤ *Melão *
+➤ *Rolê de frango com molho de tomate*
+➤ Opção: PVT com tomate-cereja
+➤ *Macarrão ao alho e óleo*
+➤ Salada de acelga
+➤ *Banana*
 ➤ Minipão, refresco
 
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Ovos mexidos*
-➤ Opção: PVT com milho
-➤ `Vagem com batata`
-➤ Salada de alface
-➤ `Sorvete`
+➤ *Rolê de frango com molho de tomate*
+➤ Opção: PVT com tomate-cereja
+➤ *Macarrão ao alho e óleo*
+➤ Salada de acelga
+➤ *Banana*
 ➤ Minipão, refresco
+
+*#================Química (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Frango assado *
+➤ Opção: PVT com vagem     
+➤ *Berinjela refogada *
+➤ Salada de repolho     
+➤ *Curau  *
+➤ Minipão, refresco
+
+*#==============Prefeitura (Jantar)===============#*
+Fechado
