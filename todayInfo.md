@@ -1,67 +1,67 @@
 
-*#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de tilápia à baiana*
-➤ Opção: PVT à baiana
-➤ *Cenoura com alho-poró*
-➤ Salada de almeirão
-➤ *Goiabada*
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Pernil com molho barbecue*
+➤ Opção: PVT com brócolis
+➤ *Repolho no vapor*
+➤ Salada de tomate
+➤ `Abacaxi`
 ➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de tilápia à baiana*
-➤ Opção: PVT à baiana
-➤ *Cenoura com alho-poró*
-➤ Salada de almeirão
+➤ *Frango com molho aurora*
+➤ Opção: PVT com brócolis
+➤ *Repolho à provençal*
+➤ Salada de pepino
+➤ *Laranja*
+➤ Minipão, refresco
+
+*#================Física (Almoço)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Frango com molho aurora*
+➤ Opção: PVT com brócolis
+➤ *Repolho à provençal*
+➤ Salada de pepino
 ➤ *Laranja*
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Salsicha ao sugo`
-➤ Opção: PVT com tomate cereja   
-➤ `Purê de batata`
-➤ Salada de alface     
-➤ *Melancia  *
-➤ Minipão, refresco
-
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral
-➤ *Isca de carne com molho ferrugem *
-➤ Opção: PVT com espinafre       
-➤ *Berinjela ao forno *
-➤ Salada mix de folhas
-➤ *Gelatina  *
+➤ *Filé frango com vinagrete*
+➤ Opção: PVT com azeitonas      
+➤ *Quibebe *
+➤ Salada de alface   
+➤ *Maçã  *
 ➤ Minipão, refresco
 %
 
-*#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Rolê de frango com molho de tomate*
-➤ Opção: PVT com tomate-cereja
-➤ *Macarrão ao alho e óleo*
-➤ Salada de acelga
-➤ *Banana*
-➤ Minipão, refresco
+*#==============Prefeitura (Jantar)===============#*
+Fechado
 
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Rolê de frango com molho de tomate*
-➤ Opção: PVT com tomate-cereja
-➤ *Macarrão ao alho e óleo*
-➤ Salada de acelga
-➤ *Banana*
+➤ *Carne assada*
+➤ Opção: Quibe de PVT
+➤ *Purê de abóbora*
+➤ Salada de almeirão
+➤ `Pão de mel`
+➤ Minipão, refresco
+
+*#================Física (Jantar)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Carne assada*
+➤ Opção: Quibe de PVT
+➤ *Abóbora com salsa*
+➤ Salada de almeirão
+➤ `Pão de mel`
 ➤ Minipão, refresco
 
 *#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango assado *
-➤ Opção: PVT com vagem     
-➤ *Berinjela refogada *
-➤ Salada de repolho     
-➤ *Curau  *
+➤ *Bife de contrafilé com molho roti*
+➤ Opção: PVT rica
+➤ *Acelga refogada *
+➤ Salada de beterraba ralada   
+➤ *Mamão *
 ➤ Minipão, refresco
-
-*#==============Prefeitura (Jantar)===============#*
-Fechado
