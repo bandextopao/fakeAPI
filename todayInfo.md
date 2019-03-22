@@ -1,67 +1,67 @@
 
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral
-➤ `Lagarto com molho madeira`
-➤ Opção: Canelone de brócolis com ricota
-➤ *Macarrão à primavera*
-➤ Salada de agrião
-➤ `Delicia de abacaxi`
-➤ Minipão, refresco
-
 *#================Física (Almoço)=================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Lombo com molho de mostarda*
-➤ Opção: PVT com batata
-➤ *Couve à provençal*
-➤ Salada de beterraba
-➤ *Caqui*
+➤ Arroz, feijão, arroz integral
+➤ `Carne moída à fantasia`
+➤ Opção: PVT à fantasia
+➤ `Macarrão ao sugo`
+➤ Salada de rúcula
+➤ *Banana*
 ➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ `Carne moída à fantasia`
+➤ Opção: PVT à fantasia
+➤ `Purê de batata`
+➤ Salada de rúcula
+➤ `Sorvete`
+➤ Minipão, refresco
+
+*#==============Prefeitura (Almoço)===============#*
 ➤ Arroz, feijão preto, arroz integral
-➤ *Lombo com molho de mostarda*
-➤ Opção: PVT com batata
-➤ *Farofa*
-➤ Salada de beterraba
-➤ *Laranja*
+➤ *Frango assado *
+➤ Opção: PVT com molho mostarda
+➤ *Berinjela refogada*
+➤ Salada de repolho
+➤ *Melancia*
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Lasanha`
-➤ Opção: PVT com alho-poró   
-➤ *Legumes refogados *
-➤ Salada de alface americana   
-➤ *Maçã *
+➤ *Iscas de carne à chinesa *
+➤ Opção: Rondele de queijo com PVT  
+➤ *Repolho à escabeche *
+➤ Salada de beterraba ralada    
+➤ *Banana *
 ➤ Minipão, refresco
 %
+
+*#================Física (Jantar)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Filé de tilápia à portuguesa*
+➤ Opção: PVT à portuguesa
+➤ *Batata-doce corada*
+➤ Salada de almeirão
+➤ *Goiabada*
+➤ Minipão, refresco
+
+*#================Central (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Filé de tilápia à portuguesa*
+➤ Opção: PVT à portuguesa
+➤ *Abobrinha com tomate*
+➤ Salada de almeirão
+➤ *Goiabada*
+➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#================Física (Jantar)=================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Frango à passarinho*
-➤ Opção: PVT com ervilhas
-➤ *Quiabo refogado*
-➤ Salada de escarola
-➤ *Maçã*
-➤ Minipão, refresco
-
-*#================Central (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Frango à passarinho*
-➤ Opção: PVT com ervilhas
-➤ *Quiabo refogado*
-➤ Salada de escarola
-➤ *Maçã*
-➤ Minipão, refresco
-
 *#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ `Carne assada ao molho madeira`
-➤ Opção: PVT com azeitonas   
-➤ *Brócolis ao alho*
-➤ Salada de acelga    
-➤ `Pudim`
+➤ *Cubos de filé de coxa assado*
+➤ Opção: Lentilha rica      
+➤ *Batata-doce sauté *
+➤ Salada de alface americana    
+➤ *Mamão    *
 ➤ Minipão, refresco
