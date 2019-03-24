@@ -1,30 +1,30 @@
 
-*#================Central (Almoço)================#*
+*#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de frango à caçadora*
-➤ Opção: PVT à caçadora
-➤ *Chuchu com salsa*
-➤ Salada de escarola
-➤ *Maçã*
+➤ *Filé de frango ao vinagrete *
+➤ Opção: PVT com milho e ervilha  
+➤ *Cenoura com salsa*
+➤ Salada de almeirão   
+➤ *Bolinho individual *
 ➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
 Fechado
 
-*#================Química (Almoço)================#*
+*#================Central (Almoço)================#*
 Fechado
 
 *#==============Prefeitura (Almoço)===============#*
 Fechado
 %
 
-*#================Central (Jantar)================#*
+*#================Química (Jantar)================#*
 Fechado
 
 *#================Física (Jantar)=================#*
 Fechado
 
-*#================Química (Jantar)================#*
+*#================Central (Jantar)================#*
 Fechado
 
 *#==============Prefeitura (Jantar)===============#*
