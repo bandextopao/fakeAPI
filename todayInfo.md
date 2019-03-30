@@ -1,67 +1,31 @@
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de frango à caipira*
-➤ Opção: PVT à caipira
-➤ *Polenta*
-➤ Salada de repolho
-➤ *Laranja*
+➤ *Carne em cubos com cogumelos*
+➤ Opção: PVT com cogumelos
+➤ *Batata-doce sauté*
+➤ Salada de rúcula
+➤ *Goiabada*
 ➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Iscas de frango à chinesa *
-➤ Opção: PVT à chinesa     
-➤ *Escarola ao alho*
-➤ Salada de beterraba ralada     
-➤ *Gelatina de cereja*
-➤ Minipão, refresco
+Fechado
 
 *#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de frango à caipira*
-➤ Opção: PVT à caipira
-➤ *Polenta*
-➤ Salada de repolho
-➤ *Laranja*
-➤ Minipão, refresco
+Fechado
 
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral
-➤ *Contrafilé à vinagrete *
-➤ Opção: Lasanha de berinjela 
-➤ *Chuchu com salsa*
-➤ Salada de acelga
-➤ `Pudim chinês`
-➤ Minipão, refresco
+Fechado
 %
 
 *#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne assada com molho ferrugem*
-➤ Opção: PVT com ervilhas
-➤ *Caponata de abobrinha*
-➤ Salada de acelga
-➤ `Doce de leite`
-➤ Minipão, refresco
+Fechado
 
 *#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne assada com molho fazendinha *
-➤ Opção: PVT alemão     
-➤ *Abóbora refogada*
-➤ Salada de repolho roxo    
-➤ *Maçã *
-➤ Minipão, refresco
+Fechado
 
 *#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de contrafilé*
-➤ Opção: PVT com ervilhas
-➤ *Caponata de abobrinha*
-➤ Salada de acelga
-➤ *Banana*
-➤ Minipão, refresco
+Fechado
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
