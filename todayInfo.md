@@ -1,31 +1,31 @@
 
+*#================Química (Almoço)================#*
+➤ Arroz ,  Feijão ,  Arroz Integral
+➤ *Bife grelhado acebolado*
+➤ Opção: PVT ao vinagrete
+➤ *Macarrão à primavera  *
+➤ Salada de alface 
+➤ *Barrinha de biscoito recheada *
+➤ Mini pão, Refresco
+
 *#==============Prefeitura (Almoço)===============#*
 Fechado
-
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de frango grelhado*
-➤ Opção: PVT com cenoura
-➤ *Berinjela à napolitana*
-➤ Salada de almeirão
-➤ *Maçã*
-➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
 Fechado
 
-*#================Química (Almoço)================#*
+*#================Central (Almoço)================#*
 Fechado
 %
 
-*#==============Prefeitura (Jantar)===============#*
+*#================Química (Jantar)================#*
 Fechado
 
-*#================Central (Jantar)================#*
+*#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Física (Jantar)=================#*
 Fechado
 
-*#================Química (Jantar)================#*
+*#================Central (Jantar)================#*
 Fechado
