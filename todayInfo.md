@@ -11,10 +11,10 @@ Fechado
 ➤ *Banana*
 ➤ Minipão, refresco
 
-*#==============Prefeitura (Almoço)===============#*
+*#================Física (Almoço)=================#*
 Fechado
 
-*#================Física (Almoço)=================#*
+*#==============Prefeitura (Almoço)===============#*
 Fechado
 %
 
@@ -24,8 +24,8 @@ Fechado
 *#================Central (Jantar)================#*
 Fechado
 
-*#==============Prefeitura (Jantar)===============#*
+*#================Física (Jantar)=================#*
 Fechado
 
-*#================Física (Jantar)=================#*
+*#==============Prefeitura (Jantar)===============#*
 Fechado
