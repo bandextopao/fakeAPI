@@ -1,7 +1,4 @@
 
-*#================Química (Almoço)================#*
-Fechado
-
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
 ➤ *Hambúrguer com molho americano*
@@ -11,21 +8,24 @@ Fechado
 ➤ *Banana*
 ➤ Minipão, refresco
 
+*#==============Prefeitura (Almoço)===============#*
+Fechado
+
 *#================Física (Almoço)=================#*
 Fechado
 
-*#==============Prefeitura (Almoço)===============#*
+*#================Química (Almoço)================#*
 Fechado
 %
 
-*#================Química (Jantar)================#*
+*#================Central (Jantar)================#*
 Fechado
 
-*#================Central (Jantar)================#*
+*#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Física (Jantar)=================#*
 Fechado
 
-*#==============Prefeitura (Jantar)===============#*
+*#================Química (Jantar)================#*
 Fechado
