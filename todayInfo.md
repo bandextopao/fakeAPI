@@ -1,31 +1,31 @@
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Hambúrguer com molho americano*
-➤ Opção: PVT com ervilhas
-➤ *Macarrão ao alho e óleo*
-➤ Salada de alface
-➤ *Banana*
-➤ Minipão, refresco
+*#==============Prefeitura (Almoço)===============#*
+Fechado
 
 *#================Química (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Frango empanado*
+➤ Opção: PVT com cogumelos    
+➤ `Macarrão ao sugo`
+➤ Salada de almeirão     
+➤ *Laranja   *
+➤ Minipão, refresco
+
+*#================Central (Almoço)================#*
 Fechado
 
 *#================Física (Almoço)=================#*
 Fechado
-
-*#==============Prefeitura (Almoço)===============#*
-Fechado
 %
 
-*#================Central (Jantar)================#*
+*#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Química (Jantar)================#*
 Fechado
 
-*#================Física (Jantar)=================#*
+*#================Central (Jantar)================#*
 Fechado
 
-*#==============Prefeitura (Jantar)===============#*
+*#================Física (Jantar)=================#*
 Fechado
