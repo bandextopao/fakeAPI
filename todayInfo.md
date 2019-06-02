@@ -1,22 +1,25 @@
 
-*#================Química (Almoço)================#*
+*#================Física (Almoço)=================#*
 Fechado
 
-*#================Central (Almoço)================#*
+*#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de frango com molho barbecue*
-➤ Opção: PVT oriental
-➤ *Virado de milho*
-➤ Salada de almeirão
-➤ *Bananada*
+➤ *Lagarto assado com molho de cogumelos*
+➤ Opção: PVT com moyashi
+➤ `Nhoque`
+➤ Salada de acelga 
+➤ *Maçã*
 ➤ Minipão, refresco
+
+*#================Central (Almoço)================#*
+Fechado
 
 *#==============Prefeitura (Almoço)===============#*
 Fechado
-
-*#================Física (Almoço)=================#*
-Fechado
 %
+
+*#================Física (Jantar)=================#*
+Fechado
 
 *#================Química (Jantar)================#*
 Fechado
@@ -25,7 +28,4 @@ Fechado
 Fechado
 
 *#==============Prefeitura (Jantar)===============#*
-Fechado
-
-*#================Física (Jantar)=================#*
 Fechado
