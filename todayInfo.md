@@ -1,31 +1,31 @@
 
-*#==============Prefeitura (Almoço)===============#*
-Fechado
-
-*#================Química (Almoço)================#*
+*#================Física (Almoço)=================#*
 Fechado
 
 *#================Central (Almoço)================#*
+Fechado
+
+*#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Bife de caçarola*
-➤ Opção: PVT com cenoura
-➤ *Batata-palha*
-➤ Salada de alface
-➤ *Maçã*
+➤ *Cubos de coxa grelhados*
+➤ Opção: Quibe de PVT 
+➤ *Abóbora refogada*
+➤ Salada de escarola
+➤ *Banana*
 ➤ Minipão, refresco
 
-*#================Física (Almoço)=================#*
+*#==============Prefeitura (Almoço)===============#*
 Fechado
 %
 
-*#==============Prefeitura (Jantar)===============#*
-Fechado
-
-*#================Química (Jantar)================#*
+*#================Física (Jantar)=================#*
 Fechado
 
 *#================Central (Jantar)================#*
 Fechado
 
-*#================Física (Jantar)=================#*
+*#================Química (Jantar)================#*
+Fechado
+
+*#==============Prefeitura (Jantar)===============#*
 Fechado
