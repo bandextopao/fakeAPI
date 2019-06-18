@@ -1,55 +1,55 @@
 
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral  
-➤ *Cubos de frango à brasileira*
-➤ Opção: PVT à brasileira 
-➤ *Creme de milho*
-➤ Salada de agrião
-➤ *Laranja*
-➤ Minipão, refresco 
-
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de caçarola*
-➤ Opção: PVT com ervilhas
-➤ *Abobrinha refogada*
-➤ Salada de acelga
-➤ *Maçã*
-➤ Minipão, refresco
-
 *#================Química (Almoço)================#*
 Fechado
 
-*#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de caçarola*
-➤ Opção: PVT com ervilhas
-➤ *Abobrinha refogada*
-➤ Salada de acelga
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão preto, arroz integral
+➤ `Estrogonofe de carne`
+➤ Opção: Estrogonofe de PVT
+➤ `Batata palha`
+➤ Salada de escarola
 ➤ *Maçã*
 ➤ Minipão, refresco
+
+*#================Central (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Frango em tiras à mexicana*
+➤ Opção: PVT à mexicana
+➤ *Macarrão ao alho e óleo*
+➤ Salada de escarola
+➤ *Mexerica*
+➤ Minipão, refresco
+
+*#================Física (Almoço)=================#*
+➤ Arroz, feijão, arroz integral
+➤ *Frango em tiras à mexicana*
+➤ Opção: PVT à mexicana
+➤ *Macarrão ao alho e óleo*
+➤ Salada de escarola
+➤ *Mexerica*
+➤ Minipão, refresco
 %
+
+*#================Química (Jantar)================#*
+Fechado
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne moida com azeitonas*
-➤ Opção: PVT com cogumelos
-➤ *Polenta*
-➤ Salada de acelga
-➤ *Laranja*
+➤ *Ovos mexidos*
+➤ Opção: PVT com tomate-cereja
+➤ *Vagem com cenoura*
+➤ Salada de alface
+➤ *Bananada*
 ➤ Minipão, refresco
-
-*#================Química (Jantar)================#*
-Fechado
 
 *#================Física (Jantar)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Cupim com molho de limão*
-➤ Opção: PVT com cogumelos
-➤ *Berinjela à grega*
-➤ Salada de almeirão
-➤ *Laranja*
+➤ *Omelete*
+➤ Opção: PVT com tomate-cereja
+➤ *Vagem com cenoura*
+➤ Salada de alface
+➤ *Bananada*
 ➤ Minipão, refresco
