@@ -3,30 +3,30 @@
 Fechado
 
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão preto, arroz integral
-➤ `Estrogonofe de carne`
-➤ Opção: Estrogonofe de PVT
-➤ `Batata palha`
-➤ Salada de escarola
-➤ *Maçã*
+➤ Arroz, feijão, arroz integral  
+➤ *Bife de contrafilé com vinagrete*
+➤ Opção: Multigrãos à vinagrete
+➤ *Abobrinha refogada*
+➤ Salada mix de folhas
+➤ *Mexerica*
 ➤ Minipão, refresco
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango em tiras à mexicana*
-➤ Opção: PVT à mexicana
-➤ *Macarrão ao alho e óleo*
-➤ Salada de escarola
-➤ *Mexerica*
+➤ *Filé de tilápia à baiana*
+➤ Opção: PVT à baiana
+➤ `Purê de batata`
+➤ Salada de alface
+➤ `Pão de mel`
 ➤ Minipão, refresco
 
 *#================Física (Almoço)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Frango em tiras à mexicana*
-➤ Opção: PVT à mexicana
-➤ *Macarrão ao alho e óleo*
-➤ Salada de escarola
-➤ *Mexerica*
+➤ *Filé de tilápia à baiana*
+➤ Opção: PVT à baiana
+➤ `Purê de batata`
+➤ Salada de alface
+➤ `Pão de mel`
 ➤ Minipão, refresco
 %
 
@@ -38,18 +38,18 @@ Fechado
 
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Ovos mexidos*
-➤ Opção: PVT com tomate-cereja
-➤ *Vagem com cenoura*
-➤ Salada de alface
-➤ *Bananada*
+➤ *Frango à passarinho*
+➤ Opção: PVT com espinafre
+➤ *Farofa*
+➤ Salada de repolho
+➤ *Maçã*
 ➤ Minipão, refresco
 
 *#================Física (Jantar)=================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Omelete*
-➤ Opção: PVT com tomate-cereja
-➤ *Vagem com cenoura*
-➤ Salada de alface
-➤ *Bananada*
+➤ *Frango à passarinho*
+➤ Opção: PVT com espinafre
+➤ *Polenta*
+➤ Salada de agrião
+➤ *Maçã*
 ➤ Minipão, refresco
