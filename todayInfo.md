@@ -1,10 +1,10 @@
 
-*#================Química (Almoço)================#*
-Fechado
-
 *#================Central (Almoço)================#*
 Fechado
 
+
+*#================Química (Almoço)================#*
+Fechado
 
 *#================Física (Almoço)=================#*
 Fechado
@@ -13,12 +13,11 @@ Fechado
 Fechado
 %
 
-*#================Química (Jantar)================#*
-Fechado
-
 *#================Central (Jantar)================#*
 Fechado
 
+*#================Química (Jantar)================#*
+Fechado
 
 *#================Física (Jantar)=================#*
 Fechado
