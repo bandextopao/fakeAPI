@@ -1,31 +1,31 @@
 
-*#================Física (Almoço)=================#*
-Fechado
-
 *#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Carne picada com molho de especiarias*
-➤ Opção: PVT com ervilhas
-➤ *Macarrão ao alho e óleo*
-➤ Salada de alface
-➤ *Banana*
-➤ Minipão, refresco
-
-*#================Química (Almoço)================#*
 Fechado
 
 *#==============Prefeitura (Almoço)===============#*
 Fechado
+
+*#================Química (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Bife grelhado com molho roti  *
+➤ Opção: PVT com milho 
+➤ *Couve-flor refogada*
+➤ Salada de alface 
+➤ *Banana *
+➤ Minipão, refresco
+
+*#================Física (Almoço)=================#*
+Fechado
 %
 
-*#================Física (Jantar)=================#*
+*#================Central (Jantar)================#*
 Fechado
 
-*#================Central (Jantar)================#*
+*#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Química (Jantar)================#*
 Fechado
 
-*#==============Prefeitura (Jantar)===============#*
+*#================Física (Jantar)=================#*
 Fechado
