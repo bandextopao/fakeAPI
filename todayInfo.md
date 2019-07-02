@@ -1,67 +1,55 @@
 
-*#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Filé de frango ao molho fazendinha *
-➤ Opção: PVT com azeitonas
-➤ *Abóbora refogada *
-➤ Salada de repolho bicolor
-➤ *Maçã *
-➤ Minipão, refresco
+*#================Física (Almoço)=================#*
+O Restaurante da Física ficará fechado no período de 01, 07, 2019 a 31, 07, 2019.
 
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral
-➤ `Filé de frango à pizzaiolo`
-➤ Opção: Torta de couve-flor
-➤ *Abobrinha ao alho*
+*#================Central (Almoço)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Frango assado*
+➤ Opção: PVT com moyashi
+➤ *Creme de milho*
 ➤ Salada de acelga
 ➤ *Laranja*
 ➤ Minipão, refresco
 
-*#================Física (Almoço)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango empanado*
-➤ Opção: PVT com espinafre
-➤ *Cenoura com brócolis*
-➤ Salada de acelga
-➤ *Maçã*
+*#================Química (Almoço)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Copa lombo ao molho barbecue*
+➤ Opção: PVT com moyashi 
+➤ *Chuchu refogado *
+➤ Salada de almeirão 
+➤ `Pudim`
 ➤ Minipão, refresco
 
-*#================Central (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife de caçarola*
-➤ Opção: PVT com ervilhas
-➤ *Abóbora à italiana*
-➤ Salada de almeirão
-➤ *Goiabada*
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Bife à rolê*
+➤ Opção: Lentilha com ricota
+➤ *Batata-palha*
+➤ Salada de repolho
+➤ *Manjar com calda de ameixa*
 ➤ Minipão, refresco
 %
 
+*#================Física (Jantar)=================#*
+Fechado
+
+*#================Central (Jantar)================#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Cupim com molho de limão*
+➤ Opção: PVT com mandioca
+➤ *Escarola à provençal*
+➤ Salada de beterraba
+➤ *Banana*
+➤ Minipão, refresco
+
 *#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife grelhado ao molho caçadora *
-➤ Opção: PVT com mandioquinha 
-➤ `Macarrão ao sugo`
-➤ Salada de acelga
-➤ *Gelatina *
+➤ Arroz, feijão preto, arroz integral
+➤ *Cubos de filé de coxa grelhado *
+➤ Opção: PVT com espinafre 
+➤ *Abobrinha à italiana *
+➤ Salada de chicória 
+➤ *Banana *
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
-
-*#================Física (Jantar)=================#*
-➤ Arroz, feijão, arroz integral
-➤ *Omelete*
-➤ Opção: PVT com ervilhas
-➤ *Vagem sauté*
-➤ Salada de escarola
-➤ `Pão de mel`
-➤ Minipão, refresco
-
-*#================Central (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Hambúrguer com molho americano*
-➤ Opção: PVT com espinafre
-➤ `Batata corada`
-➤ Salada de repolho
-➤ *Maçã*
-➤ Minipão, refresco
