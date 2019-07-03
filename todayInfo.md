@@ -1,54 +1,54 @@
 
+*#================Química (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Lagarto assado ao molho roti*
+➤ Opção: PVT com brócolis
+➤ *Farofa rica*
+➤ Salada de alface 
+➤ *Mexerica  *
+➤ Minipão, refresco
+
 *#================Física (Almoço)=================#*
 O Restaurante da Física ficará fechado no período de 01, 07, 2019 a 31, 07, 2019.
 
 *#================Central (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Frango assado*
-➤ Opção: PVT com moyashi
-➤ *Creme de milho*
-➤ Salada de acelga
-➤ *Laranja*
-➤ Minipão, refresco
-
-*#================Química (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Copa lombo ao molho barbecue*
-➤ Opção: PVT com moyashi 
-➤ *Chuchu refogado *
-➤ Salada de almeirão 
-➤ `Pudim`
+➤ Arroz, feijão, arroz integral
+➤ *Iscas de carne à espanhola*
+➤ Opção: PVT à espanhola
+➤ *Chuchu com salsa*
+➤ Salada de alface
+➤ `Pão de mel`
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Bife à rolê*
-➤ Opção: Lentilha com ricota
-➤ *Batata-palha*
-➤ Salada de repolho
-➤ *Manjar com calda de ameixa*
+➤ Arroz, feijão, arroz integral
+➤ *Cubos de carne oriental*
+➤ Opção: Omelete de legumes
+➤ *Cenoura na manteiga*
+➤ Salada de rúcula
+➤ *Melancia*
 ➤ Minipão, refresco
 %
+
+*#================Química (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Quibe de assadeira *
+➤ Opção: Grão-de-bico à indiana 
+➤ *Legumes sautê*
+➤ Salada mix de folhas  
+➤ `Doce de leite`
+➤ Minipão, refresco
 
 *#================Física (Jantar)=================#*
 Fechado
 
 *#================Central (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Cupim com molho de limão*
-➤ Opção: PVT com mandioca
-➤ *Escarola à provençal*
-➤ Salada de beterraba
-➤ *Banana*
-➤ Minipão, refresco
-
-*#================Química (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Cubos de filé de coxa grelhado *
-➤ Opção: PVT com espinafre 
-➤ *Abobrinha à italiana *
-➤ Salada de chicória 
-➤ *Banana *
+➤ Arroz, feijão, arroz integral
+➤ *Frango à passarinho*
+➤ Opção: PVT com brócolis
+➤ *Polenta*
+➤ Salada de acelga
+➤ *Mexerica*
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
