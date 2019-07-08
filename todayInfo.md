@@ -1,30 +1,26 @@
 
+*#================Central (Almoço)================#*
+Fechado
+
+
 *#==============Prefeitura (Almoço)===============#*
 Fechado
 
 *#================Física (Almoço)=================#*
-Fechado
-
-*#================Central (Almoço)================#*
-Fechado
+O Restaurante da Física ficará fechado no período de 01, 07, 2019 a 31, 07, 2019.
 
 *#================Química (Almoço)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Frango assado  *
-➤ Opção: PVT com pimentão
-➤ *Quibebe *
-➤ Salada de alface  
-➤ *Laranja *
-➤ Minipão, refresco
+Fechado
 %
+
+*#================Central (Jantar)================#*
+Fechado
+
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Física (Jantar)=================#*
-Fechado
-
-*#================Central (Jantar)================#*
 Fechado
 
 *#================Química (Jantar)================#*
