@@ -1,55 +1,55 @@
 
-*#================Química (Almoço)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Carne assada ao molho de ervas*
-➤ Opção: PVT com cogumelo 
-➤ *Brócolis refogado*
-➤ Salada de alface  
-➤ *Laranja *
-➤ Minipão, refresco
-
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral
-➤ *Hambúrguer gratinado*
-➤ Opção: Lentilha acebolada
-➤ *Polenta cremosa*
-➤ Salada de alface
-➤ *Maçã*
-➤ Minipão, refresco
-
 *#================Física (Almoço)=================#*
 O Restaurante da Física ficará fechado no período de 01, 07, 2019 a 31, 07, 2019.
 
+*#================Química (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Filé de frango ao molho de mostarda *
+➤ Opção: Lentilha rica 
+➤ *Polenta cremosa *
+➤ Salada de almeirão 
+➤ *Maçã *
+➤ Minipão, refresco
+
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão preto, arroz integral
+➤ *Frango assado com molho mostarda*
+➤ Opção: Canelone de legumes
+➤ *Ratatouille*
+➤ Salada de acelga
+➤ *Arroz-doce com coco*
+➤ Minipão, refresco
+
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Hambúrguer com molho barbecue*
-➤ Opção: PVT com cogumelos
-➤ *Macarrão ao alho e óleo*
-➤ Salada de acelga
-➤ *Maçã*
+➤ *Fricassê de frango*
+➤ Opção: Fricassê de PVT
+➤ *Chuchu com salsa*
+➤ Salada de alface
+➤ *Laranja*
 ➤ Minipão, refresco
 %
 
+*#================Física (Jantar)=================#*
+Fechado
+
 *#================Química (Jantar)================#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Frango assado *
-➤ Opção: PVT com azeitonas 
-➤ *Quibebe*
-➤ Salada de alface americana
-➤ *Melão *
+➤ Arroz, feijão, arroz integral
+➤ *Bife grelhado ao molho roti*
+➤ Opção: PVT com tomate 
+➤ *Berinjela com passas  *
+➤ Salada de repolho 
+➤ `Flan`
 ➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
-*#================Física (Jantar)=================#*
-Fechado
-
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de tilápia com molho mostarda*
-➤ Opção: PVT com espinafre
-➤ *Cenoura com brócolis*
-➤ Salada de escarola
-➤ *Bananada*
+➤ *Carne Assada*
+➤ Opção: Torta de PVT
+➤ *Virado de couve*
+➤ Salada de almeirão
+➤ *Mexerica*
 ➤ Minipão, refresco
