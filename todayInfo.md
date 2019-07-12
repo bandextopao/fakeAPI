@@ -1,55 +1,55 @@
 
-*#================Física (Almoço)=================#*
-O Restaurante da Física ficará fechado no período de 01, 07, 2019 a 31, 07, 2019.
+*#==============Prefeitura (Almoço)===============#*
+➤ Arroz, feijão, arroz integral
+➤ `Estrogonofe de carne`
+➤ Opção: PVT com espinafre       
+➤ `Batata sauté`
+➤ Salada mix de folhas
+➤ *Melancia*
+➤ Minipão, refresco
 
 *#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Filé de frango ao molho de mostarda *
-➤ Opção: Lentilha rica 
-➤ *Polenta cremosa *
-➤ Salada de almeirão 
-➤ *Maçã *
+➤ *Picadinho à brasileira*
+➤ Opção: PVT com vagem 
+➤ *Chuchu com manjericão *
+➤ Salada de alface lisa 
+➤ *Gelatina *
 ➤ Minipão, refresco
 
-*#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão preto, arroz integral
-➤ *Frango assado com molho mostarda*
-➤ Opção: Canelone de legumes
-➤ *Ratatouille*
-➤ Salada de acelga
-➤ *Arroz-doce com coco*
-➤ Minipão, refresco
+*#================Física (Almoço)=================#*
+O Restaurante da Física ficará fechado no período de 01, 07, 2019 a 31, 07, 2019.
 
 *#================Central (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Fricassê de frango*
-➤ Opção: Fricassê de PVT
-➤ *Chuchu com salsa*
-➤ Salada de alface
-➤ *Laranja*
+➤ *Bife de contrafilé grelhado*
+➤ Opção: Moussaka de PVT
+➤ `Mandioca sauté`
+➤ Salada de escarola
+➤ *Banana*
 ➤ Minipão, refresco
 %
-
-*#================Física (Jantar)=================#*
-Fechado
-
-*#================Química (Jantar)================#*
-➤ Arroz, feijão, arroz integral
-➤ *Bife grelhado ao molho roti*
-➤ Opção: PVT com tomate 
-➤ *Berinjela com passas  *
-➤ Salada de repolho 
-➤ `Flan`
-➤ Minipão, refresco
 
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
+*#================Química (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Iscas de frango à chinesa*
+➤ Opção: PVT alemão  
+➤ *Couve refogada *
+➤ Salada de beterraba ralada 
+➤ *Mexerica *
+➤ Minipão, refresco
+
+*#================Física (Jantar)=================#*
+Fechado
+
 *#================Central (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Carne Assada*
-➤ Opção: Torta de PVT
-➤ *Virado de couve*
-➤ Salada de almeirão
-➤ *Mexerica*
+➤ *Ovos fritos*
+➤ Opção: PVT com milho
+➤ *Legumes mistos*
+➤ Salada de escarola
+➤ `Pudim`
 ➤ Minipão, refresco
