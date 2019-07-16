@@ -2,44 +2,54 @@
 *#================Física (Almoço)=================#*
 O Restaurante da Física ficará fechado no período de 01, 07, 2019 a 31, 07, 2019.
 
-*#================Central (Almoço)================#*
-Fechado
-
-
 *#==============Prefeitura (Almoço)===============#*
-➤ Arroz, feijão, arroz integral  
-➤ *Isca de frango à brasileira*
-➤ Opção: PVT à brasileira 
-➤ *Creme de milho*
-➤ Salada de agrião
-➤ *Mamão*
+➤ Arroz, feijão preto, arroz integral
+➤ *Bife de panela*
+➤ Opção: Omelete de PVT
+➤ `Nhoque com molho de tomate`
+➤ Salada de rúcula
+➤ *Melancia*
 ➤ Minipão, refresco 
 
 *#================Química (Almoço)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Cubos de filé de coxa assado*
-➤ Opção: PVT com tomate 
-➤ *Legumes sauté *
-➤ Salada de acelga
-➤ *Barrinha de biscoito recheada *
+➤ *Iscas de carne à chinesa*
+➤ Opção: Grão-de-bico à indiana
+➤ *Abóbora refogada *
+➤ Salada de alface 
+➤ *Maçã    *
+➤ Minipão, refresco
+
+*#================Central (Almoço)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Frango assado*
+➤ Opção: PVT com vagem
+➤ *Polenta*
+➤ Salada de alface
+➤ *Mexerica*
 ➤ Minipão, refresco
 %
 
 *#================Física (Jantar)=================#*
 Fechado
 
-*#================Central (Jantar)================#*
-Fechado
-
-
 *#==============Prefeitura (Jantar)===============#*
 Fechado
 
 *#================Química (Jantar)================#*
 ➤ Arroz, feijão, arroz integral
-➤ *Bife grelhado ao molho caipira *
-➤ Opção: PVT com abobrinha 
-➤ *Couve-flor ao alho *
-➤ Salada de almeirão   
-➤ *Gelatina  *
+➤ *Hambúrguer ao vinagrete  *
+➤ Opção: PVT com pimentão 
+➤ *Berinjela com salsa*
+➤ Salada de escarola
+➤ *Mamão   *
+➤ Minipão, refresco
+
+*#================Central (Jantar)================#*
+➤ Arroz, feijão, arroz integral
+➤ *Carne assada*
+➤ Opção: PVT com ervilhas
+➤ *Berinjela com coalhada*
+➤ Salada de repolho
+➤ *Maçã*
 ➤ Minipão, refresco
